@@ -606,7 +606,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindNext</text>
+        <text>action Find</text>
       </register>
     </registers>
     <search>
@@ -655,11 +655,11 @@
         <entry>q!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>vsplit</entry>
-        <entry>action Find</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action FindNext</entry>
+        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
