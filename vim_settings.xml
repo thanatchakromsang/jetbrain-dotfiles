@@ -56,7 +56,7 @@
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/goPipeline.groovy" timestamp="1553691636824">
+      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/goPipeline.groovy" timestamp="1553691754250">
         <mark key="'" line="48" column="58" />
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="8" />
@@ -594,7 +594,7 @@
         <text encoding="base64">CnZhcmlhYmxlICJtYWluX3Zwbl9jaWRyIiB7fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -646,8 +646,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>action Find</entry>
-        <entry>q!</entry>
         <entry>action GotoFile</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
