@@ -18,6 +18,9 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="/Python Console" timestamp="1553691727343">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1553569286940">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +111,7 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" timestamp="1553690821321">
+      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" timestamp="1553691643048">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="27" column="18" />
@@ -164,6 +167,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1553691866956">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/moneytable/surepay-operation/terraform/non-production/terraform-nonprod-k8s/main-nonprod/outputs.tf" timestamp="1552981223808">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -175,11 +184,6 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/surepay-operation/kops/kops-create-cluster.sh" timestamp="1553503215433">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/moneytable/surepay-operation/terraform/production/k8s/main/main.tf" timestamp="1552989300505">
         <mark key="[" line="29" column="35" />
@@ -603,7 +607,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -637,7 +641,6 @@
         <entry encoding="base64">XDxmb3JcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>272</entry>
         <entry>293</entry>
         <entry>203</entry>
         <entry>action FindPrevious</entry>
@@ -647,16 +650,17 @@
         <entry>13</entry>
         <entry>2</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FindNext</entry>
         <entry>vsplit</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action Find</entry>
-        <entry>q!</entry>
-        <entry>w</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
