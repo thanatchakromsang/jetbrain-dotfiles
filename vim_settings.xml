@@ -3,8 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" timestamp="1553692077803">
-        <mark key="'" line="22" column="14" />
+      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/categories/views.py" timestamp="1553693654699">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="58" />
+        <mark key="^" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/suggestions/serializer.py" timestamp="1553693505160">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" timestamp="1553692726577">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/suggestions/views.py" timestamp="1553693786725">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="9" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -21,19 +43,40 @@
       <jump line="6" column="13" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" />
       <jump line="3" column="47" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" />
       <jump line="22" column="14" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/app/settings.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/categories/views.py" />
+      <jump line="35" column="23" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/categories/views.py" />
+      <jump line="14" column="19" filename="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/categories/views.py" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmhlbGxvCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmhlbGxvID0gJ3dvdycKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRfdXAoc2VsZik6CiAgICAgICAgc2VsZi5oZWxsbyA9ICd3b3cnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdvcmQgPSBzZXJpYWxpemVycy5DaGFyRmllbGQocmVxdWlyZWQ9RmFsZXNlKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">c2VsZiwg</text>
       </register>
       <register name="/" type="4">
-        <text>kbhc</text>
+        <text>self</text>
       </register>
     </registers>
     <search>
-      <last-search>kbhc</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern>kbhc</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -42,9 +85,15 @@
         <entry>hello</entry>
         <entry>django</entry>
         <entry>kbhc</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>q!</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -53,6 +102,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
