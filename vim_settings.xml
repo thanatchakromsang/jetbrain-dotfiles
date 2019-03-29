@@ -101,11 +101,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1552979895266">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1553835256972">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1552980765107">
         <mark key="'" line="99" column="21" />
@@ -614,7 +614,7 @@
         <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSBkb2NrZXIgYnVpbGQgYW5kIHVzZSBidWlsZFN0YWdlIGluc3RlYWQK</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -666,8 +666,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>vsplit</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
