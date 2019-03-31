@@ -12,11 +12,11 @@
       <file name="/a.dummy" timestamp="1553569286940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" timestamp="1554000246825">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="83" column="87" />
-        <mark key="." line="83" column="87" />
-        <mark key="^" line="83" column="87" />
+      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" timestamp="1554001277449">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1553854800452">
         <mark key="[" line="7" column="4" />
@@ -546,7 +546,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stage</text>
@@ -588,7 +588,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -632,7 +632,6 @@
         <entry>34</entry>
         <entry>35</entry>
         <entry>36</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
@@ -642,6 +641,7 @@
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
