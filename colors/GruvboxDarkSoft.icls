@@ -32,6 +32,7 @@
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="VISUAL_INDENT_GUIDE" value="fbf1c7" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
