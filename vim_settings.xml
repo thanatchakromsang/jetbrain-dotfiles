@@ -13,63 +13,16 @@
       <file name="/a.dummy" timestamp="1554113339203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554113281012">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="34" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554117568052">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" timestamp="1554019772219">
-        <mark key="'" line="85" column="27" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="37" />
-        <mark key="^" line="45" column="37" />
-        <mark key="." line="45" column="37" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1553854800452">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554020481044">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554112934806">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554116590029">
         <mark key="'" line="5" column="26" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554013593820">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="24" column="59" />
-        <mark key="]" line="24" column="72" />
-        <mark key="." line="24" column="72" />
-        <mark key="^" line="24" column="72" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/Slack.groovy" timestamp="1553842612767">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554018213740">
-        <mark key="'" line="24" column="28" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stageBuild.groovy" timestamp="1553842917327">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="7" column="8" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/config/Config" timestamp="1554106782368">
         <mark key="[" line="13" column="27" />
@@ -77,13 +30,10 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554112043210" />
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/goPipeline.groovy" timestamp="1553856762796">
-        <mark key="'" line="166" column="24" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="161" column="114" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="160" column="20" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554115384242">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="81" />
       </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
@@ -91,20 +41,8 @@
       <file name="/Dummy.groovy" timestamp="1552750694012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/Utility.groovy" timestamp="1554016806909">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554111894217">
         <mark key="'" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554019766810">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="57" />
-        <mark key="." line="7" column="57" />
-        <mark key="^" line="7" column="57" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1552621400103">
         <mark key="[" line="0" column="0" />
@@ -122,28 +60,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554018206111">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-      </file>
       <file name="/Dummy.txt" timestamp="1552585757518">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/Build.groovy" timestamp="1554018177968">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/NotifySlack.groovy" timestamp="1553840439528">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/jenkinsConfig/Config" timestamp="1554111411899">
         <mark key="'" line="3" column="21" />
@@ -152,21 +70,14 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/Logger.groovy" timestamp="1554013649025">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
-      </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554011022971">
-        <mark key="'" line="66" column="54" />
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="66" column="38" />
-        <mark key="." line="66" column="38" />
-        <mark key="^" line="66" column="38" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Build.groovy" timestamp="1554115397687">
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="58" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" timestamp="1554109873612" />
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Config" timestamp="1554114715784">
@@ -175,19 +86,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554113405754">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554116636467">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility" timestamp="1554114543797">
         <mark key="'" line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" timestamp="1554099342503">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" timestamp="1554116537278">
         <mark key="'" line="145" column="22" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="42" />
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Utility.groovy" timestamp="1554106636866">
         <mark key="[" line="2" column="0" />
@@ -209,26 +119,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554012258281">
-        <mark key="'" line="2" column="11" />
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="37" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-      </file>
-      <file name="/fragment.java" timestamp="1553854812292">
+      <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/vars/stageBuildAndPushToRegistry.groovy" timestamp="1554009829506">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="20" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
-      <jump line="104" column="4" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="39" column="121" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" />
       <jump line="106" column="24" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
@@ -327,6 +222,8 @@
       <jump line="6" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Config" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Config" />
       <jump line="8" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/slack.groovy" />
+      <jump line="36" column="28" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -579,46 +476,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>much</text>
+        <text>('groovy')</text>
       </register>
       <register name="/" type="4">
         <text>this.jenkinsConfig</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMuYmFzZVVybCA9IHNsYWNrUGx1Z2luLmJhc2VVcmwgCg==</text>
+      <register name="0" type="4">
+        <text>evry@gitlab</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc2NyaXB0LnByb3BlcnRpZXMoWwogICAgICAgICAgICBzY3JpcHQuZ2l0TGFiQ29ubmVjdGlvbihjb25maWcudXRpbGl0eS5naXRsYWJQbHVnaW4uZ2l0bGFiQ29ubmVjdGlvbk5hbWUpCiAgICAgICAgXSkK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogSmVua2lucyBncm9vdnkgbm8gZGVmYXVsdCBjb25zdHJ1Y3RvciBzbyB3ZSBtdXN0IGNyZWF0ZSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygnc2NyaXB0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgVXRpbGl0eSB7CiAgICBHaXRsYWJQbHVnaW4gZ2l0bGFiUGx1Z2luCiAgICBTbGFja1BsdWdpbiBzbGFja1BsdWdpbgogICAgQm9vbGVhbiBkZWJ1ZwoKICAgIFV0aWxpdHkodXRpbGl0eSkgewogICAgICAgIHRoaXMuZ2l0bGFiUGx1Z2luID0gbmV3IEdpdGxhYlBsdWdpbih1dGlsaXR5LmdpdGxhYlBsdWdpbikKICAgICAgICB0aGlzLnNsYWNrUGx1Z2luID0gbmV3IFNsYWNrUGx1Z2luKHV0aWxpdHkuc2xhY2tQbHVnaW4pCiAgICAgICAgdGhpcy5kZWJ1ZyA9IHV0aWxpdHkuZGVidWcgPzogZmFsc2UKICAgIH0KfQoKY2xhc3MgSmVua2luc0NvbmZpZyB7CiAgICBTdHJpbmcgYWdlbnQKCiAgICBKZW5raW5zQ29uZmlnKGplbmtpbnNDb25maWcpIHsKICAgICAgICB0aGlzLmFnZW50ID0gamVua2luc0NvbmZpZy5hZ2VudAogICAgfQp9CgpjbGFzcyBHaXRsYWJQbHVnaW4gewogICAgU3RyaW5nIGdpdGxhYkNvbm5lY3Rpb25OYW1lCgogICAgR2l0bGFiUGx1Z2luKGdpdGxhYlBsdWdpbikgewogICAgICAgIHRoaXMuZ2l0bGFiQ29ubmVjdGlvbk5hbWUgPSBnaXRsYWJQbHVnaW4uZ2l0bGFiQ29ubmVjdGlvbk5hbWUKICAgIH0KfQoKY2xhc3MgU2xhY2tQbHVnaW4gewogICAgU3RyaW5nIGJhc2VVcmwKICAgIFN0cmluZyBjaGFubmVsCiAgICBTdHJpbmcgdGVhbURvbWFpbgogICAgU3RyaW5nIHRva2VuQ3JlZGVudGlhbElkCgogICAgU2xhY2tQbHVnaW4oc2xhY2tQbHVnaW4pIHsKICAgICAgICB0aGlzLmJhc2VVcmwgPSBzbGFja1BsdWdpbi5iYXNlVXJsCiAgICAgICAgdGhpcy5jaGFubmVsID0gc2xhY2tQbHVnaW4uY2hhbm5lbAogICAgICAgIHRoaXMudGVhbURvbWFpbiA9IHNsYWNrUGx1Z2luLnRlYW1Eb21haW4KICAgICAgICB0aGlzLnRva2VuQ3JlZGVudGlhbElkID0gc2xhY2tQbHVnaW4udG9rZW5DcmVkZW50aWFsCiAgICB9Cn0KCmNsYXNzIFJlZ2lzdHJ5IHsKICAgIFN0cmluZyB1cmwKICAgIFN0cmluZyBncm91cAogICAgU3RyaW5nIHByb2plY3QKICAgIFN0cmluZyBzdWJncm91cAogICAgU3RyaW5nIHJlZ2lzdHJ5Q3JlZGVudGlhbAoKICAgIFJlZ2lzdHJ5KHJlZ2lzdHJ5KSB7CiAgICAgICAgdGhpcy51cmwgPSByZWdpc3RyeS51cmwKICAgICAgICB0aGlzLmdyb3VwID0gcmVnaXN0cnkuZ3JvdXAKICAgICAgICB0aGlzLnByb2plY3QgPSByZWdpc3RyeS5wcm9qZWN0CiAgICAgICAgdGhpcy5zdWJncm91cCA9IHJlZ2lzdHJ5LnN1Ymdyb3VwCiAgICAgICAgdGhpcy5yZWdpc3RyeUNyZWRlbnRpYWwgPSByZWdpc3RyeS5yZWdpc3RyeUNyZWRlbnRpYWwKICAgIH0KfQoKY2xhc3MgS3ViZXJuZXRlcyB7CiAgICBMaW5rZWRIYXNoTWFwIGVudmlyb25tZW50VG9Db250ZXh0TWFwcGluZwogICAgTGlua2VkSGFzaE1hcCBlbnZpcm9ubWVudFRvTmFtZXNwYWNlTWFwcGluZwogICAgTGlua2VkSGFzaE1hcCBlbnZpcm9ubWVudFRvSW5ncmVzc0NsYXNzTWFwcGluZwoKICAgIEt1YmVybmV0ZXMoa3ViZXJuZXRlcykgewogICAgICAgIHRoaXMuZW52aXJvbm1lbnRUb0NvbnRleHRNYXBwaW5nID0ga3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmcKICAgICAgICB0aGlzLmVudmlyb25tZW50VG9OYW1lc3BhY2VNYXBwaW5nID0ga3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvTmFtZXNwYWNlTWFwcGluZwogICAgICAgIHRoaXMuZW52aXJvbm1lbnRUb0luZ3Jlc3NDbGFzc01hcHBpbmcgPSBrdWJlcm5ldGVzLmVudmlyb25tZW50VG9JbmdyZXNzQ2xhc3NNYXBwaW5nCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygnc2NyaXB0JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVudmlyb25tZW50VG9JbmdyZXNzQ2xhc3NNYXBwaW5nCiAgICAgICAgdGhpcy5lbnZpcm9ubWVudFRvSW5ncmVzc0NsYXNzTWFwcGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygnZ3Jvb3Z5JykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQucHJvcGVydGllcyhbCiAgICAgICAgICAgICAgICAKICAgICAgICBdKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIENvbmZpZyB7Cg==</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uZmlnIHsKICAgIFN0cmluZyBwcm9qZWN0TmFtZQogICAgVXRpbGl0eSB1dGlsaXR5CiAgICBKZW5raW5zQ29uZmlnIGplbmtpbnNDb25maWcKICAgIFJlZ2lzdHJ5IHJlZ2lzdHJ5CiAgICBMaW5rZWRIYXNoTWFwIGJyYW5jaFRvRW52aXJvbm1lbnRNYXBwaW5nCiAgICBLdWJlcm5ldGVzIGt1YmVybmV0ZXMKICAgIFN0cmluZyBwaXBlbGluZVR5cGUKCiAgICBDb25maWcoY29uZmlnKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0TmFtZSA9IGNvbmZpZy5wcm9qZWN0TmFtZQogICAgICAgIHRoaXMudXRpbGl0eSA9IGNvbmZpZy51dGlsaXR5CiAgICAgICAgdGhpcy5qZW5raW5zQ29uZmlnID0gY29uZmlnLmplbmtpbnNDb25maWcKICAgICAgICB0aGlzLnJlZ2lzdHJ5ID0gY29uZmlnLnJlZ2lzdHJ5CiAgICAgICAgdGhpcy5icmFuY2hUb0Vudmlyb25tZW50TWFwcGluZyA9IGNvbmZpZy5icmFuY2hUb0Vudmlyb25tZW50TWFwcGluZwogICAgICAgIHRoaXMua3ViZXJuZXRlcyA9IGNvbmZpZy5rdWJlcm5ldGVzCiAgICAgICAgdGhpcy5waXBlbGluZVR5cGUgPSBjb25maWcucGlwZWxpbmVUeXBlCiAgICB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQucHJvcGVydGllcyhbCiAgICAgICAgICAgICAgICAKICAgICAgICBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
