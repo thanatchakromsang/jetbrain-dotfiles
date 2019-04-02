@@ -21,12 +21,12 @@
         <mark key="." line="34" column="10" />
         <mark key="^" line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554176497853">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554177400077">
         <mark key="'" line="82" column="26" />
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="66" />
-        <mark key="^" line="26" column="66" />
-        <mark key="." line="26" column="66" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/config/Config" timestamp="1554106782368">
         <mark key="[" line="13" column="27" />
@@ -481,13 +481,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>archive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghY29udGV4dC5rdWJlcm5ldGVzTmFtZXNwYWNlKSB7CiAgICAgICAgICAgICAgICAgICAgVXRpbHMubWFya1N0YWdlU2tpcHBlZEZvckNvbmRpdGlvbmFsKCIke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0iKQogICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGt1YmVjdGwgYXBwbHkgLWYgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbCAtbiAke2NvbnRleHQua3ViZXJuZXRlc05hbWVzcGFjZX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -523,7 +523,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICBjb250ZXh0LmFkZFByZXZpb3VzU3RhZ2Uoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -574,9 +574,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
         <entry>q!</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
