@@ -14,19 +14,19 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554172673260">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554176541636">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554175705527">
-        <mark key="'" line="84" column="26" />
-        <mark key="[" line="41" column="59" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="41" column="58" />
-        <mark key="." line="41" column="58" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554176497853">
+        <mark key="'" line="82" column="26" />
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="66" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/config/Config" timestamp="1554106782368">
         <mark key="[" line="13" column="27" />
@@ -129,7 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="53" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
       <jump line="66" column="54" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" />
       <jump line="66" column="16" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="9" column="10" filename="$USER_HOME$/Developer/Projects/moneytable/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -229,6 +228,7 @@
       <jump line="29" column="23" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="84" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="26" column="4" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,7 +481,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>kubernetesNamespace</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>archive</text>
@@ -496,31 +496,31 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnRpZXMoWwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscy5tYXJrU3RhZ2VTa2lwcGVkRm9yQ29uZGl0aW9uYWwoIiR7c2NyaXB0LmVudi5TVEFHRV9OQU1FfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZW5raW5zY2kucGx1Z2lucy5waXBlbGluZS5tb2RlbGRlZmluaXRpb24uVXRpbHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmFkZFByZXZpb3VzU3RhZ2Uoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50aG91Z2h0d29ya3MueHN0cmVhbS5tYXBwZXIuTWFwcGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb250ZXh0LmFkZFByZXZpb3VzU3RhZ2Uoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3BlcnRpZXMoWwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIF0pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcmlwdC5hcmNoaXZlQXJ0aWZhY3RzIGFydGlmYWN0czogImRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIEdpdGxhYlBsdWdpbiB7CiAgICBTdHJpbmcgZ2l0bGFiQ29ubmVjdGlvbk5hbWUKCiAgICBHaXRsYWJQbHVnaW4oZ2l0bGFiUGx1Z2luKSB7CiAgICAgICAgdGhpcy5naXRsYWJDb25uZWN0aW9uTmFtZSA9IGdpdGxhYlBsdWdpbi5naXRsYWJDb25uZWN0aW9uTmFtZQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmFkZFByZXZpb3VzU3RhZ2Uoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgc2NyaXB0LnByb3BlcnRpZXMoWwogICAgICAgICAgICBzY3JpcHQuZ2l0TGFiQ29ubmVjdGlvbihjb25maWcudXRpbGl0eS5naXRsYWJQbHVnaW4uZ2l0bGFiQ29ubmVjdGlvbk5hbWUpCiAgICAgICAgXSkK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb250ZXh0LmFkZFByZXZpb3VzU3RhZ2Uoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
