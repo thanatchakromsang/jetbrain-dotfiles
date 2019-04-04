@@ -29,6 +29,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/router.go" timestamp="1554381220245">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554199452171">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="0" />
@@ -100,6 +106,12 @@
       <file name="/Dummy.txt" timestamp="1554372927785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/go.mod" timestamp="1554380923990">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -109,12 +121,12 @@
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554376253159">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554381112288">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Build.groovy" timestamp="1554203691760">
         <mark key="'" line="8" column="0" />
@@ -129,6 +141,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="81" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554385119025">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="/fragment.go" timestamp="1554376052789">
         <mark key="[" line="0" column="0" />
@@ -175,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="34" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="167" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
       <jump line="15" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="29" column="23" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="84" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
@@ -275,6 +291,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
       <jump line="15" column="6" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
+      <jump line="30" column="16" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -527,49 +545,49 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>env</text>
+        <text>Handler</text>
       </register>
       <register name="/" type="4">
         <text>ctex</text>
       </register>
-      <register name="0" type="4">
-        <text>context.util.info</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL2xhYnN0YWNrL2VjaG8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbCgiRXJyb3IgbG9hZGluZyAuZW52IGZpbGUiKQoJfQo=</text>
+        <text encoding="base64">CXUgOj0gJm1vZGVsLlVzZXJ7SUQ6IGJzb24uTmV3T2JqZWN0SWQoKX0K</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UE9SVD04MDAwCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2xhYnN0YWNrL2VjaG94L2Nvb2tib29rL3R3aXR0ZXIvbW9kZWwiCgkiZ29wa2cuaW4vbWdvLnYyIgoJImdvcGtnLmluL21nby52Mi9ic29uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWttaXRsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
+        <text encoding="base64">CSJnaXRsYWIuY29tLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRsYWIuY29tL2V2cnkvZXNjcm93LWFwcC1wYXktc2VydmVyL3JvdXRlcyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="8" type="4">
+        <text>''</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
+      <register name="9" type="4">
+        <text>MIDDLEWARE_PRIVATEKEY</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -620,9 +638,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>action QuickImplementations</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>q!</entry>
         <entry>w</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
