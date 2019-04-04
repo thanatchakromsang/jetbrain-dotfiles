@@ -17,11 +17,17 @@
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554371518707">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="23" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554375790237">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554199452171">
         <mark key="'" line="0" column="0" />
@@ -103,12 +109,12 @@
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554373768752">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554376253159">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
-        <mark key="^" line="12" column="0" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Build.groovy" timestamp="1554203691760">
         <mark key="'" line="8" column="0" />
@@ -123,6 +129,9 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="81" column="15" />
+      </file>
+      <file name="/fragment.go" timestamp="1554376052789">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Config" timestamp="1554114715784">
         <mark key="'" line="0" column="0" />
@@ -518,7 +527,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text>ctex</text>
@@ -527,37 +536,37 @@
         <text>context.util.info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbCgiRXJyb3IgbG9hZGluZyAuZW52IGZpbGUiKQoJfQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UE9SVD04MDAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>PORT</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
