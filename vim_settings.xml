@@ -569,7 +569,7 @@
         <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -619,10 +619,10 @@
         <entry>q</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
