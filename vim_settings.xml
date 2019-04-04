@@ -8,7 +8,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554189626649">
+      <file name="/a.dummy" timestamp="1554371164874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554203662982">
@@ -16,6 +16,12 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554371518707">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554199452171">
         <mark key="'" line="0" column="0" />
@@ -85,7 +91,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552585757518">
+      <file name="/Dummy.txt" timestamp="1554372927785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
@@ -96,6 +102,13 @@
       </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554373768752">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Build.groovy" timestamp="1554203691760">
         <mark key="'" line="8" column="0" />
@@ -153,9 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
-      <jump line="51" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="24" column="32" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="48" column="34" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="167" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
       <jump line="15" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
@@ -253,14 +263,17 @@
       <jump line="11" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
       <jump line="124" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
+      <jump line="12" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
+      <jump line="15" column="6" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;{ '  println(&quot;Hello, World!&quot;)
+        <text>''&quot;&quot;{ '  println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
-' }&quot;</text>
+' }&quot;&quot;''</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -505,7 +518,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>ctex</text>
@@ -514,7 +527,7 @@
         <text>context.util.info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyhzbGFja0NvbmZpZy5iYXNlVXJsKQogICAgICAgIGNvbnRleHQudXRpbC5pbmZvKHNsYWNrQ29uZmlnLnRva2VuQ3JlZGVudGlhbElkKQogICAgICAgIGNvbnRleHQudXRpbC5pbmZvKHNsYWNrQ29uZmlnLnRlYW1Eb21haW4pCiAgICAgICAgY29udGV4dC51dGlsLmluZm8oc2xhY2tDb25maWcuY2hhbm5lbCkKCg==</text>
+        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
@@ -523,19 +536,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvKHNsYWNrQ29uZmlnLmJhc2VVcmwpCiAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvKHNsYWNrQ29uZmlnLnRva2VuQ3JlZGVudGlhbElkKQogICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyhzbGFja0NvbmZpZy50ZWFtRG9tYWluKQogICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyhzbGFja0NvbmZpZy5jaGFubmVsKQo=</text>
+        <text encoding="base64">CWdvZG90ZW52LkxvYWQoKQo=</text>
       </register>
-      <register name="5" type="8">
-        <text>script.echo
-script.echo
-script.echo
-script.echo</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHcK</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2pvaG8vZ29kb3RlbnYiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -543,14 +553,14 @@ script.echo</text>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRHaXRCcmFuY2goKQo=</text>
+      <register name="8" type="4">
+        <text>''</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFNsYWNrTm90aWZ5IHNsYWNrCg==</text>
+      <register name="9" type="4">
+        <text>PORT</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -584,26 +594,26 @@ script.echo</text>
         <entry>ctex</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>24</entry>
         <entry>5</entry>
         <entry>13</entry>
         <entry>w\</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>20</entry>
         <entry>57</entry>
         <entry>54</entry>
-        <entry>action QuickImplementations</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>34</entry>
         <entry>27</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
-        <entry>q!</entry>
+        <entry>q</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action QuickImplementations</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>q!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
