@@ -544,7 +544,7 @@ script.echo</text>
         <text encoding="base64">ICAgIFNsYWNrTm90aWZ5IHNsYWNrCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -583,7 +583,6 @@ script.echo</text>
         <entry>24</entry>
         <entry>5</entry>
         <entry>13</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>w\</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -596,8 +595,9 @@ script.echo</text>
         <entry>27</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>q!</entry>
         <entry>w</entry>
+        <entry>q!</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
