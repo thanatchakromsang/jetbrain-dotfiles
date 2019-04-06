@@ -141,7 +141,7 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="81" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554405514484">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554539577708">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
@@ -586,7 +586,7 @@
       <last-offset />
       <last-pattern>ctex</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
