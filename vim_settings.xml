@@ -23,12 +23,12 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554520989204">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554521927171">
         <mark key="'" line="159" column="12" />
-        <mark key="[" line="351" column="9" />
-        <mark key="]" line="352" column="18" />
-        <mark key="." line="352" column="18" />
-        <mark key="^" line="352" column="18" />
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+        <mark key="^" line="303" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554520132277">
         <mark key="'" line="82" column="23" />
@@ -107,40 +107,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>slackConfig</text>
+        <text>retrieveGitCommit()</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBncm9vdnkuanNvbi5Kc29uT3V0cHV0LnByZXR0eVByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NyaXB0LnNoKAogICAgICAgICAgICByZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ2dpdCByZXYtcGFyc2UgSEVBRCcKICAgICAgICApLnRyaW0oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBjb25maWcua3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmdbZW52aXJvbm1lbnRdCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXQgbmFtZS1yZXYgLS1uYW1lLW9ubHkgLS10YWdzIEhFQUQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcCBjb25maWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBpcGVsaW5lQ29uZmlnIGNvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAud293LmNvbnRhaW5zKCkK</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBjb25maWcua3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmdbZW52aXJvbm1lbnRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0IHByZXZpb3VzU3RhZ2UgPSBbXQogICAgICAgIHByZXZpb3VzU3RhZ2UuYWRkKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
+        <text encoding="base64">ICAgIE1hcCBjb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwucHJldmlvdXNTdGFnZS5hZGQoc2NyaXB0LmVudi5TVEFHRV9OQU1FKQo=</text>
+        <text encoding="base64">ICAgIFBpcGVsaW5lQ29uZmlnIGNvbmZpZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwucHJldmlvdXNTdGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAud293LmNvbnRhaW5zKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0IHByZXZpb3VzU3RhZ2UgPSBbXQogICAgICAgIHByZXZpb3VzU3RhZ2UuYWRkKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
