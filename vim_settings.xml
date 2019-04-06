@@ -2,14 +2,69 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" timestamp="1554517161289">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1554516282894">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" />
+      <jump line="17" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">TWFwIG1hcCA9IFt3b3c6ICJoZWxsbyJdCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bWFwLmdldCgiIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGdyb292eS5qc29uLkpzb25PdXRwdXQKCmludGVyZmFjZSBNYXQgZXh0ZW5kcyBNYXAgewogICAgU3RyaW5nIGEKfQoKTWF0IG9iaiA9IFs6XSAvL2RlZmluZSBtYXAKb2JqLmJhdHNtZW4gPSBbXSAvL2RlZmluZSBhcnJheQpkZWYgYiA9IFs6XQpiLm5hbWU9ICJWLiBLb2hsaSIKYi5zY29yZSA9IDU1CmIuc3RyaWtlID0gZmFsc2UKCm9iai5iYXRzbWVuLnB1c2goYikKCi8vcHVzaCBzZWNvbmQgb2JqZWN0Cm9iai5iYXRzbWVuLnB1c2goYikKcHJpbnRsbiBKc29uT3V0cHV0LnRvSnNvbihvYmopCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">b2JqLmJhdG1hbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgQSB7CiAgICBCIGIKICAgIEMgYwoKICAgIEEoY29uZmlnKSB7CiAgICAgICAgdGhpcy5iID0gY29uZmlnLmIKICAgICAgICB0aGlzLmMgPSBjb25maWcuYwogICAgfQp9CgppbnRlcmZhY2UgRCB7CiAgICBTdHJpbmcgSGVsbG8KICAgIFN0cmluZyBXb3JsZAp9CgpjbGFzcyBCIGltcGxlbWVudHMgRCB7Ci8vICAgIFN0cmluZyBIZWxsbwovLyAgICBTdHJpbmcgV29ybGQKfQoKaW50ZXJmYWNlIEMgewogICAgU3RyaW5nIHdvdwp9CgpBIGluaXQgPSBuZXcgQSgpCgppbml0LmIuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuY29sbGVjdGlvbnMuT2JqZWN0cwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;wow&quot;)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>q!</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
