@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554796806568">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554798849504">
+        <mark key="[" line="32" column="60" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" timestamp="1554517574520">
         <mark key="[" line="0" column="0" />
@@ -28,14 +29,19 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554525142095">
-        <mark key="'" line="288" column="24" />
-        <mark key="[" line="271" column="41" />
-        <mark key="]" line="271" column="76" />
-        <mark key="." line="304" column="0" />
-        <mark key="^" line="303" column="18" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554799529038">
+        <mark key="'" line="292" column="24" />
+        <mark key="[" line="174" column="39" />
+        <mark key="]" line="174" column="39" />
+        <mark key="." line="174" column="39" />
+        <mark key="^" line="174" column="46" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554797579251" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554799236029">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" timestamp="1554797718861">
         <mark key="'" line="81" column="23" />
         <mark key="[" line="6" column="0" />
@@ -46,10 +52,12 @@
       <file name="/fragment.java" timestamp="1554516282894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554785823983">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554799668151">
         <mark key="'" line="42" column="118" />
-        <mark key="[" line="41" column="72" />
-        <mark key="]" line="41" column="156" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" timestamp="1554517845540">
         <mark key="[" line="0" column="0" />
@@ -122,43 +130,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#FFAA00</text>
+        <text encoding="base64">ID86IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmVudmlyb25tZW50ID09ICdzdGcnKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhZ2VEZXBsb3koY29udGV4dCwgJ3Byb2QnKQogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNWRVJTSU9OIy8ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFNsYWNrIGhvb2sgd2l0aG91dCBwbHVnaW4gc2xhY2tTZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmVudmlyb25tZW50ID09ICdzdGcnKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhZ2VEZXBsb3koY29udGV4dCwgW2RlcGxveTogJ3Byb2QnXSkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNTVUJHUk9VUCMvJHtjb250ZXh0LnByb2plY3ROYW1lfToke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNSRUdJU1RSWSMvJHtjb250ZXh0LnByb2plY3ROYW1lfToke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgbmFtZS1yZXYgLS1uYW1lLW9ubHkgLS10YWdzIEhFQUQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFNsYWNrIGhvb2sgd2l0aG91dCBwbHVnaW4gc2xhY2tTZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmVudmlyb25tZW50ID09ICdzdGcnKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhZ2VEZXBsb3koY29udGV4dCwgW2RlcGxveTogJ3Byb2QnXSkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBjb25maWcua3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmdbZW52aXJvbm1lbnRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hcCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICBnaXQgbmFtZS1yZXYgLS1uYW1lLW9ubHkgLS10YWdzIEhFQUQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBpcGVsaW5lQ29uZmlnIGNvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -181,8 +189,8 @@
         <entry>q!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>w</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
