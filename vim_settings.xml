@@ -23,8 +23,8 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554523269919">
-        <mark key="'" line="382" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1554525142095">
+        <mark key="'" line="288" column="24" />
         <mark key="[" line="271" column="41" />
         <mark key="]" line="271" column="76" />
         <mark key="." line="304" column="0" />
@@ -39,6 +39,11 @@
       </file>
       <file name="/fragment.java" timestamp="1554516282894">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554785823983">
+        <mark key="'" line="42" column="118" />
+        <mark key="[" line="41" column="72" />
+        <mark key="]" line="41" column="156" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" timestamp="1554517845540">
         <mark key="[" line="0" column="0" />
@@ -105,16 +110,19 @@
       <jump line="6" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
       <jump line="158" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="382" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="288" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="41" column="133" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="42" column="118" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>retrieveGitCommit()</text>
       </register>
       <register name="/" type="4">
-        <text>determineTag</text>
+        <text>context</text>
       </register>
       <register name="0" type="4">
-        <text>git name-rev --name-only --tags HEAD</text>
+        <text>deployment-${context.projectName}-${context.gitBranchName}-${context.tagVersion}.yaml</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -144,13 +152,13 @@
         <text encoding="base64">ICAgICAgICBMaXN0IHByZXZpb3VzU3RhZ2UgPSBbXQogICAgICAgIHByZXZpb3VzU3RhZ2UuYWRkKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>determineTag</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>determineTag</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -160,12 +168,16 @@
         <entry>ctx</entry>
         <entry>config</entry>
         <entry>determineTag</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -176,6 +188,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
