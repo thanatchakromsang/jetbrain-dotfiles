@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554796806568">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" timestamp="1554517574520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -116,43 +121,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>retrieveGitCommit()</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="0" type="4">
-        <text>deployment-${context.projectName}-${context.gitBranchName}-${context.tagVersion}.yaml</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmVudmlyb25tZW50ID09ICdzdGcnKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhZ2VEZXBsb3koY29udGV4dCwgJ3Byb2QnKQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0LmVudmlyb25tZW50ID09ICdzdGcnKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhZ2VEZXBsb3koY29udGV4dCwgW2RlcGxveTogJ3Byb2QnXSkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgbmFtZS1yZXYgLS1uYW1lLW9ubHkgLS10YWdzIEhFQUQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnaXQgbmFtZS1yZXYgLS1uYW1lLW9ubHkgLS10YWdzIEhFQUQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBjb25maWcua3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmdbZW52aXJvbm1lbnRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hcCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBjb25maWcua3ViZXJuZXRlcy5lbnZpcm9ubWVudFRvQ29udGV4dE1hcHBpbmdbZW52aXJvbm1lbnRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBpcGVsaW5lQ29uZmlnIGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgIE1hcCBjb25maWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAud293LmNvbnRhaW5zKCkK</text>
+        <text encoding="base64">ICAgIFBpcGVsaW5lQ29uZmlnIGNvbmZpZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0IHByZXZpb3VzU3RhZ2UgPSBbXQogICAgICAgIHByZXZpb3VzU3RhZ2UuYWRkKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICBtYXAud293LmNvbnRhaW5zKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -173,8 +178,9 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
