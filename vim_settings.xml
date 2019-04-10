@@ -195,6 +195,7 @@
       <jump line="18" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/k8s/common/main.tf" />
       <jump line="7" column="7" filename="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/k8s/common/main.tf" />
       <jump line="425" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/k8s/common/main.tf" />
+      <jump line="18" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/k8s/common/s3.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,6 +298,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
