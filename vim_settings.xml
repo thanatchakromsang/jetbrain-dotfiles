@@ -11,7 +11,7 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554954683950">
+      <file name="/a.dummy" timestamp="1554969587246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554203662982">
@@ -65,8 +65,19 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/serializer.py" timestamp="1554969406320">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="58" />
+      </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/serializers.py" timestamp="1554969842767">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="71" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1552750694012">
         <mark key="[" line="0" column="0" />
@@ -124,6 +135,17 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/serializers.py" timestamp="1554969828450">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend_django/backend_django/settings.py" timestamp="1554967920469">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
@@ -138,10 +160,6 @@
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="22" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/echo.go" timestamp="1554767700926">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="100" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/setting.go" timestamp="1554958248059">
         <mark key="'" line="123" column="11" />
@@ -185,6 +203,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/views.py" timestamp="1554969727559">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554202449116">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="51" />
@@ -196,6 +220,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1554969863960">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/model/user.go" timestamp="1554779552271">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="19" column="61" />
@@ -203,11 +233,21 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/urls.py" timestamp="1554969924211">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="53" column="15" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1554969991471">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
@@ -566,46 +606,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>k[&quot;json&quot;][&quot;wow&quot;]</text>
+        <text>authentication</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJlc3AsIGVyciA6PSByZXEuUG9zdCgiaHR0cDovL2h0dHBiaW4ub3JnL3Bvc3QiLAoJCSZyZXEuUmVxdWVzdE9wdGlvbnN7SlNPTjogdX0pCgoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuCgl9CgoJayA6PSBuZXcobW9kZWwuVXNlcikKCWVyciA9IHJlc3AuSlNPTigmaykK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMKCgpjbGFzcyBTaWdudXBTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXIpOgogICAgaWQgPSBzZXJpYWxpemVycy5GaWVsZChyZXF1aXJlZD1UcnVlKQogICAgZW1haWwgPSBzZXJpYWxpemVycy5FbWFpbEZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQogICAgcGFzc3dvcmQgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoYWxsb3dfYmxhbms9RmFsc2UsIHJlcXVpcmVkPVRydWUpCiAgICBuYW1lID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQogICAgc3VybmFtZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIGZhY3VsdHkgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoYWxsb3dfYmxhbms9RmFsc2UsIHJlcXVpcmVkPVRydWUpCiAgICBtYWpvciA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXJfdHlwZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0IAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGZyb20gYWNjb3VudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">ZnJvbSBhdXRoZW50aWNhdGlvbi5zZXJpYWxpemVycyBpbXBvcnQgU2lnbnVwCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KCZtb2RlbCkK</text>
+        <text encoding="base64">CiMgZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -616,7 +656,7 @@
       <last-offset />
       <last-pattern>url</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -642,7 +682,6 @@
         <entry>url</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>20</entry>
         <entry>57</entry>
         <entry>54</entry>
@@ -650,17 +689,18 @@
         <entry>27</entry>
         <entry>W</entry>
         <entry>w\</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>split</entry>
         <entry>q</entry>
         <entry>vsplit</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action GotoFile</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry encoding="base64">JzwsJz5zbG9ydA==</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>q!</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
