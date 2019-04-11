@@ -57,6 +57,11 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1554954899600">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/groovy-test/src/Hello.groovy" timestamp="1554517574520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -249,7 +254,7 @@
       <last-offset />
       <last-pattern>environ</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
