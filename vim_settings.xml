@@ -21,17 +21,16 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/route.go" timestamp="1554405518023">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/route.go" timestamp="1554955802405">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554397528627">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554955631600">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/router.go" timestamp="1554381220245">
         <mark key="[" line="7" column="0" />
@@ -121,7 +120,6 @@
         <mark key="." line="30" column="88" />
         <mark key="^" line="30" column="88" />
       </file>
-      <file name="/usr/lib/go/src/net/http/client.go" timestamp="1554954556160" />
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/echo.go" timestamp="1554767700926">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="100" column="3" />
@@ -140,12 +138,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="81" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554954545933">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554955692731">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="26" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/fragment.go" timestamp="1554404386470">
         <mark key="[" line="0" column="0" />
@@ -183,6 +180,12 @@
       </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/goland64.vmoptions" timestamp="1554954824645">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -538,7 +541,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>tahnoi</text>
+        <text>fmt.Sprintf(&quot;%s! Welcome.&quot;, name)</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
@@ -547,40 +550,40 @@
         <text encoding="base64">CQlVc2VyVHlwZSBzdHJpbmcgICAgICAgIGBqc29uOiJ1c2VyVHlwZSIgYnNvbjoiLSIgZXhhbXBsZToidGVhY2hlciwgc3R1ZGVudCJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgKAoJYXBpVXJsID0gb3MuR2V0ZW52KCkKKQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xpZW50IDo9IAo=</text>
+        <text encoding="base64">CWFwaVVybCA6PSBvcy5HZXRlbnYoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWh0dHAK</text>
+        <text encoding="base64">Y2xpZW50IDo9IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlJRCAgICAgICBpbnRlcmZhY2UgYGpzb246ImlkIiBic29uOiJfaWQsb21pdGVtcHR5ImAKCQlFbWFpbCAgICBzdHJpbmcgICAgICAgIGBqc29uOiJlbWFpbCIgYnNvbjoiZW1haWwiYAoJCVBhc3N3b3JkIHN0cmluZyAgICAgICAgYGpzb246InBhc3N3b3JkLG9taXRlbXB0eSIgYnNvbjoicGFzc3dvcmQiYAoJCVRva2VuICAgIHN0cmluZyAgICAgICAgYGpzb246InRva2VuLG9taXRlbXB0eSIgYnNvbjoiLSJg</text>
+      <register name="8" type="2">
+        <text encoding="base64">CWh0dHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCAoCgkiZ29wa2cuaW4vbWdvLnYyL2Jzb24iCikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -629,11 +632,11 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action QuickImplementations</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>q!</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
