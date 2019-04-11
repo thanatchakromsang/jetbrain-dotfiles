@@ -11,20 +11,14 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/urls.py" timestamp="1554970177912">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+      </file>
       <file name="/a.dummy" timestamp="1554969587246">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554203662982">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/route.go" timestamp="1554960658175">
         <mark key="'" line="6" column="14" />
@@ -33,79 +27,10 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554955631600">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/router.go" timestamp="1554381220245">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554190747836">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="27" column="27" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554194429133">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/serializer.py" timestamp="1554969406320">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="58" />
-      </file>
-      <file name="/sbtShell" timestamp="1552466860578">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/serializers.py" timestamp="1554969842767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="71" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1552750694012">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1554966030638">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1554194458432">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/req.go" timestamp="1554957817624">
-        <mark key="'" line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554201895542">
-        <mark key="'" line="2" column="18" />
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1552621400103">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.vm" timestamp="1553691442851">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" timestamp="1554203425302">
         <mark key="'" line="21" column="24" />
@@ -113,27 +38,6 @@
         <mark key="]" line="55" column="61" />
         <mark key="." line="55" column="61" />
         <mark key="^" line="55" column="61" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554405200852">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/go.mod" timestamp="1554380923990">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/Labs/golang/basic_http_client.go" timestamp="1554956947411">
-        <mark key="[" line="10" column="57" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/serializers.py" timestamp="1554969828450">
         <mark key="[" line="0" column="0" />
@@ -145,14 +49,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
-        <mark key="[" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/util/handler.go" timestamp="1554740591398">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" timestamp="1554960661681">
         <mark key="'" line="33" column="12" />
@@ -191,17 +87,74 @@
       <file name="/fragment.go" timestamp="1554962295001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1554738005817">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/serializers.py" timestamp="1554970265620">
+        <mark key="'" line="347" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/goland64.vmoptions" timestamp="1554954824645">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/urls.py" timestamp="1554970114324">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1554970359753">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554190747836">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554194429133">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/serializer.py" timestamp="1554969406320">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="58" />
+      </file>
+      <file name="/sbtShell" timestamp="1552466860578">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1552750694012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1554966030638">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/req.go" timestamp="1554957817624">
+        <mark key="'" line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1554201895542">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1552621400103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1553691442851">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554405200852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
+        <mark key="[" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/util/handler.go" timestamp="1554740591398">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/authentication/views.py" timestamp="1554969727559">
         <mark key="[" line="3" column="5" />
@@ -209,22 +162,15 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554202449116">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/util/util.go" timestamp="1554961041772">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1554969863960">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="12" />
-        <mark key="^" line="42" column="12" />
-        <mark key="." line="42" column="12" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1554970079468">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/model/user.go" timestamp="1554779552271">
         <mark key="'" line="4" column="25" />
@@ -233,28 +179,11 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/urls.py" timestamp="1554969924211">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="53" column="15" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1554969991471">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="30" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="193" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="126" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="138" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -354,6 +283,7 @@
       <jump line="68" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="74" column="9" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="72" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
+      <jump line="347" column="6" filename="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -606,61 +536,60 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>authentication</text>
+        <text>trained_data</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>many</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMKCgpjbGFzcyBTaWdudXBTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXIpOgogICAgaWQgPSBzZXJpYWxpemVycy5GaWVsZChyZXF1aXJlZD1UcnVlKQogICAgZW1haWwgPSBzZXJpYWxpemVycy5FbWFpbEZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQogICAgcGFzc3dvcmQgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoYWxsb3dfYmxhbms9RmFsc2UsIHJlcXVpcmVkPVRydWUpCiAgICBuYW1lID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQogICAgc3VybmFtZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIGZhY3VsdHkgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoYWxsb3dfYmxhbms9RmFsc2UsIHJlcXVpcmVkPVRydWUpCiAgICBtYWpvciA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXJfdHlwZSA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChhbGxvd19ibGFuaz1GYWxzZSwgcmVxdWlyZWQ9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgIEBzdGEK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbmVkX2RhdGEgPSBzZWxmLmNhdGVnb3JpemUoaXRlbXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbmVkX2RhdGEgPSBzZWxmLmNhdGVnb3JpemUoaXRlbXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuc2V0dGluZ3MgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbmVkX2RhdGEgPSBzZWxmLmNhdGVnb3JpemUoaXRlbXMpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGZyb20gYWNjb3VudAo=</text>
+        <text encoding="base64">CiMgRGF0YWJhc2UKIyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMi4yL3JlZi9zZXR0aW5ncy8jZGF0YWJhc2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhdXRoZW50aWNhdGlvbi5zZXJpYWxpemVycyBpbXBvcnQgU2lnbnVwCg==</text>
+        <text encoding="base64">REFUQUJBU0VTID0gewogICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgJ0VOR0lORSc6ICdkamFuZ28uZGIuYmFja2VuZHMuc3FsaXRlMycsCiAgICAgICAgJ05BTUUnOiBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdkYi5zcWxpdGUzJyksCiAgICB9Cn0KCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMgZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>many</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>many</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ctx.buildUrl</entry>
         <entry>buildUrl</entry>
         <entry>jobName</entry>
         <entry>getBuild</entry>
@@ -680,6 +609,7 @@
         <entry>err</entry>
         <entry>echo</entry>
         <entry>url</entry>
+        <entry>many</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -699,9 +629,9 @@
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>q!</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
