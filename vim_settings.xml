@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1554366319909">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/bullish-bill/backend/service-app/app/categories/urls.py" timestamp="1554366128338" />
     </filemarks>
     <jumps />
