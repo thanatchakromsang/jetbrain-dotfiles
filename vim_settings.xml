@@ -124,6 +124,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend_django/backend_django/settings.py" timestamp="1554967920469">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
@@ -566,7 +571,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>k[&quot;json&quot;][&quot;wow&quot;]</text>
+        <text>django.extensions</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -575,37 +580,37 @@
         <text encoding="base64">CXJlc3AsIGVyciA6PSByZXEuUG9zdCgiaHR0cDovL2h0dHBiaW4ub3JnL3Bvc3QiLAoJCSZyZXEuUmVxdWVzdE9wdGlvbnN7SlNPTjogdX0pCgoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuCgl9CgoJayA6PSBuZXcobW9kZWwuVXNlcikKCWVyciA9IHJlc3AuSlNPTigmaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICdkamFuZ28nLAo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
+        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KCZtb2RlbCkK</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ActivateTerminalToolWindow</text>
