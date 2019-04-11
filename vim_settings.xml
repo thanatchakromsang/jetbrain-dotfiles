@@ -124,11 +124,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend_django/backend_django/settings.py" timestamp="1554967920469">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
       </file>
@@ -200,12 +195,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1554968072377">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/model/user.go" timestamp="1554779552271">
         <mark key="'" line="4" column="25" />
@@ -577,7 +566,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>django.extensions</text>
+        <text>k[&quot;json&quot;][&quot;wow&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -586,37 +575,37 @@
         <text encoding="base64">CXJlc3AsIGVyciA6PSByZXEuUG9zdCgiaHR0cDovL2h0dHBiaW4ub3JnL3Bvc3QiLAoJCSZyZXEuUmVxdWVzdE9wdGlvbnN7SlNPTjogdX0pCgoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuCgl9CgoJayA6PSBuZXcobW9kZWwuVXNlcikKCWVyciA9IHJlc3AuSlNPTigmaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdkamFuZ28nLAo=</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
+        <text encoding="base64">CWsgOj0gbmV3KCZtb2RlbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -669,9 +658,9 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q!</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
