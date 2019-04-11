@@ -99,6 +99,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/Labs/golang/basic_http_client.go" timestamp="1554956947411">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -541,7 +547,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>fmt.Sprintf(&quot;%s! Welcome.&quot;, name)</text>
+        <text>http://localhost:9000/hello</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
@@ -550,40 +556,40 @@
         <text encoding="base64">CQlVc2VyVHlwZSBzdHJpbmcgICAgICAgIGBqc29uOiJ1c2VyVHlwZSIgYnNvbjoiLSIgZXhhbXBsZToidGVhY2hlciwgc3R1ZGVudCJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgKAoJYXBpVXJsID0gb3MuR2V0ZW52KCkKKQo=</text>
+        <text encoding="base64">CXJlc3AuQm9keS5DbG9zZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWFwaVVybCA6PSBvcy5HZXRlbnYoIiIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludChlcnIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
+        <text encoding="base64">CWZtdC5QcmludChyZXNwLkJvZHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlc3AgOj0gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xpZW50IDo9IAo=</text>
+      <register name="5" type="4">
+        <text>''</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>localhost:9000/apsc</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Y29uc3QgKAoJYXBpVXJsID0gb3MuR2V0ZW52KCkKKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWh0dHAK</text>
+        <text encoding="base64">CWFwaVVybCA6PSBvcy5HZXRlbnYoIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -591,7 +597,7 @@
       <last-offset />
       <last-pattern>echo</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -633,10 +639,10 @@
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action QuickImplementations</entry>
-        <entry>q!</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>q!</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
