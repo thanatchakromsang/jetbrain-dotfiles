@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/views.py" timestamp="1554971645518">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1555150590820">
+      <file name="/Python Console" timestamp="1555151374344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554981361291">
@@ -105,12 +105,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1555150571059">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1555151368580">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="29" />
-        <mark key="]" line="122" column="37" />
-        <mark key="." line="122" column="37" />
-        <mark key="^" line="122" column="37" />
+        <mark key="[" line="84" column="49" />
+        <mark key="]" line="84" column="49" />
+        <mark key="." line="84" column="49" />
+        <mark key="^" line="84" column="64" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/serializers.py" timestamp="1554970265620">
         <mark key="'" line="347" column="6" />
@@ -485,7 +485,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>http://</text>
       </register>
       <register name="/" type="4">
         <text>APIView</text>
@@ -527,7 +527,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -575,12 +575,12 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
