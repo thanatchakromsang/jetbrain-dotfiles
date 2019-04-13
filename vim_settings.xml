@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/views.py" timestamp="1554971645518">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1554981300989">
+      <file name="/Python Console" timestamp="1555150590820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1554981361291">
@@ -105,12 +105,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1554980050644">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1555150571059">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="122" column="43" />
-        <mark key="]" line="122" column="43" />
-        <mark key="." line="122" column="43" />
-        <mark key="^" line="122" column="43" />
+        <mark key="[" line="122" column="29" />
+        <mark key="]" line="122" column="37" />
+        <mark key="." line="122" column="37" />
+        <mark key="^" line="122" column="37" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/serializers.py" timestamp="1554970265620">
         <mark key="'" line="347" column="6" />
@@ -485,7 +485,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>APIView</text>
