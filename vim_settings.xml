@@ -221,12 +221,11 @@
         <mark key="^" line="53" column="15" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555251937361">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555252858770">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
@@ -594,37 +593,37 @@
         <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBMb2dpblNlcmlhbGl6ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Rfc2VyaWFsaXplcjogU2lnbnVwU2VyaWFsaXplcgogICAgcmVzcG9uc2Vfc2VyaWFsaXplcjogVG9rZW5TZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgU2lnbnVwIGFjY291bnQgYmFzZWQgb24gYWNjb3VudCB0eXBlCiAgICAtLS0KICAgIHJlc3BvbnNlX3NlcmlhbGl6ZXI6IFRva2VuU2VyaWFsaXplcgogICAgcGFyYW1ldGVyczoKICAgICAgICAtIG5hbWU6IGJvZHkKICAgICAgICAgIHB5dHlwZTogQ2lnYXJTZXJpYWxpemVyTWluaW1hbAogICAgICAgICAgcGFyYW1UeXBlOiBib2R5CiAgICAiIiIK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgQHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rfc2VyaWFsaXplcjogU2lnbnVwU2VyaWFsaXplcgogICAgcmVzcG9uc2Vfc2VyaWFsaXplcjogVG9rZW5TZXJpYWxpemVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgQHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChwZXJtaXNzaW9ucy5BbGxvd0FueSwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBTaWdudXBTZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChwZXJtaXNzaW9ucy5BbGxvd0FueSwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgc2VyaWFsaXplcl9jbGFzcyA9IFNpZ251cFNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">ICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBTaWdudXBTZXJpYWxpemVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgcG9zdDogY3JlYXRlIGFjY291bnQgYmFzZWQgb24gdXNlciB0eXBlCiAgICAiIiIK</text>
+        <text encoding="base64">ICAgICIiIgogICAgc2VyaWFsaXplcl9jbGFzcyA9IFNpZ251cFNlcmlhbGl6ZXIK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgcG9zdDogY3JlYXRlIGFjY291bnQgYmFzZWQgb24gdXNlciB0eXBlCiAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKGFsbG93X2JsYW5rPUZhbHNlLCByZXF1aXJlZD1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
