@@ -17,7 +17,10 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="/a.dummy" timestamp="1555155216245">
+      <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework_jwt/authentication.py" timestamp="1555204499591">
+        <mark key="'" line="87" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1555205281765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/serializers.py" timestamp="1555179703752">
@@ -48,12 +51,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" timestamp="1554965406543">
-        <mark key="'" line="69" column="26" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="/fragment.go" timestamp="1554962295001">
         <mark key="[" line="0" column="0" />
@@ -91,17 +88,17 @@
         <mark key="." line="24" column="8" />
         <mark key="^" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555204201579">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555205576890">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-        <mark key="^" line="4" column="71" />
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework/views.py" timestamp="1555203472632">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1555204332116">
+      <file name="/Python Console" timestamp="1555205304022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1555180761584">
@@ -203,7 +200,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1555203764544">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/gateway/settings.py" timestamp="1555205299026">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="69" column="47" />
         <mark key="]" line="69" column="46" />
@@ -221,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="16" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
       <jump line="5" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="43" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
       <jump line="22" column="31" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
@@ -321,6 +317,7 @@
       <jump line="67" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/utils.py" />
       <jump line="77" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/utils.py" />
+      <jump line="87" column="22" filename="$USER_HOME$/.virtualenvs/service-gateway-FofTsFWs/lib/python3.7/site-packages/rest_framework_jwt/authentication.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -573,10 +570,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>permissions</text>
+        <text>self.get_authenticate_header()</text>
       </register>
       <register name="/" type="4">
-        <text>pyjwt</text>
+        <text>invalid payload</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">a3llemEqMShfZz1sZyUmXzRzNiVfQCpuaiQ3YWgpeml1NmZ3bXg2M3QlOWxqI3khJnI=</text>
@@ -615,22 +612,18 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE86IENvbXBhcmUgaW5wdXQgcGFzc3dvcmQgd2l0aCBvbmUgaW4gYmxvY2tjaGFpbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
-      <last-search>pyjwt</last-search>
+      <last-search>invalid payload</last-search>
       <last-offset />
-      <last-pattern>pyjwt</last-pattern>
+      <last-pattern>invalid payload</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildNumber</entry>
-        <entry>logger</entry>
-        <entry>util</entry>
-        <entry>ctex</entry>
         <entry>listPath</entry>
         <entry>path</entry>
         <entry>method</entry>
@@ -647,6 +640,10 @@
         <entry>permission_CLASSS</entry>
         <entry>baseJson</entry>
         <entry>pyjwt</entry>
+        <entry>self</entry>
+        <entry>invalid_playkloa</entry>
+        <entry>invalid playload</entry>
+        <entry>invalid payload</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
@@ -662,13 +659,13 @@
         <entry>action GotoDeclaration</entry>
         <entry>q!</entry>
         <entry>qw</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry encoding="base64">JzwsJz5zbG9ydA==</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
