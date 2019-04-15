@@ -221,12 +221,11 @@
         <mark key="^" line="53" column="15" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555252903442">
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend-django/service-gateway/gateway/accounts/views.py" timestamp="1555252858770">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="80" />
-        <mark key="." line="16" column="80" />
-        <mark key="^" line="16" column="80" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
@@ -585,7 +584,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>yet another swagger generator</text>
+        <text>CigarSerializer</text>
       </register>
       <register name="/" type="4">
         <text>get_user</text>
