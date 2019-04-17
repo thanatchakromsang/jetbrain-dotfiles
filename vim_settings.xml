@@ -52,10 +52,16 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1554190747836">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Archive.groovy" timestamp="1555485917395">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1555485901441">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="95" column="1" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="27" column="27" />
       </file>
@@ -74,6 +80,12 @@
       </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1555486184333">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="/Dummy.groovy" timestamp="1552750694012">
         <mark key="[" line="0" column="0" />
@@ -100,6 +112,12 @@
       <file name="/HTML File.txt.ft" timestamp="1552621400103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555486434846">
+        <mark key="[" line="60" column="78" />
+        <mark key="]" line="60" column="158" />
+        <mark key="." line="60" column="78" />
+        <mark key="^" line="60" column="75" />
+      </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,7 +128,6 @@
         <mark key="." line="55" column="61" />
         <mark key="^" line="55" column="61" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/jenkins/jenkins-master-slave.tf" timestamp="1555151609565" />
       <file name="/Dummy.txt" timestamp="1554405200852">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,10 +164,6 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/echo.go" timestamp="1554767700926">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="100" column="3" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/setting.go" timestamp="1554958248059">
         <mark key="'" line="123" column="11" />
         <mark key="[" line="7" column="24" />
@@ -180,6 +193,11 @@
       </file>
       <file name="/fragment.go" timestamp="1554962295001">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/production/k8s/common/kops.tf" timestamp="1555485809559">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1554966127131">
         <mark key="[" line="15" column="0" />
@@ -215,9 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="30" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="193" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="126" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="138" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="220" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="245" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -315,6 +330,9 @@
       <jump line="68" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="74" column="9" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="72" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
+      <jump line="6" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Archive.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -567,46 +585,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>k[&quot;json&quot;][&quot;wow&quot;]</text>
+        <text>deployment-${appName}-${newVersion}</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXJlc3AsIGVyciA6PSByZXEuUG9zdCgiaHR0cDovL2h0dHBiaW4ub3JnL3Bvc3QiLAoJCSZyZXEuUmVxdWVzdE9wdGlvbnN7SlNPTjogdX0pCgoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuCgl9CgoJayA6PSBuZXcobW9kZWwuVXNlcikKCWVyciA9IHJlc3AuSlNPTigmaykK</text>
+      <register name="0" type="4">
+        <text>deployment-${context.projectName}-${context.gitBranchName}-${context.tagVersion}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0LnMzVXBsb2FkKGZpbGU6ImRlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiLCBidWNrZXQ6InZlbG8tZGVwbG95bWVudC1rOHMiLCBwYXRoOiIke2FwcE5hbWV9LyR7QlJBTkNIX05BTUV9L2RlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubGlnaHRuZXQuc3RhZ2UKCmNsYXNzIEFyY2hpdmUgewp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
+        <text encoding="base64">CXZhciBrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGspCg==</text>
+        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KCZtb2RlbCkK</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
