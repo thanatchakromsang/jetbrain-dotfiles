@@ -112,11 +112,11 @@
       <file name="/HTML File.txt.ft" timestamp="1552621400103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555486434846">
-        <mark key="[" line="60" column="78" />
-        <mark key="]" line="60" column="158" />
-        <mark key="." line="60" column="78" />
-        <mark key="^" line="60" column="75" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555487437534">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="55" />
+        <mark key="." line="25" column="55" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
@@ -585,7 +585,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>deployment-${appName}-${newVersion}</text>
+        <text>Build and push to registry</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -594,37 +594,37 @@
         <text>deployment-${context.projectName}-${context.gitBranchName}-${context.tagVersion}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0LnMzVXBsb2FkKGZpbGU6ImRlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiLCBidWNrZXQ6InZlbG8tZGVwbG95bWVudC1rOHMiLCBwYXRoOiIke2FwcE5hbWV9LyR7QlJBTkNIX05BTUV9L2RlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubGlnaHRuZXQuc3RhZ2UKCmNsYXNzIEFyY2hpdmUgewp9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhcmNoaXZlQXJ0aWZhY3QoKSB7CiAgICAgICAgaWYgKGNvbnRleHQua3ViZXJuZXRlc05hbWVzcGFjZSkgewogICAgICAgICAgICBzY3JpcHQuYXJjaGl2ZUFydGlmYWN0cyBhcnRpZmFjdHM6ICJkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sIgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJjaGl2ZUFydGlmYWN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBrCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocGlwZWxpbmVTdGF0dXNDb2RlICE9IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFJlc3VsdCA9ICdGQUlMVVJFJwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRSZXN1bHQgPSAnU1VDQ0VTUycKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWsgOj0gbmV3KG1vZGVsLlVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0LnMzVXBsb2FkKGZpbGU6ImRlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiLCBidWNrZXQ6InZlbG8tZGVwbG95bWVudC1rOHMiLCBwYXRoOiIke2FwcE5hbWV9LyR7QlJBTkNIX05BTUV9L2RlcGxveW1lbnQtJHthcHBOYW1lfS0ke25ld1ZlcnNpb259LnlhbWwiKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlc3AuSlNPTigpCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubGlnaHRuZXQuc3RhZ2UKCmNsYXNzIEFyY2hpdmUgewp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -677,9 +677,9 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q!</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
