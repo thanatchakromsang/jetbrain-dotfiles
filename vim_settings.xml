@@ -211,12 +211,7 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1555641986873">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
-      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1555647742283" />
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/util/util.go" timestamp="1554961041772">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -644,7 +639,7 @@
   currentResult = 'SKIPPED'</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -694,10 +689,10 @@
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>q!</entry>
         <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
