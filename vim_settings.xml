@@ -630,7 +630,7 @@
 (script.env.STAGE_NAME)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action ActivateTerminalToolWindow</text>
       </register>
     </registers>
     <search>
@@ -682,8 +682,8 @@
         <entry>q!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
