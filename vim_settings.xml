@@ -10,10 +10,7 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" timestamp="1554742619249">
-        <mark key="'" line="328" column="59" />
-      </file>
-      <file name="/a.dummy" timestamp="1554954683950">
+      <file name="/a.dummy" timestamp="1555648401910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1555642206147">
@@ -106,9 +103,6 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/req.go" timestamp="1554957817624">
-        <mark key="'" line="29" column="11" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1555496248688">
         <mark key="'" line="2" column="18" />
         <mark key="[" line="21" column="24" />
@@ -119,11 +113,10 @@
       <file name="/HTML File.txt.ft" timestamp="1552621400103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555496817475">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="15" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="35" column="15" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555648477189">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
@@ -224,8 +217,8 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555496132054">
-        <mark key="'" line="189" column="13" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555648541897">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="190" column="22" />
         <mark key="]" line="190" column="29" />
         <mark key="^" line="190" column="29" />
@@ -242,28 +235,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="251" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="172" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="210" column="27" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="25" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="135" column="11" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="140" column="32" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="119" column="17" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="218" column="29" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="61" column="30" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineUtility.groovy" />
-      <jump line="27" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="50" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="71" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="99" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="109" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="115" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="117" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="120" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="123" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="142" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="151" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="24" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="176" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="11" column="63" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="306" column="20" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -339,9 +315,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Archive.groovy" />
       <jump line="7" column="6" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="189" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="22" column="23" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/Jenkinsfile.example" />
+      <jump line="169" column="11" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="24" column="18" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="26" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="28" column="28" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="31" column="31" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="35" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="40" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="48" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="56" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="57" column="17" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="58" column="45" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="61" column="18" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="65" column="18" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="112" column="31" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="118" column="31" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="146" column="51" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="333" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -597,61 +590,58 @@
         <text>.registryCredential</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>environment</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHMzQnVja2V0OiAnc3VyZXBheS1kZXBsb3ltZW50LWFydGlmYWN0LXN0b3JlJywK</text>
+      <register name="0" type="4">
+        <text>${context.projectName}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLm5vdGlmeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5lbgo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLm5vdGlmeSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAic3dpdGNoIHRvICR7Y29udGV4dC5rdWJlcm5ldGVzQ29udGV4dH0iCgogICAgICAgICAgICAgICAgICAgIEludGVnZXIgcGlwZWxpbmVTdGF0dXNDb2RlID0gc2NyaXB0LnNoKAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGF0dXM6IHRydWUsIGxhYmVsOiAiZGVwbG95IHRvIGt1YmVybmV0ZXMiLCBzY3JpcHQ6ICIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBjb25maWcgdXNlLWNvbnRleHQgJHtjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0fQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3AgZGVwbG95bWVudC55YW1sIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNBUFBOQU1FIy8ke2NvbnRleHQucHJvamVjdE5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI05BTUVTUEFDRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1NVQkdST1VQIy8ke2NvbnRleHQuc3ViZ3JvdXB9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1JFR0lTVFJZIy8ke2NvbnRleHQucHJvamVjdE5hbWV9OiR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jVkVSU0lPTiMvJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI0lOR1JFU1MjLyR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfS9nIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIkRlcGxveSB0byBDbHVzdGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBnZXQgbm9kZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdCBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGFwcGx5IC1mIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwgLW4gJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIgoKICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAic3dpdGNoIHRvICR7Y29udGV4dC5rdWJlcm5ldGVzQ29udGV4dH0iCgogICAgICAgICAgICAgICAgICAgIEludGVnZXIgcGlwZWxpbmVTdGF0dXNDb2RlID0gc2NyaXB0LnNoKAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGF0dXM6IHRydWUsIGxhYmVsOiAiZGVwbG95IHRvIGt1YmVybmV0ZXMiLCBzY3JpcHQ6ICIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBjb25maWcgdXNlLWNvbnRleHQgJHtjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0fQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3AgZGVwbG95bWVudC55YW1sIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNBUFBOQU1FIy8ke2NvbnRleHQucHJvamVjdE5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI05BTUVTUEFDRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1NVQkdST1VQIy8ke2NvbnRleHQuc3ViZ3JvdXB9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1JFR0lTVFJZIy8ke2NvbnRleHQucHJvamVjdE5hbWV9OiR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jVkVSU0lPTiMvJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI0lOR1JFU1MjLyR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfS9nIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIkRlcGxveSB0byBDbHVzdGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBnZXQgbm9kZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdCBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGFwcGx5IC1mIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwgLW4gJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIgoKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="8">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="8">
         <text>sNamespace) {
 (script.env.STAGE_NAME)</text>
       </register>
-      <register name="9" type="8">
-        <text>else if (!context.kubernete
-  context.util.skipPipeline
-  currentResult = 'SKIPPED'</text>
-      </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>environment</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>environment</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ctx.buildUrl</entry>
         <entry>buildUrl</entry>
         <entry>jobName</entry>
         <entry>getBuild</entry>
@@ -671,6 +661,7 @@
         <entry>err</entry>
         <entry>echo</entry>
         <entry>url</entry>
+        <entry>environment</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -686,13 +677,13 @@
         <entry>q</entry>
         <entry>vsplit</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
