@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/Jenkinsfile.example" timestamp="1555496303755">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/Jenkinsfile.example" timestamp="1555641978485">
+        <mark key="'" line="22" column="23" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="50" />
         <mark key="." line="13" column="47" />
@@ -15,7 +16,7 @@
       <file name="/a.dummy" timestamp="1554954683950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1554203662982">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1555642206147">
         <mark key="[" line="33" column="37" />
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
@@ -77,12 +78,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1554194429133">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1555642076320">
         <mark key="'" line="24" column="16" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="59" column="34" />
       </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
@@ -210,7 +211,7 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1554202449116">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1555641986873">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="51" />
         <mark key="." line="3" column="51" />
@@ -246,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="245" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="251" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="172" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -346,6 +346,7 @@
       <jump line="7" column="6" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="189" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="22" column="23" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/Jenkinsfile.example" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,43 +608,43 @@
         <text encoding="base64">ICAgIHMzQnVja2V0OiAnc3VyZXBheS1kZXBsb3ltZW50LWFydGlmYWN0LXN0b3JlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLm5vdGlmeSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAic3dpdGNoIHRvICR7Y29udGV4dC5rdWJlcm5ldGVzQ29udGV4dH0iCgogICAgICAgICAgICAgICAgICAgIEludGVnZXIgcGlwZWxpbmVTdGF0dXNDb2RlID0gc2NyaXB0LnNoKAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGF0dXM6IHRydWUsIGxhYmVsOiAiZGVwbG95IHRvIGt1YmVybmV0ZXMiLCBzY3JpcHQ6ICIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBjb25maWcgdXNlLWNvbnRleHQgJHtjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0fQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3AgZGVwbG95bWVudC55YW1sIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNBUFBOQU1FIy8ke2NvbnRleHQucHJvamVjdE5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI05BTUVTUEFDRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1NVQkdST1VQIy8ke2NvbnRleHQuc3ViZ3JvdXB9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1JFR0lTVFJZIy8ke2NvbnRleHQucHJvamVjdE5hbWV9OiR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jVkVSU0lPTiMvJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI0lOR1JFU1MjLyR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfS9nIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIkRlcGxveSB0byBDbHVzdGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBnZXQgbm9kZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdCBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGFwcGx5IC1mIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwgLW4gJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIgoKICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLnNsYWNrLnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAic3dpdGNoIHRvICR7Y29udGV4dC5rdWJlcm5ldGVzQ29udGV4dH0iCgogICAgICAgICAgICAgICAgICAgIEludGVnZXIgcGlwZWxpbmVTdGF0dXNDb2RlID0gc2NyaXB0LnNoKAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGF0dXM6IHRydWUsIGxhYmVsOiAiZGVwbG95IHRvIGt1YmVybmV0ZXMiLCBzY3JpcHQ6ICIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBjb25maWcgdXNlLWNvbnRleHQgJHtjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0fQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3AgZGVwbG95bWVudC55YW1sIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNBUFBOQU1FIy8ke2NvbnRleHQucHJvamVjdE5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI05BTUVTUEFDRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1NVQkdST1VQIy8ke2NvbnRleHQuc3ViZ3JvdXB9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1JFR0lTVFJZIy8ke2NvbnRleHQucHJvamVjdE5hbWV9OiR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jVkVSU0lPTiMvJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI0lOR1JFU1MjLyR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfS9nIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIkRlcGxveSB0byBDbHVzdGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBnZXQgbm9kZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdCBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGFwcGx5IC1mIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwgLW4gJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIgoKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="8">
-        <text>sNamespace) {
-(script.env.STAGE_NAME)</text>
-      </register>
-      <register name="7" type="8">
-        <text>else if (!context.kubernete
-  context.util.skipPipeline
-  currentResult = 'SKIPPED'</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="8">
+        <text>sNamespace) {
+(script.env.STAGE_NAME)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="8">
+        <text>else if (!context.kubernete
+  context.util.skipPipeline
+  currentResult = 'SKIPPED'</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -692,11 +693,11 @@
         <entry>action QuickImplementations</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>q!</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>q!</entry>
         <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
