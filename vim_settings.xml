@@ -217,7 +217,7 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555653329355">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555917189333">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="332" column="0" />
         <mark key="]" line="332" column="0" />
@@ -240,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="120" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="123" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="142" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="151" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -339,6 +337,8 @@
       <jump line="118" column="31" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="146" column="51" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="333" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="299" column="4" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="45" column="27" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
     </jumps>
     <registers>
@@ -595,7 +595,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>environment</text>
+        <text>sed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZW52KSB7CiAgICAgICAgICAgIHJldHVybiBlbnYKICAgICAgICB9Cg==</text>
@@ -634,19 +634,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAic3dpdGNoIHRvICR7Y29udGV4dC5rdWJlcm5ldGVzQ29udGV4dH0iCgogICAgICAgICAgICAgICAgICAgIEludGVnZXIgcGlwZWxpbmVTdGF0dXNDb2RlID0gc2NyaXB0LnNoKAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGF0dXM6IHRydWUsIGxhYmVsOiAiZGVwbG95IHRvIGt1YmVybmV0ZXMiLCBzY3JpcHQ6ICIiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBjb25maWcgdXNlLWNvbnRleHQgJHtjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0fQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gJ0NyZWF0ZSBkZXBsb3ltZW50JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3AgZGVwbG95bWVudC55YW1sIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNBUFBOQU1FIy8ke2NvbnRleHQucHJvamVjdE5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI05BTUVTUEFDRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1NVQkdST1VQIy8ke2NvbnRleHQuc3ViZ3JvdXB9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI1JFR0lTVFJZIy8ke2NvbnRleHQucHJvamVjdE5hbWV9OiR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0vZyBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jVkVSU0lPTiMvJHtjb250ZXh0LnRhZ1ZlcnNpb259L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VkIC1pIHMvI0lOR1JFU1MjLyR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfS9nIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZCAtaSBzLyNIT1NUTkFNRSMvJHtjb250ZXh0Lmt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWV9L2cgZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbAoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIkRlcGxveSB0byBDbHVzdGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAga3ViZWN0bCBnZXQgbm9kZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdCBkZXBsb3ltZW50LSR7Y29udGV4dC5wcm9qZWN0TmFtZX0tJHtjb250ZXh0LmdpdEJyYW5jaE5hbWV9LSR7Y29udGV4dC50YWdWZXJzaW9ufS55YW1sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGFwcGx5IC1mIGRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwgLW4gJHtjb250ZXh0Lmt1YmVybmV0ZXNOYW1lc3BhY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICIiIgoKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>environment</last-search>
+      <last-search>sed</last-search>
       <last-offset />
-      <last-pattern>environment</last-pattern>
+      <last-pattern>sed</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildUrl</entry>
         <entry>jobName</entry>
         <entry>getBuild</entry>
         <entry>gitlab</entry>
@@ -666,6 +665,7 @@
         <entry>echo</entry>
         <entry>url</entry>
         <entry>environment</entry>
+        <entry>sed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -674,7 +674,6 @@
         <entry>54</entry>
         <entry>34</entry>
         <entry>27</entry>
-        <entry>W</entry>
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>split</entry>
@@ -684,10 +683,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>w</entry>
         <entry>q!</entry>
-        <entry>action GotoFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoFile</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
