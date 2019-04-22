@@ -205,7 +205,6 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stdPipeline.groovy" timestamp="1555647742283" />
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/util/util.go" timestamp="1554961041772">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -230,7 +229,12 @@
         <mark key="^" line="53" column="15" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/non-production/terraform-nonprod-k8s/common/main.tf" timestamp="1555668084361" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/non-production/terraform-nonprod-k8s/common/main.tf" timestamp="1555914197791">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="359" column="391" />
+        <mark key="." line="359" column="391" />
+        <mark key="^" line="359" column="391" />
+      </file>
       <file name="/fragment.java" timestamp="1554117285979">
         <mark key="[" line="0" column="0" />
       </file>
@@ -588,7 +592,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>environment</text>
@@ -638,7 +642,7 @@
       <last-offset />
       <last-pattern>environment</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
