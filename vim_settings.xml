@@ -74,7 +74,7 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1555642076320">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1555925387049">
         <mark key="'" line="24" column="16" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -216,12 +216,12 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555923896303">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555926008253">
         <mark key="'" line="140" column="43" />
-        <mark key="[" line="146" column="47" />
-        <mark key="]" line="146" column="50" />
-        <mark key="." line="146" column="50" />
-        <mark key="^" line="146" column="50" />
+        <mark key="[" line="149" column="43" />
+        <mark key="]" line="149" column="43" />
+        <mark key="." line="149" column="43" />
+        <mark key="^" line="149" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
@@ -592,13 +592,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>map.environment</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>determineEnvironment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW52KSB7CiAgICAgICAgICAgIHJldHVybiBlbnYKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAua3ViZXJuZXRlc0NvbnRleHRzID0gW10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
