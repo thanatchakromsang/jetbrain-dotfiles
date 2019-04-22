@@ -216,12 +216,12 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555927250724">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555929517232">
         <mark key="'" line="140" column="43" />
-        <mark key="[" line="149" column="43" />
-        <mark key="]" line="149" column="43" />
-        <mark key="." line="149" column="43" />
-        <mark key="^" line="149" column="43" />
+        <mark key="[" line="146" column="62" />
+        <mark key="]" line="147" column="7" />
+        <mark key="." line="147" column="7" />
+        <mark key="^" line="147" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
@@ -592,7 +592,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQ6IA==</text>
       </register>
       <register name="/" type="4">
         <text>determineEnvironment</text>
@@ -690,9 +690,9 @@ map.</text>
         <entry>q!</entry>
         <entry>action GotoFile</entry>
         <entry>W</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
         <entry>149</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
