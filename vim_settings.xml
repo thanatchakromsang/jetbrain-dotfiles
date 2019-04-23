@@ -10,7 +10,7 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1555648401910">
+      <file name="/a.dummy" timestamp="1556006291851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1555642206147">
@@ -62,11 +62,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1555919233492">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556006473837">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="107" />
+        <mark key="." line="46" column="450" />
+        <mark key="^" line="97" column="54" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
         <mark key="[" line="2" column="31" />
@@ -84,11 +85,11 @@
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1555486184333">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1556006446965">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1552750694012">
         <mark key="[" line="0" column="0" />
@@ -102,21 +103,22 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1555496248688">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Context.groovy" timestamp="1556007224405">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1552621400103">
+      <file name="/HTML File.txt.ft" timestamp="1556003503653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1555660763312">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1556007123917">
+        <mark key="'" line="30" column="44" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
@@ -148,6 +150,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1556004766483">
+        <mark key="i" line="6" column="32" />
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="63" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
@@ -216,12 +225,12 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1555929517232">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1556007236584">
         <mark key="'" line="140" column="43" />
-        <mark key="[" line="146" column="62" />
-        <mark key="]" line="147" column="7" />
-        <mark key="." line="147" column="7" />
-        <mark key="^" line="147" column="7" />
+        <mark key="[" line="251" column="4" />
+        <mark key="]" line="251" column="6" />
+        <mark key="^" line="251" column="6" />
+        <mark key="." line="251" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
@@ -240,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="20" column="34" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" />
       <jump line="21" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" />
       <jump line="25" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/SlackNotify.groovy" />
@@ -340,6 +348,7 @@
       <jump line="221" column="15" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="146" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="140" column="43" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="28" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,67 +601,60 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW52aXJvbm1lbnQ6IA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>determineEnvironment</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAua3ViZXJuZXRlc0NvbnRleHRzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbGUgPSAiZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IFs6XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5rdWJlcm5ldGVzQ29udGV4dCA9IGRldGVybWluZUt1YmVybmV0ZXNDb250ZXh0KGVudmlyb25tZW50KQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkKCiAgICBTdHJpbmcgZ2V0S3ViZXJuZXRlc0luZ3Jlc3NDbGFzcygpCgogICAgU3RyaW5nIGdldEt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWUoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>map
-map
-map
-map</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc05hbWVzcGFjZQogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0NsYXNzKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NDbGFzcwogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0hvc3RuYW1lKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NIb3N0bmFtZQogICAgfQo=</text>
       </register>
-      <register name="6" type="8">
-        <text>map.
-map.
-map.
-map.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAua3ViZXJuZXRlc0NvbnRleHQgPSBkZXRlcm1pbmVLdWJlcm5ldGVzQ29udGV4dChtYXAuZW52aXJvbm1lbnQpCiAgICAgICAgbWFwLmt1YmVybmV0ZXNOYW1lc3BhY2UgPSBkZXRlcm1pbmVLdWJlcm5ldGVzTmFtZXNwYWNlKG1hcC5lbnZpcm9ubWVudCkKICAgICAgICBtYXAua3ViZXJuZXRlc0luZ3Jlc3NDbGFzcyA9IGRldGVybWluZUt1YmVybmV0ZXNJbmdyZXNzQ2xhc3MobWFwLmVudmlyb25tZW50KQogICAgICAgIG1hcC5rdWJlcm5ldGVzSW5ncmVzc0hvc3RuYW1lID0gZGV0ZXJtaW5lS3ViZXJuZXRlc0luZ3Jlc3NIb3N0bmFtZShtYXAuZW52aXJvbm1lbnQpCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5lCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhcnJheSBvZiBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiLmVhY2hXaXRoSW5kZXggeyBpdGVtLCBpbmRleCAtPgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5lcnJvciBlcnIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>determineEnvironment</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>determineEnvironment</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gitUrl</entry>
         <entry>retrieve</entry>
         <entry>retrieveGitURL</entry>
         <entry>getGit</entry>
@@ -672,6 +674,7 @@ map.</text>
         <entry>branch</entry>
         <entry>map.environment</entry>
         <entry>determineEnvironment</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -686,12 +689,12 @@ map.</text>
         <entry>vsplit</entry>
         <entry>action QuickImplementations</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>q!</entry>
-        <entry>action GotoFile</entry>
         <entry>W</entry>
         <entry>action CommentByLineComment</entry>
         <entry>149</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
       </history-cmd>
@@ -776,6 +779,9 @@ map.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
