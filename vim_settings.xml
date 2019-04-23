@@ -13,7 +13,7 @@
       <file name="/a.dummy" timestamp="1556013347480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1556012943898">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1556014951135">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="36" column="34" />
         <mark key="." line="36" column="34" />
@@ -62,12 +62,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556008093287">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="47" column="70" />
-        <mark key="." line="47" column="70" />
-        <mark key="^" line="47" column="70" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556014856177">
+        <mark key="'" line="56" column="58" />
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+        <mark key="^" line="33" column="67" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
         <mark key="[" line="2" column="31" />
@@ -75,12 +75,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1556012800479">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="24" column="71" />
-        <mark key="]" line="24" column="78" />
-        <mark key="." line="24" column="78" />
-        <mark key="^" line="24" column="78" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1556015605945">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="78" />
+        <mark key="^" line="25" column="78" />
       </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
@@ -113,12 +113,12 @@
       <file name="/HTML File.txt.ft" timestamp="1556003503653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1556007123917">
-        <mark key="'" line="30" column="44" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1556014753870">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="37" column="98" />
+        <mark key="]" line="37" column="98" />
+        <mark key="." line="37" column="98" />
+        <mark key="^" line="37" column="98" />
       </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
@@ -249,27 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" />
-      <jump line="25" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/SlackNotify.groovy" />
-      <jump line="11" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
-      <jump line="124" column="26" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
-      <jump line="12" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="15" column="6" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="30" column="16" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="5" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
-      <jump line="43" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="22" column="31" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="11" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="47" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="32" column="12" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/main.go" />
-      <jump line="19" column="25" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
-      <jump line="93" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
-      <jump line="193" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
-      <jump line="270" column="11" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
-      <jump line="199" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
       <jump line="269" column="18" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
       <jump line="33" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="26" column="0" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/model/user.go" />
@@ -308,7 +287,6 @@
       <jump line="74" column="9" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="72" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="6" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Archive.groovy" />
       <jump line="7" column="6" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="189" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -349,6 +327,28 @@
       <jump line="140" column="43" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="28" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
       <jump line="31" column="35" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="60" column="28" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="96" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="8" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="11" column="48" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="14" column="33" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="31" column="28" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="37" column="70" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="41" column="76" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="49" column="51" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="50" column="49" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="51" column="50" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="56" column="58" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
+      <jump line="17" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="37" column="56" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="8" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="11" column="51" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="14" column="33" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="15" column="36" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
+      <jump line="69" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
+      <jump line="41" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,37 +601,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>projectName</text>
+        <text>kubernetesContext.kubernetesNamespace</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>kubernetesContext</text>
       </register>
       <register name="0" type="4">
         <text>${prettyPrint(toJson(map))}</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFJlc3VsdCA9ICdTVUNDRVNTJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkKCiAgICBTdHJpbmcgZ2V0S3ViZXJuZXRlc0luZ3Jlc3NDbGFzcygpCgogICAgU3RyaW5nIGdldEt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiBOT1QgVVNJTkcgS1VCRVJORVRFUwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc05hbWVzcGFjZQogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0NsYXNzKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NDbGFzcwogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0hvc3RuYW1lKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NIb3N0bmFtZQogICAgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5lCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkKCiAgICBTdHJpbmcgZ2V0S3ViZXJuZXRlc0luZ3Jlc3NDbGFzcygpCgogICAgU3RyaW5nIGdldEt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWUoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
@@ -640,22 +640,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5lcnJvciBlcnIK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc05hbWVzcGFjZQogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0NsYXNzKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NDbGFzcwogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0hvc3RuYW1lKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NIb3N0bmFtZQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>kubernetesContext</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>kubernetesContext</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>retrieve</entry>
         <entry>retrieveGitURL</entry>
         <entry>getGit</entry>
         <entry>buildNumber</entry>
@@ -675,6 +674,7 @@
         <entry>map.environment</entry>
         <entry>determineEnvironment</entry>
         <entry>context</entry>
+        <entry>kubernetesContext</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
