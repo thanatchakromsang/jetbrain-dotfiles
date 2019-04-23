@@ -62,12 +62,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556014856177">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556026451804">
         <mark key="'" line="56" column="58" />
-        <mark key="[" line="33" column="66" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="33" column="67" />
-        <mark key="^" line="33" column="67" />
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
         <mark key="[" line="2" column="31" />
@@ -85,11 +85,11 @@
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1556006446965">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1556026506022">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="/Dummy.groovy" timestamp="1552750694012">
         <mark key="[" line="0" column="0" />
@@ -113,11 +113,11 @@
       <file name="/HTML File.txt.ft" timestamp="1556003503653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1556014753870">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" timestamp="1556026435514">
         <mark key="'" line="14" column="33" />
-        <mark key="[" line="37" column="98" />
-        <mark key="]" line="37" column="98" />
-        <mark key="." line="37" column="98" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
         <mark key="^" line="37" column="98" />
       </file>
       <file name="/Dummy.vm" timestamp="1553691442851">
@@ -151,12 +151,13 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1556004766483">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1556027064438">
+        <mark key="'" line="7" column="27" />
         <mark key="i" line="6" column="32" />
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="63" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="6" column="54" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
@@ -249,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="39" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
       <jump line="125" column="4" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
       <jump line="127" column="7" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
       <jump line="217" column="17" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/labstack/echo/v4@v4.0.0/context.go" />
@@ -349,6 +349,7 @@
       <jump line="249" column="5" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="252" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="159" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
+      <jump line="7" column="27" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,7 +602,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text encoding="base64">TWFwIA==</text>
       </register>
       <register name="/" type="4">
         <text>kubernetesContext</text>
