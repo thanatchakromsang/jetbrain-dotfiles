@@ -13,12 +13,11 @@
       <file name="/a.dummy" timestamp="1556024302806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1556023435286">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1556025174556">
         <mark key="'" line="39" column="16" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="12" />
-        <mark key="^" line="36" column="34" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
         <mark key="[" line="2" column="3" />
@@ -611,28 +610,28 @@
         <text>: config.branchToEnvironmentMapping.keySet()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFJlc3VsdCA9ICdTVUNDRVNTJwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0Lmt1YmVybmV0ZXNDb250ZXh0cy5lYWNoIHsga3ViZXJuZXRlc0NvbnRleHQgLT4KICAgICAgICAgICAga3ViZXJuZXRlc0NvbnRleHQuZ3JlcCgpCiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEZJWE1FOiBOT1QgVVNJTkcgS1VCRVJORVRFUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudFJlc3VsdCA9ICdTVUNDRVNTJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FOiBOT1QgVVNJTkcgS1VCRVJORVRFUwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkKCiAgICBTdHJpbmcgZ2V0S3ViZXJuZXRlc0luZ3Jlc3NDbGFzcygpCgogICAgU3RyaW5nIGdldEt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWUoKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
@@ -641,10 +640,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc05hbWVzcGFjZQogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0NsYXNzKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NDbGFzcwogICAgfQoKICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzSW5ncmVzc0hvc3RuYW1lKCkgewogICAgICAgIHJldHVybiBtYXAua3ViZXJuZXRlc0luZ3Jlc3NIb3N0bmFtZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRLdWJlcm5ldGVzTmFtZXNwYWNlKCkKCiAgICBTdHJpbmcgZ2V0S3ViZXJuZXRlc0luZ3Jlc3NDbGFzcygpCgogICAgU3RyaW5nIGdldEt1YmVybmV0ZXNJbmdyZXNzSG9zdG5hbWUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -696,8 +695,8 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
