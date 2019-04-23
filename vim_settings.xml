@@ -62,12 +62,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556006473837">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" timestamp="1556008093287">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="107" />
-        <mark key="." line="46" column="450" />
-        <mark key="^" line="97" column="54" />
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="70" />
+        <mark key="." line="47" column="70" />
+        <mark key="^" line="47" column="70" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
         <mark key="[" line="2" column="31" />
@@ -75,12 +75,12 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1555925387049">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1556008995888">
         <mark key="'" line="24" column="16" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="59" column="34" />
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="78" />
+        <mark key="." line="24" column="78" />
+        <mark key="^" line="24" column="78" />
       </file>
       <file name="/sbtShell" timestamp="1552466860578">
         <mark key="[" line="0" column="0" />
@@ -601,7 +601,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>projectName</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -688,13 +688,13 @@
         <entry>q</entry>
         <entry>vsplit</entry>
         <entry>action QuickImplementations</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>q!</entry>
         <entry>W</entry>
         <entry>action CommentByLineComment</entry>
         <entry>149</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
       </history-cmd>
