@@ -10,14 +10,14 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1556006291851">
+      <file name="/a.dummy" timestamp="1556013347480">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1555642206147">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" timestamp="1556012943898">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
         <mark key="[" line="2" column="3" />
@@ -75,7 +75,7 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1556008995888">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" timestamp="1556012800479">
         <mark key="'" line="24" column="16" />
         <mark key="[" line="24" column="71" />
         <mark key="]" line="24" column="78" />
@@ -225,10 +225,10 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1556007236584">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" timestamp="1556013377835">
         <mark key="'" line="140" column="43" />
-        <mark key="[" line="251" column="4" />
-        <mark key="]" line="251" column="6" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="26" />
         <mark key="^" line="251" column="6" />
         <mark key="." line="251" column="6" />
       </file>
@@ -249,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="34" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" />
       <jump line="21" column="24" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" />
       <jump line="25" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/SlackNotify.groovy" />
       <jump line="11" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/goPipeline.groovy" />
@@ -349,6 +348,7 @@
       <jump line="146" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="140" column="43" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="28" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
+      <jump line="31" column="35" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -606,8 +606,8 @@
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbGUgPSAiZGVwbG95bWVudC0ke2NvbnRleHQucHJvamVjdE5hbWV9LSR7Y29udGV4dC5naXRCcmFuY2hOYW1lfS0ke2NvbnRleHQudGFnVmVyc2lvbn0ueWFtbCIK</text>
+      <register name="0" type="4">
+        <text>${prettyPrint(toJson(map))}</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICA=</text>
@@ -692,10 +692,10 @@
         <entry>W</entry>
         <entry>action CommentByLineComment</entry>
         <entry>149</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
