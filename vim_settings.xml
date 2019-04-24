@@ -151,13 +151,13 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1556030076756">
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1556030577540">
         <mark key="'" line="7" column="27" />
         <mark key="i" line="6" column="32" />
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="7" column="62" />
-        <mark key="." line="7" column="62" />
-        <mark key="^" line="7" column="62" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="/usr/share/groovy/lib/groovy-2.5.4.jar!/groovy/transform/MapConstructor.class" timestamp="1552759934911">
         <mark key="[" line="18" column="20" />
@@ -602,7 +602,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, def kubernetesContext = [:]</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -695,8 +695,8 @@
         <entry>action GotoFile</entry>
         <entry>35</entry>
         <entry>q!</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
