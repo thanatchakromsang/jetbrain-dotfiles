@@ -166,9 +166,10 @@
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/dns.tf" timestamp="1557855273611">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="32" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/dns.tf" timestamp="1557860814976">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
@@ -198,12 +199,11 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557858245905">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557860027152">
         <mark key="'" line="73" column="6" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="52" />
-        <mark key="^" line="17" column="52" />
-        <mark key="." line="17" column="52" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
         <mark key="[" line="17" column="51" />
@@ -603,13 +603,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>egress</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWludGVybmFsLm5hbWV9Igo=</text>
+        <text encoding="base64">ICAgIH0KICAgIG5ldHdvcmtfdGllciA9ICJTVEFOREFSRCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -618,31 +618,31 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJpY21wIgogIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJ0Y3AiCiAgICBwb3J0cyAgICA9IFsiMjIiXQogIH0K</text>
+        <text encoding="base64">ICBmb3J3YXJkaW5nX2NvbmZpZyB7CiAgICB0YXJnZXRfbmFtZV9zZXJ2ZXJzIHsKICAgICAgaXB2NF9hZGRyZXNzID0gIjE3Mi4xNi4xLjEwIgogICAgfQogICAgdGFyZ2V0X25hbWVfc2VydmVycyB7CiAgICAgIGlwdjRfYWRkcmVzcyA9ICIxNzIuMTYuMS4yMCIKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjY2Vzc19jb25maWcge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgPSB7CiAgICBzY29wZXMgPSBbInN0b3JhZ2UtcnciXQogICAgZW1haWwgPSAiZ2l0bGFiLWluc3RhbmNlQCR7Z29vZ2xlX2Ruc19tYW5hZ2VkX3pvbmUuZG5zLXByaXZhdGUtem9uZS5kbnNfbmFtZX0iCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldF9pYW1fYmluZGluZyIgImJpbmRpbmciIHsKICBidWNrZXQgPSAiJHtnb29nbGVfc3RvcmFnZV9idWNrZXQuZ2NzLWJ1Y2tldC12cG4ubmFtZX0iCiAgcm9sZSAgICAgICAgPSAicm9sZXMvc3RvcmFnZS5hZG1pbiIKCiAgbWVtYmVycyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2luc3RhbmNlLmdpdGxhYi1pbnN0YW5jZS5uYW1lfUAke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IiwKICBdCn0K</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2Rpc2siICJnaXRsYWItaW5zdGFuY2UtZGlzayIgewogIG5hbWUgID0gInN0cmlwZWQtaG9yc2UiCiAgdHlwZSAgPSAicGQtc3NkIgogIHNpemUgID0gMTAwCiAgc25hcHNob3QgPSAiJHtnb29nbGVfY29tcHV0ZV9zbmFwc2hvdC51YnVudHUtYmVhdmVyLm5hbWV9Igp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZSA9ICIke2dvb2dsZV9jb21wdXRlX2Rpc2suc3RyaXBlZC1ob3JzZS5uYW1lfSIK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IENMSUVOVD1jbGllbnQK</text>
+        <text encoding="base64">ICB6b25lICA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfc3RvcmFnZV9idWNrZXRfaWFtX21lbWJlciIgIm1lbWJlciIgewogIGJ1Y2tldCA9ICIke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi5uYW1lfSIKICByb2xlICAgICAgICA9ICJyb2xlcy9zdG9yYWdlLmFkbWluIgogIG1lbWJlciAgICAgID0gIiR7Z29vZ2xlX3N0b3JhZ2VfYnVja2V0X2lhbV9iaW5kaW5nLmJpbmRpbmcubWVtYmVyc30iCn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
