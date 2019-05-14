@@ -106,6 +106,12 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/gcs.tf" timestamp="1557854511548">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1554194458432">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="15" />
@@ -160,6 +166,10 @@
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/dns.tf" timestamp="1557855273611">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -172,6 +182,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/policy.tf" timestamp="1557856846992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/main.tf" timestamp="1557844687506">
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="47" />
@@ -183,18 +198,18 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557852396082">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557856865857">
         <mark key="'" line="72" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557852439073">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="66" />
+        <mark key="." line="17" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
@@ -220,6 +235,12 @@
         <mark key="]" line="24" column="53" />
         <mark key="." line="24" column="53" />
         <mark key="^" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/gcs-bucket.tf" timestamp="1557854555863">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="1" column="48" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-mgmt-instance.sh" timestamp="1557849204967">
         <mark key="'" line="0" column="0" />
@@ -582,13 +603,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>22</text>
+        <text>${count.index + 1}</text>
       </register>
       <register name="/" type="4">
         <text>source_ranges</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhc2lhLXNvdXRoZWFzdDEtYiIsCg==</text>
+      <register name="0" type="4">
+        <text>${var.env}-gitlab-instance</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -597,31 +618,31 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3N1dGlsIGNwIGNsaWVudC5vdnBuIGdzOi8vW0RFU1RJTkFUSU9OX0JVQ0tFVF9OQU1FXS8K</text>
+        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgPSB7CiAgICBzY29wZXMgPSBbInN0b3JhZ2UtcnciXQogICAgZW1haWwgPSAiZ2l0bGFiLWluc3RhbmNlQCR7Z29vZ2xlX2Ruc19tYW5hZ2VkX3pvbmUuZG5zLXByaXZhdGUtem9uZS5kbnNfbmFtZX0iCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19jb25maWcgPSB7fQo=</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldF9pYW1fYmluZGluZyIgImJpbmRpbmciIHsKICBidWNrZXQgPSAiJHtnb29nbGVfc3RvcmFnZV9idWNrZXQuZ2NzLWJ1Y2tldC12cG4ubmFtZX0iCiAgcm9sZSAgICAgICAgPSAicm9sZXMvc3RvcmFnZS5hZG1pbiIKCiAgbWVtYmVycyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2luc3RhbmNlLmdpdGxhYi1pbnN0YW5jZS5uYW1lfUAke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IiwKICBdCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhc2lhLXNvdXRoZWFzdDEtYyIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3VudCAgICAgICAgID0gIiR7bGVuZ3RoKHZhci56b25lKX0iCg==</text>
+        <text encoding="base64">ZXhwb3J0IENMSUVOVD1jbGllbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb3VudCAgICAgICAgID0gIiR7bGVuZ3RoKHZhci56b25lKX0iCg==</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfc3RvcmFnZV9idWNrZXRfaWFtX21lbWJlciIgIm1lbWJlciIgewogIGJ1Y2tldCA9ICIke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi5uYW1lfSIKICByb2xlICAgICAgICA9ICJyb2xlcy9zdG9yYWdlLmFkbWluIgogIG1lbWJlciAgICAgID0gIiR7Z29vZ2xlX3N0b3JhZ2VfYnVja2V0X2lhbV9iaW5kaW5nLmJpbmRpbmcubWVtYmVyc30iCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb3VudCAgICAgICAgID0gIiR7bGVuZ3RoKHZhci56b25lKX0iCg==</text>
+        <text encoding="base64">ICBidWNrZXQgPSAieW91ci1idWNrZXQtbmFtZSIK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3V0cHV0ICJwcml2YXRlX3N1Ym5ldHdvcmtzIiB7CiAgdmFsdWUgPSAiJHtnb29nbGVfY29tcHV0ZV9zdWJuZXR3b3JrLnV0aWxpdHlfcHJpdmF0ZV9zdWJuZXQuKi5pcF9jaWRyX3JhbmdlfSIKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIG1haW5fcGFnZV9zdWZmaXggPSAiaW5kZXguaHRtbCIKICAgIG5vdF9mb3VuZF9wYWdlICAgPSAiNDA0Lmh0bWwiCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -666,17 +687,17 @@
         <entry>q</entry>
         <entry>vsplit</entry>
         <entry>action QuickImplementations</entry>
-        <entry>W</entry>
         <entry>149</entry>
         <entry>35</entry>
         <entry>q!</entry>
         <entry>action GotoDeclaration</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>d</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
