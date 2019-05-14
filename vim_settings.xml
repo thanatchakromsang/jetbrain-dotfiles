@@ -92,13 +92,13 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" timestamp="1557852640329">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="20" />
-        <mark key="n" line="18" column="2" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" timestamp="1557858276624">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="81" column="20" />
+        <mark key="^" line="81" column="20" />
+        <mark key="n" line="22" column="2" />
+        <mark key="." line="81" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1556026506022">
         <mark key="[" line="6" column="38" />
@@ -198,12 +198,12 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557856865857">
-        <mark key="'" line="72" column="6" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557858245905">
+        <mark key="'" line="73" column="6" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="17" column="52" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
         <mark key="[" line="17" column="51" />
@@ -251,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="11" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.go/pkg/mod/github.com/imroc/req@v0.2.3/setting.go" />
-      <jump line="67" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="68" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="74" column="9" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="72" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
@@ -351,6 +349,8 @@
       <jump line="57" column="10" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
       <jump line="58" column="43" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
       <jump line="18" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
+      <jump line="8" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -603,13 +603,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>${count.index + 1}</text>
+        <text>egress</text>
       </register>
       <register name="/" type="4">
-        <text>source_ranges</text>
+        <text encoding="base64">XDwjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>${var.env}-gitlab-instance</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWludGVybmFsLm5hbWV9Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -618,46 +618,45 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgPSB7CiAgICBzY29wZXMgPSBbInN0b3JhZ2UtcnciXQogICAgZW1haWwgPSAiZ2l0bGFiLWluc3RhbmNlQCR7Z29vZ2xlX2Ruc19tYW5hZ2VkX3pvbmUuZG5zLXByaXZhdGUtem9uZS5kbnNfbmFtZX0iCiAgfQo=</text>
+        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJpY21wIgogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldF9pYW1fYmluZGluZyIgImJpbmRpbmciIHsKICBidWNrZXQgPSAiJHtnb29nbGVfc3RvcmFnZV9idWNrZXQuZ2NzLWJ1Y2tldC12cG4ubmFtZX0iCiAgcm9sZSAgICAgICAgPSAicm9sZXMvc3RvcmFnZS5hZG1pbiIKCiAgbWVtYmVycyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2luc3RhbmNlLmdpdGxhYi1pbnN0YW5jZS5uYW1lfUAke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IiwKICBdCn0K</text>
+        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJ0Y3AiCiAgICBwb3J0cyAgICA9IFsiMjIiXQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IENMSUVOVD1jbGllbnQK</text>
+        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgPSB7CiAgICBzY29wZXMgPSBbInN0b3JhZ2UtcnciXQogICAgZW1haWwgPSAiZ2l0bGFiLWluc3RhbmNlQCR7Z29vZ2xlX2Ruc19tYW5hZ2VkX3pvbmUuZG5zLXByaXZhdGUtem9uZS5kbnNfbmFtZX0iCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfc3RvcmFnZV9idWNrZXRfaWFtX21lbWJlciIgIm1lbWJlciIgewogIGJ1Y2tldCA9ICIke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi5uYW1lfSIKICByb2xlICAgICAgICA9ICJyb2xlcy9zdG9yYWdlLmFkbWluIgogIG1lbWJlciAgICAgID0gIiR7Z29vZ2xlX3N0b3JhZ2VfYnVja2V0X2lhbV9iaW5kaW5nLmJpbmRpbmcubWVtYmVyc30iCn0K</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldF9pYW1fYmluZGluZyIgImJpbmRpbmciIHsKICBidWNrZXQgPSAiJHtnb29nbGVfc3RvcmFnZV9idWNrZXQuZ2NzLWJ1Y2tldC12cG4ubmFtZX0iCiAgcm9sZSAgICAgICAgPSAicm9sZXMvc3RvcmFnZS5hZG1pbiIKCiAgbWVtYmVycyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2luc3RhbmNlLmdpdGxhYi1pbnN0YW5jZS5uYW1lfUAke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IiwKICBdCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBidWNrZXQgPSAieW91ci1idWNrZXQtbmFtZSIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IENMSUVOVD1jbGllbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3ZWJzaXRlIHsKICAgIG1haW5fcGFnZV9zdWZmaXggPSAiaW5kZXguaHRtbCIKICAgIG5vdF9mb3VuZF9wYWdlICAgPSAiNDA0Lmh0bWwiCiAgfQo=</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfc3RvcmFnZV9idWNrZXRfaWFtX21lbWJlciIgIm1lbWJlciIgewogIGJ1Y2tldCA9ICIke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi5uYW1lfSIKICByb2xlICAgICAgICA9ICJyb2xlcy9zdG9yYWdlLmFkbWluIgogIG1lbWJlciAgICAgID0gIiR7Z29vZ2xlX3N0b3JhZ2VfYnVja2V0X2lhbV9iaW5kaW5nLmJpbmRpbmcubWVtYmVyc30iCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>source_ranges</last-search>
+      <last-search encoding="base64">XDwjXD4=</last-search>
       <last-offset />
-      <last-pattern>source_ranges</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwjXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>listPath</entry>
         <entry>path</entry>
         <entry>method</entry>
         <entry>JSON</entry>
@@ -677,6 +676,7 @@
         <entry>..</entry>
         <entry>zone</entry>
         <entry>source_ranges</entry>
+        <entry encoding="base64">XDwjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
