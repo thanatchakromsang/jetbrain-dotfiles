@@ -123,6 +123,12 @@
       <file name="/Dummy.vm" timestamp="1553691442851">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/variables.tf" timestamp="1557844683035">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineConfig.groovy" timestamp="1554203425302">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="55" column="60" />
@@ -144,6 +150,12 @@
         <mark key="]" line="10" column="54" />
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/.env" timestamp="1557844479769">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
@@ -187,6 +199,12 @@
         <mark key="]" line="20" column="30" />
         <mark key="." line="20" column="30" />
         <mark key="^" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/main.tf" timestamp="1557844687506">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" timestamp="1554191129225">
         <mark key="'" line="54" column="26" />
@@ -602,7 +620,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, def kubernetesContext = [:]</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -652,7 +670,7 @@
       <last-offset />
       <last-pattern>index</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -678,7 +696,6 @@
         <entry>index</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
         <entry>54</entry>
         <entry>34</entry>
         <entry>27</entry>
@@ -697,6 +714,7 @@
         <entry>q!</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
