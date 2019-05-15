@@ -8,11 +8,11 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/main.tf" timestamp="1557851991114">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/main.tf" timestamp="1557879472496">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/variables.tf" timestamp="1557850389177">
         <mark key="'" line="22" column="0" />
@@ -57,11 +57,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup.sh" timestamp="1557848303358">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup.sh" timestamp="1557879275737">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Archive.groovy" timestamp="1555485917395">
         <mark key="[" line="9" column="4" />
@@ -124,11 +124,11 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557849200144">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557879252362">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/vpc/dns.tf" timestamp="1557846378273">
         <mark key="[" line="3" column="43" />
@@ -166,10 +166,11 @@
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/dns.tf" timestamp="1557860814976">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/dns.tf" timestamp="1557877881022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
         <mark key="[" line="7" column="0" />
@@ -199,11 +200,12 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557876162719">
-        <mark key="'" line="73" column="6" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557879484868">
+        <mark key="'" line="74" column="6" />
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
         <mark key="[" line="17" column="51" />
@@ -230,11 +232,11 @@
         <mark key="." line="359" column="391" />
         <mark key="^" line="359" column="391" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/main.tf" timestamp="1557851134674">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/main.tf" timestamp="1557878340368">
+        <mark key="[" line="80" column="60" />
+        <mark key="]" line="81" column="1" />
+        <mark key="." line="81" column="1" />
+        <mark key="^" line="81" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/gcs-bucket.tf" timestamp="1557854555863">
         <mark key="[" line="1" column="48" />
@@ -603,46 +605,64 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>INGRESS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0KICAgIG5ldHdvcmtfdGllciA9ICJTVEFOREFSRCIK</text>
+        <text encoding="base64">c3VkbyB5dW0gaW5zdGFsbCBkb2NrZXItY2UK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb3J3YXJkaW5nX2NvbmZpZyB7CiAgICB0YXJnZXRfbmFtZV9zZXJ2ZXJzIHsKICAgICAgaXB2NF9hZGRyZXNzID0gIjE3Mi4xNi4xLjEwIgogICAgfQogICAgdGFyZ2V0X25hbWVfc2VydmVycyB7CiAgICAgIGlwdjRfYWRkcmVzcyA9ICIxNzIuMTYuMS4yMCIKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19jb25maWcge30K</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2FkZHJlc3MiICJhZGRyZXNzIiB7CiAgY291bnQgID0gMQogIG5hbWUgICA9ICJuYXQtZXh0ZXJuYWwtYWRkcmVzcy0ke2NvdW50LmluZGV4fSIKICByZWdpb24gPSAidXMtY2VudHJhbDEiCn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2Rpc2siICJnaXRsYWItaW5zdGFuY2UtZGlzayIgewogIG5hbWUgID0gInN0cmlwZWQtaG9yc2UiCiAgdHlwZSAgPSAicGQtc3NkIgogIHNpemUgID0gMTAwCiAgc25hcHNob3QgPSAiJHtnb29nbGVfY29tcHV0ZV9zbmFwc2hvdC51YnVudHUtYmVhdmVyLm5hbWV9Igp9Cg==</text>
+      <register name="7" type="4">
+        <text>resource &quot;google_dns_managed_zone&quot; &quot;dns-private-zone&quot; {
+  provider = &quot;google-beta&quot;
+  name = &quot;${var.project_name}-${var.env}&quot;
+  dns_name = &quot;${var.project_name}-${var.env}.com.&quot;
+  description = &quot;${var.project_name} ${var.env} private dns&quot;
+
+  labels = {
+    environment = &quot;${var.env}&quot;
+    visibility  = &quot;private&quot;
+  }
+
+  visibility = &quot;private&quot;
+
+  private_visibility_config {
+    networks {
+      network_url =  &quot;${google_compute_network.vpc.self_link}&quot;
+    }
+  }
+}</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSA9ICIke2dvb2dsZV9jb21wdXRlX2Rpc2suc3RyaXBlZC1ob3JzZS5uYW1lfSIK</text>
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB6b25lICA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
