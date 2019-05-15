@@ -92,7 +92,7 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" timestamp="1557876204813">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" timestamp="1557880414176">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="78" column="44" />
         <mark key="]" line="78" column="52" />
@@ -200,12 +200,12 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557879484868">
-        <mark key="'" line="74" column="6" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557880509557">
+        <mark key="'" line="75" column="6" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
         <mark key="[" line="17" column="51" />
@@ -605,36 +605,42 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>https</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VkbyB5dW0gaW5zdGFsbCBkb2NrZXItY2UK</text>
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWludGVybmFsLm5hbWV9IiwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2FkZHJlc3MiICJhZGRyZXNzIiB7CiAgY291bnQgID0gMQogIG5hbWUgICA9ICJuYXQtZXh0ZXJuYWwtYWRkcmVzcy0ke2NvdW50LmluZGV4fSIKICByZWdpb24gPSAidXMtY2VudHJhbDEiCn0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2FkZHJlc3MiICJhZGRyZXNzIiB7CiAgY291bnQgID0gMQogIG5hbWUgICA9ICJuYXQtZXh0ZXJuYWwtYWRkcmVzcy0ke2NvdW50LmluZGV4fSIKICByZWdpb24gPSAidXMtY2VudHJhbDEiCn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>lh</text>
+      </register>
+      <register name="8" type="4">
         <text>resource &quot;google_dns_managed_zone&quot; &quot;dns-private-zone&quot; {
   provider = &quot;google-beta&quot;
   name = &quot;${var.project_name}-${var.env}&quot;
@@ -655,14 +661,8 @@
   }
 }</text>
       </register>
-      <register name="w" type="4">
-        <text>lh</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -715,9 +715,9 @@
         <entry>d</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>W</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
