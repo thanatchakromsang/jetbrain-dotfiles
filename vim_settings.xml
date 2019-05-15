@@ -124,9 +124,9 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557879252362">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="26" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557883674343">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="35" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -200,18 +200,18 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557880509557">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557882803998">
         <mark key="'" line="75" column="6" />
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557856830679">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="66" />
-        <mark key="^" line="17" column="66" />
-        <mark key="." line="17" column="66" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557883316723">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1554190822235">
         <mark key="[" line="39" column="0" />
@@ -605,34 +605,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwjXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWludGVybmFsLm5hbWV9IiwK</text>
+        <text encoding="base64">c3VkbyB1c2VybW9kIC1hRyBkb2NrZXIgJCh3aG9hbWkpCnN1ZG8gc3lzdGVtY3RsIGVuYWJsZSBkb2NrZXIuc2VydmljZQpzdWRvIHN5c3RlbWN0bCBzdGFydCBkb2NrZXIuc2VydmljZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
+        <text encoding="base64">Y2hvd24gY2VudG9zOmNlbnRvcyAvcm9vdC8kQ0xJRU5ULm92cG4K</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGV4cG9ydCBDTElFTlQ9JHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2FkZHJlc3MiICJhZGRyZXNzIiB7CiAgY291bnQgID0gMQogIG5hbWUgICA9ICJuYXQtZXh0ZXJuYWwtYWRkcmVzcy0ke2NvdW50LmluZGV4fSIKICByZWdpb24gPSAidXMtY2VudHJhbDEiCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -640,32 +640,14 @@
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="4">
-        <text>resource &quot;google_dns_managed_zone&quot; &quot;dns-private-zone&quot; {
-  provider = &quot;google-beta&quot;
-  name = &quot;${var.project_name}-${var.env}&quot;
-  dns_name = &quot;${var.project_name}-${var.env}.com.&quot;
-  description = &quot;${var.project_name} ${var.env} private dns&quot;
-
-  labels = {
-    environment = &quot;${var.env}&quot;
-    visibility  = &quot;private&quot;
-  }
-
-  visibility = &quot;private&quot;
-
-  private_visibility_config {
-    networks {
-      network_url =  &quot;${google_compute_network.vpc.self_link}&quot;
-    }
-  }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2FkZHJlc3MiICJhZGRyZXNzIiB7CiAgY291bnQgID0gMQogIG5hbWUgICA9ICJuYXQtZXh0ZXJuYWwtYWRkcmVzcy0ke2NvdW50LmluZGV4fSIKICByZWdpb24gPSAidXMtY2VudHJhbDEiCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWVncmVzcy1hbGwubmFtZX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ActivateTerminalToolWindow</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -710,15 +692,15 @@
         <entry>149</entry>
         <entry>35</entry>
         <entry>q!</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>wq</entry>
         <entry>d</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>w</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
