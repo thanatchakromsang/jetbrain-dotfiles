@@ -37,11 +37,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1559155088103">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1559165265203">
         <mark key="'" line="41" column="13" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="63" column="29" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="63" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1554738005817">
         <mark key="[" line="2" column="1" />
@@ -215,17 +216,17 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559164098638">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="66" column="1" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559165553547">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="50" column="5" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559155093222">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559165267864">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557882803998">
         <mark key="'" line="75" column="6" />
@@ -234,11 +235,11 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559154750884">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559164985240">
         <mark key="'" line="8" column="24" />
-        <mark key="[" line="26" column="14" />
+        <mark key="[" line="46" column="0" />
         <mark key="k" line="50" column="0" />
-        <mark key="]" line="26" column="35" />
+        <mark key="]" line="54" column="1" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="1" />
       </file>
@@ -645,46 +646,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>metadata</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICIke3Zhci5yZWdpb259LWEiCg==</text>
+      <register name="0" type="4">
+        <text>dns_managed_zone_dns_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUK</text>
+        <text encoding="base64">ICBjbGllbnRfY2VydGlmaWNhdGVfY29uZmlnIHsKICAgIGlzc3VlX2NsaWVudF9jZXJ0aWZpY2F0ZSA9IGZhbHNlCiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUKICAgIHByZXZlbnRfZGVzdHJveSAgICAgICA9IHRydWUK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXN0ZXJfY2kK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUKICAgIHByZXZlbnRfZGVzdHJveSAgICAgICA9IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXN0ZXJfY2kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBub2RlX2NvbmZpZyB7CiAgICBkaXNrX3NpemVfZ2IgPSAiMzAiCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiM3BvaW50NzVnYiJdfSIKICAgIGltYWdlX3R5cGUgPSAiJHtsb2NhbC5jbHVzdGVyX2ltYWdlX3R5cGV9IgogIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBub2RlX2NvbmZpZyB7CiAgICBkaXNrX3NpemVfZ2IgPSAiMzAiCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiM3BvaW50NzVnYiJdfSIKICAgIGltYWdlX3R5cGUgPSAiJHtsb2NhbC5jbHVzdGVyX2ltYWdlX3R5cGV9IgogIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXN0ZXJfYXV0aG9yaXplZF9uZXR3b3Jrc19jb25maWcgewogICAgY2lkcl9ibG9ja3MgewogICAgICBjaWRyX2Jsb2NrID0gIjEwLjEwLjEuMC8yNCIKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA9ICIiCg==</text>
+        <text encoding="base64">ICBtYXN0ZXJfYXV0aG9yaXplZF9uZXR3b3Jrc19jb25maWcgewogICAgY2lkcl9ibG9ja3MgewogICAgICBjaWRyX2Jsb2NrID0gIjEwLjEwLjEuMC8yNCIKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA9ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
