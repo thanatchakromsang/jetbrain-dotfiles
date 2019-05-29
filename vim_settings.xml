@@ -226,11 +226,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1558098183592">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="41" />
-        <mark key="." line="49" column="59" />
-        <mark key="^" line="49" column="59" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559105700703">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+        <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557883316723">
         <mark key="[" line="19" column="0" />
@@ -257,7 +258,7 @@
         <mark key="." line="359" column="391" />
         <mark key="^" line="359" column="391" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/firewalls.tf" timestamp="1558098528084">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/firewalls.tf" timestamp="1559105688516">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -283,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="21" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="74" column="9" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="72" column="26" filename="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/user.go" />
       <jump line="6" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
@@ -383,6 +383,7 @@
       <jump line="18" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
       <jump line="8" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
+      <jump line="65" column="11" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -677,7 +678,7 @@
         <text encoding="base64">ICAgIGV4cG9ydCBDTElFTlQ9JHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -685,7 +686,7 @@
       <last-offset />
       <last-pattern>firewall</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -721,7 +722,6 @@
         <entry>action QuickImplementations</entry>
         <entry>149</entry>
         <entry>35</entry>
-        <entry>q!</entry>
         <entry>wq</entry>
         <entry>d</entry>
         <entry>action GotoFile</entry>
@@ -731,6 +731,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
