@@ -215,12 +215,12 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559163409964">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="1" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559164098638">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="66" column="1" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559155093222">
         <mark key="[" line="19" column="0" />
@@ -654,37 +654,37 @@
         <text encoding="base64">ICAgICIke3Zhci5yZWdpb259LWEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXN0ZXJfY2kK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUKICAgIHByZXZlbnRfZGVzdHJveSAgICAgICA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBub2RlX2NvbmZpZyB7CiAgICBkaXNrX3NpemVfZ2IgPSAiMzAiCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiM3BvaW50NzVnYiJdfSIKICAgIGltYWdlX3R5cGUgPSAiJHtsb2NhbC5jbHVzdGVyX2ltYWdlX3R5cGV9IgogIH0K</text>
+        <text encoding="base64">ICBtYXN0ZXJfY2kK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXN0ZXJfYXV0aG9yaXplZF9uZXR3b3Jrc19jb25maWcgewogICAgY2lkcl9ibG9ja3MgewogICAgICBjaWRyX2Jsb2NrID0gIjEwLjEwLjEuMC8yNCIKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">ICBub2RlX2NvbmZpZyB7CiAgICBkaXNrX3NpemVfZ2IgPSAiMzAiCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiM3BvaW50NzVnYiJdfSIKICAgIGltYWdlX3R5cGUgPSAiJHtsb2NhbC5jbHVzdGVyX2ltYWdlX3R5cGV9IgogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYXN0ZXJfYXV0aG9yaXplZF9uZXR3b3Jrc19jb25maWcgewogICAgY2lkcl9ibG9ja3MgewogICAgICBjaWRyX2Jsb2NrID0gIjEwLjEwLjEuMC8yNCIKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBub2RlX2xvCg==</text>
+        <text encoding="base64">ICA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIG5ldHdvcmsgPSAiJHt2YXIudnBjLnZwY19zZWxmX2xpbmt9IgovLyAgc3VibmV0d29yayA9ICIke3Zhci52cGMudXRpbGl0eV9zdWJuZXRfc2VsZl9saW5rfSIKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
