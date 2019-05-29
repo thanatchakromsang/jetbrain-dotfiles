@@ -211,9 +211,9 @@
         <mark key="]" line="50" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559124747056">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="19" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559128581196">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="6" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
@@ -641,7 +641,7 @@
         <text>52</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBna2UtcHJpdmF0ZS1zdWJuZXQgICAgID0gdmFyLmdrZS1wcml2YXRlLXN1Ym5ldAo=</text>
+        <text encoding="base64">ICAgIHZwYyA9IG9iamVjdCh7CiAgICAgIGlkICAgICAgICAgPSBzdHJpbmcKICAgICAgY2lkcl9ibG9jayA9IHN0cmluZwogICAgfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
