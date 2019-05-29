@@ -210,12 +210,12 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559157695993">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559158826590">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="18" column="42" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559155093222">
         <mark key="[" line="19" column="0" />
@@ -640,46 +640,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1.12.6-gke.11</text>
+        <text>${var.vpc.utility_subnet_self_link}</text>
       </register>
       <register name="/" type="4">
         <text>resourec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3R5cGUgPSAiJHtsb2NhbC5jbHVzdGVyX2ltYWdlX3R5cGV9Igo=</text>
+        <text encoding="base64">ICBuZXR3b3JrID0gIiR7dmFyLnZwYy52cGNfc2VsZl9saW5rfSIKICBzdWJuZXR3b3JrID0gIiR7dmFyLnZwYy51dGlsaXR5X3N1Ym5ldF9zZWxmX2xpbmt9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICAgICA9IFsiMTAuMTAuMi4wLzE5Il0K</text>
+        <text encoding="base64">Ci8vICAvLyBjbHVzdGVyX2lwdjRfY2lkciBvbmx5IHN1cHBvcnQgc3RyaW5nCi8vICBjbHVzdGVyX2lwdjRfY2lkciA9ICIke2VsZW1lbnQodmFyLmdrZS1wcml2YXRlLXN1Ym5ldCwgMCl9Igo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3R5cGUgPSAiY29zIgo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ICAgICA9IFsiMTAuMTAuMi4wLzE5Il0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9jYWxzIHsKICBpbWFnZXNfdHlwZSA9ICJjb3MiCn0K</text>
+        <text encoding="base64">ICAgIGltYWdlX3R5cGUgPSAiY29zIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9jYWwgewogIGltYWdlc190eXBlID0gImNvcyIKfQo=</text>
+        <text encoding="base64">bG9jYWxzIHsKICBpbWFnZXNfdHlwZSA9ICJjb3MiCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9jYWxzIHsKCn0KCg==</text>
+        <text encoding="base64">bG9jYWwgewogIGltYWdlc190eXBlID0gImNvcyIKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpcF9hbGxvY2F0aW9uX3BvbGljeSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">bG9jYWxzIHsKCn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBub2RlCg==</text>
+        <text encoding="base64">ICBpcF9hbGxvY2F0aW9uX3BvbGljeSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV0aWxpdHlfc3VibmV0X2NpZHIgPSBzdHJpbmcK</text>
+        <text encoding="base64">ICBub2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHV0aWxpdHlfc3VibmV0X2NpZHIgPSBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -716,7 +716,6 @@
         <entry>resourec</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>&quot;w</entry>
         <entry>:w</entry>
@@ -732,9 +731,10 @@
         <entry>vsplit</entry>
         <entry>q!</entry>
         <entry>action GotoFile</entry>
+        <entry>2w</entry>
+        <entry>we</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>2w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
