@@ -210,11 +210,11 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559156818189">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559157695993">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="17" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="17" />
         <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559155093222">
@@ -640,7 +640,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>1.12.6-gke.11</text>
       </register>
       <register name="/" type="4">
         <text>resourec</text>
