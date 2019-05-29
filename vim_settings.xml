@@ -8,12 +8,6 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" timestamp="1558096816752">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/main.tf" timestamp="1557881354918">
         <mark key="[" line="15" column="65" />
         <mark key="]" line="15" column="63" />
@@ -33,11 +27,15 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1558097217501">
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="59" column="36" />
-        <mark key="^" line="59" column="34" />
-        <mark key="." line="59" column="36" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1559109391718">
+        <mark key="'" line="105" column="2" />
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="14" />
+        <mark key="^" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1559109465715">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1554738005817">
         <mark key="[" line="2" column="1" />
@@ -93,12 +91,6 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/variables.tf" timestamp="1558096515868">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
@@ -137,11 +129,11 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1558096564984">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1559108737747">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557883674343">
         <mark key="[" line="11" column="0" />
@@ -284,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="189" column="13" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="22" column="23" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/Jenkinsfile.example" />
       <jump line="169" column="11" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -384,6 +375,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
       <jump line="35" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
       <jump line="29" column="24" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
+      <jump line="105" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -636,34 +628,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>project-dns</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>True</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBNdXN0IGRpc2FibGUgdGhpcyBjb25maWcgYmVmb3JlIHRlcnJhZm9ybSBkZXN0cm95Cg==</text>
+        <text encoding="base64">ICB0eXBlID0gbWFwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBNdXN0IGRpc2FibGUgdGhpcyBjb25maWcgYmVmb3JlIHRlcnJhZm9ybSBkZXN0cm95Cg==</text>
+        <text encoding="base64">ICB0eXBlID0gbWFwCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlID0gbWFwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2luc3RhbmNlIiAidnBuLXdpcmVndWFyZC1pbnN0YW5jZSIgewogIGNvdW50ICAgICAgICA9IDEKICBuYW1lICAgICAgICAgPSAiJHt2YXIuZW52fS12cG4td2lyZWd1YXJkLWluc3RhbmNlIgogIG1hY2hpbmVfdHlwZSA9ICIke3Zhci52bV90eXBlWyIzcG9pbnQ3NWdiIl19IgoKICB6b25lID0gIiR7ZWxlbWVudCh2YXIuem9uZSwgY291bnQuaW5kZXgpfSIKCiAgbGFiZWxzID0gewogICAgZW52aXJvbm1lbnQgPSAiJHt2YXIuZW52fSIKICAgIHByb2plY3QgICAgID0gIiR7dmFyLnByb2plY3RfbmFtZX0iCiAgfQoKICBjYW5faXBfZm9yd2FyZCA9IHRydWUKCiAgdGFncyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWh0dHBzLm5hbWV9IiwKICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLnNzaC5uYW1lfSIsCiAgICAiJHtnb29nbGVfY29tcHV0ZV9maXJld2FsbC52cG4ubmFtZX0iCiAgXQoKICBib290X2Rpc2sgewogICAgaW5pdGlhbGl6ZV9wYXJhbXMgewogICAgICBpbWFnZSA9ICIke3Zhci5vc1siY2VudG9zNyJdfSIKICAgIH0KICB9CgogIG5ldHdvcmtfaW50ZXJmYWNlIHsKICAgIHN1Ym5ldHdvcmsgICAgPSAiJHtlbGVtZW50KGdvb2dsZV9jb21wdXRlX3N1Ym5ldHdvcmsucHVibGljX3N1Ym5ldC4qLm5hbWUsIGNvdW50LmluZGV4KX0iCiAgICBhY2Nlc3NfY29uZmlnID0ge30KICB9CgogIG1ldGFkYXRhIHsKICAgIHN0YXJ0dXAtc2NyaXB0ID0gPDxTQ1JJUFQKICAgIGV4cG9ydCBIT1NUTkFNRT0idnBuIgogICAgZXhwb3J0IFBST0pFQ1RfTkFNRT0ke3Zhci5wcm9qZWN0X25hbWV9CiAgICAke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3NjcmlwdHMvc2V0dXAuc2giKX0KCiAgICBleHBvcnQgR0NTX0JVQ0tFVD0ke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi51cmx9CiAgICAke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3NjcmlwdHMvc2V0dXAtdnBuLWluc3RhbmNlLnNoIil9CiAgICBTQ1JJUFQKICB9Cn0K</text>
+        <text encoding="base64">ICB0eXBlID0gbGlzdChzdHJpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBNdXN0IGRpc2FibGUgdGhpcyBjb25maWcgYmVmb3JlIHRlcnJhZm9ybSBkZXN0cm95Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJ0Y3AiCiAgICBwb3J0cyA9IFsiOTQzIl0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfY29tcHV0ZV9maXJld2FsbCIgInZwbiIgewogIG5hbWUgICAgPSAiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9LWZpcmV3YWxsLXZwbiIKICBuZXR3b3JrID0gIiR7Z29vZ2xlX2NvbXB1dGVfbmV0d29yay52cGMubmFtZX0iCgogIGFsbG93IHsKICAgIHByb3RvY29sID0gInVkcCIKICAgIHBvcnRzICAgID0gWyIxMTk0Il0KICB9CgogIHRhcmdldF90YWdzID0gWyIke3Zhci5wcm9qZWN0X25hbWV9LSR7dmFyLmVudn0tZmlyZXdhbGwtdnBuIl0KfQo=</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb21wdXRlX2luc3RhbmNlIiAidnBuLXdpcmVndWFyZC1pbnN0YW5jZSIgewogIGNvdW50ICAgICAgICA9IDEKICBuYW1lICAgICAgICAgPSAiJHt2YXIuZW52fS12cG4td2lyZWd1YXJkLWluc3RhbmNlIgogIG1hY2hpbmVfdHlwZSA9ICIke3Zhci52bV90eXBlWyIzcG9pbnQ3NWdiIl19IgoKICB6b25lID0gIiR7ZWxlbWVudCh2YXIuem9uZSwgY291bnQuaW5kZXgpfSIKCiAgbGFiZWxzID0gewogICAgZW52aXJvbm1lbnQgPSAiJHt2YXIuZW52fSIKICAgIHByb2plY3QgICAgID0gIiR7dmFyLnByb2plY3RfbmFtZX0iCiAgfQoKICBjYW5faXBfZm9yd2FyZCA9IHRydWUKCiAgdGFncyA9IFsKICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWh0dHBzLm5hbWV9IiwKICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLnNzaC5uYW1lfSIsCiAgICAiJHtnb29nbGVfY29tcHV0ZV9maXJld2FsbC52cG4ubmFtZX0iCiAgXQoKICBib290X2Rpc2sgewogICAgaW5pdGlhbGl6ZV9wYXJhbXMgewogICAgICBpbWFnZSA9ICIke3Zhci5vc1siY2VudG9zNyJdfSIKICAgIH0KICB9CgogIG5ldHdvcmtfaW50ZXJmYWNlIHsKICAgIHN1Ym5ldHdvcmsgICAgPSAiJHtlbGVtZW50KGdvb2dsZV9jb21wdXRlX3N1Ym5ldHdvcmsucHVibGljX3N1Ym5ldC4qLm5hbWUsIGNvdW50LmluZGV4KX0iCiAgICBhY2Nlc3NfY29uZmlnID0ge30KICB9CgogIG1ldGFkYXRhIHsKICAgIHN0YXJ0dXAtc2NyaXB0ID0gPDxTQ1JJUFQKICAgIGV4cG9ydCBIT1NUTkFNRT0idnBuIgogICAgZXhwb3J0IFBST0pFQ1RfTkFNRT0ke3Zhci5wcm9qZWN0X25hbWV9CiAgICAke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3NjcmlwdHMvc2V0dXAuc2giKX0KCiAgICBleHBvcnQgR0NTX0JVQ0tFVD0ke2dvb2dsZV9zdG9yYWdlX2J1Y2tldC5nY3MtYnVja2V0LXZwbi51cmx9CiAgICAke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3NjcmlwdHMvc2V0dXAtdnBuLWluc3RhbmNlLnNoIil9CiAgICBTQ1JJUFQKICB9Cn0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -672,10 +664,10 @@
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9kbnNfbWFuYWdlZF96b25lIiAiZG5zLXByaXZhdGUtem9uZSIgewogIHByb3ZpZGVyID0gImdvb2dsZS1iZXRhIgogIG5hbWUgPSAiJHt2YXIub3JnYW5pemF0aW9ufSIKICBkbnNfbmFtZSA9ICIke3Zhci5vcmdhbml6YXRpb259LmNvbS4iCiAgZGVzY3JpcHRpb24gPSAiJHt2YXIucHJvamVjdF9uYW1lfSAke3Zhci5lbnZ9IHByaXZhdGUgZG5zIgoKICBsYWJlbHMgPSB7CiAgICBlbnZpcm9ubWVudCA9ICIke3Zhci5lbnZ9IgogICAgdmlzaWJpbGl0eSAgPSAicHJpdmF0ZSIKICB9CgogIHZpc2liaWxpdHkgPSAicHJpdmF0ZSIKCiAgcHJpdmF0ZV92aXNpYmlsaXR5X2NvbmZpZyB7CiAgICBuZXR3b3JrcyB7CiAgICAgIG5ldHdvcmtfdXJsID0gICIke2dvb2dsZV9jb21wdXRlX25ldHdvcmsudnBjLnNlbGZfbGlua30iCiAgICB9CiAgfQp9Cg==</text>
+        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJ0Y3AiCiAgICBwb3J0cyA9IFsiOTQzIl0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfY29tcHV0ZV9maXJld2FsbCIgInZwbiIgewogIG5hbWUgICAgPSAiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9LWZpcmV3YWxsLXZwbiIKICBuZXR3b3JrID0gIiR7Z29vZ2xlX2NvbXB1dGVfbmV0d29yay52cGMubmFtZX0iCgogIGFsbG93IHsKICAgIHByb3RvY29sID0gInVkcCIKICAgIHBvcnRzICAgID0gWyIxMTk0Il0KICB9CgogIHRhcmdldF90YWdzID0gWyIke3Zhci5wcm9qZWN0X25hbWV9LSR7dmFyLmVudn0tZmlyZXdhbGwtdnBuIl0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -723,14 +715,14 @@
         <entry>35</entry>
         <entry>wq</entry>
         <entry>d</entry>
-        <entry>action GotoFile</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>q!</entry>
         <entry>&quot;w</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
