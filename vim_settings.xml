@@ -211,12 +211,12 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559160480722">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559161267164">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559155093222">
         <mark key="[" line="19" column="0" />
@@ -647,7 +647,7 @@
         <text>region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuZXR3b3JrID0gIiR7dmFyLnZwYy52cGNfc2VsZl9saW5rfSIKICBzdWJuZXR3b3JrID0gIiR7dmFyLnZwYy51dGlsaXR5X3N1Ym5ldF9zZWxmX2xpbmt9Igo=</text>
+        <text encoding="base64">ICAgICIke3Zhci5yZWdpb259LWEiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -734,8 +734,8 @@
         <entry>action GotoFile</entry>
         <entry>2w</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
