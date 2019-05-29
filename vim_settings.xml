@@ -3,11 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" timestamp="1559121816059">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" timestamp="1559124684316">
+        <mark key="'" line="10" column="0" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/main.tf" timestamp="1557881354918">
         <mark key="[" line="15" column="65" />
@@ -134,9 +132,10 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1559112489942">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1559124632561">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="14" column="13" />
       </file>
@@ -206,6 +205,18 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559124439136">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559124747056">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" timestamp="1557882803998">
         <mark key="'" line="75" column="6" />
         <mark key="[" line="95" column="0" />
@@ -213,13 +224,13 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559122087452">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559123911771">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="22" column="24" />
+        <mark key="[" line="80" column="2" />
         <mark key="k" line="50" column="0" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+        <mark key="]" line="80" column="28" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-vpn-instance.sh" timestamp="1557883316723">
         <mark key="[" line="19" column="0" />
@@ -272,9 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="29" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="321" column="15" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="323" column="35" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="324" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="325" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="307" column="18" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -372,6 +380,9 @@
       <jump line="28" column="32" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="108" column="82" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
+      <jump line="45" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="10" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -624,50 +635,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>network</text>
       </register>
       <register name="/" type="4">
         <text>52</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgInpvbmUiIHsKICBkZXNjcmlwdGlvbiA9ICJEZXBsb3kgaW5zdGFuY2VzIGluIHRoZXNlIHpvbmVzIgogIHR5cGUgICAgICAgID0gbGlzdChzdHJpbmcpCiAgZGVmYXVsdCA9IFsKICAgICJhc2lhLXNvdXRoZWFzdDEtYSIsCiAgICAiYXNpYS1zb3V0aGVhc3QxLWIiLAogICAgImFzaWEtc291dGhlYXN0MS1jIiwKICBdCn0K</text>
+        <text encoding="base64">ICBna2UtcHJpdmF0ZS1zdWJuZXQgICAgID0gdmFyLmdrZS1wcml2YXRlLXN1Ym5ldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBGSVhNRTogRklYIENPTkNBVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBna2UtcHJpdmF0ZS1zdWJuZXQgICAgID0gdmFyLmdrZS1wcml2YXRlLXN1Ym5ldAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyaWFibGUgInV0aWxpdHktcHJpdmF0ZS1zdWJuZXQiIHsKICB0eXBlID0gbGlzdAp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmFyaWFibGUgInpvbmUtcHVibGljLXN1Ym5ldCIgewogIHR5cGUgPSBsaXN0Cn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyaWFibGUgIm9yZ2FuaXphdGlvbiIge30K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBGSVhNRTogRklYIENPTkNBVAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>[]</text>
-      </register>
-      <register name="3" type="4">
-        <text>var.utility-private-subnet</text>
-      </register>
-      <register name="4" type="4">
-        <text>[]</text>
-      </register>
-      <register name="5" type="4">
-        <text>var.gke-private-subnet</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-
-}</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzb3VyY2UgICAgICAgICAgICAgICAgID0gIi4uLy4uL21vZHVsZXMvZGVmYXVsdCIKICBwcm9qZWN0X25hbWUgICAgICAgICAgID0gdmFyLnByb2plY3RfbmFtZQogIGVudiAgICAgICAgICAgICAgICAgICAgPSB2YXIuZW52ID09ICJwcm9kIiA/ICJwcm9kIiA6ICJub25wcm9kIgogIHJlZ2lvbiAgICAgICAgICAgICAgICAgPSB2YXIucmVnaW9uCiAgem9uZSAgICAgICAgICAgICAgICAgICA9IHZhci56b25lCiAgb3JnYW5pemF0aW9uICAgICAgICAgICA9IHZhci5vcmdhbml6YXRpb24KICB6b25lLXB1YmxpYy1zdWJuZXQgICAgID0gdmFyLnpvbmUtcHVibGljLXN1Ym5ldAogIGdrZS1wcml2YXRlLXN1Ym5ldCAgICAgPSBbdmFyLmdrZS1wcml2YXRlLXN1Ym5ldF0KICB1dGlsaXR5LXByaXZhdGUtc3VibmV0ID0gW3Zhci51dGlsaXR5LXByaXZhdGUtc3VibmV0XQogIG9zICAgICAgICAgICAgICAgICAgICAgPSB2YXIub3MKICB2bV90eXBlICAgICAgICAgICAgICAgID0gdmFyLnZtX3R5cGUK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="4">
-        <text>{
-
-}</text>
+        <text>var.utility-private-subnet</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzb3VyY2UgICAgICAgICAgICAgICAgID0gIi4uLy4uL21vZHVsZXMvZGVmYXVsdCIKICBwcm9qZWN0X25hbWUgICAgICAgICAgID0gdmFyLnByb2plY3RfbmFtZQogIGVudiAgICAgICAgICAgICAgICAgICAgPSB2YXIuZW52ID09ICJwcm9kIiA/ICJwcm9kIiA6ICJub25wcm9kIgogIHJlZ2lvbiAgICAgICAgICAgICAgICAgPSB2YXIucmVnaW9uCiAgem9uZSAgICAgICAgICAgICAgICAgICA9IHZhci56b25lCiAgb3JnYW5pemF0aW9uICAgICAgICAgICA9IHZhci5vcmdhbml6YXRpb24KICB6b25lLXB1YmxpYy1zdWJuZXQgICAgID0gdmFyLnpvbmUtcHVibGljLXN1Ym5ldAogIGdrZS1wcml2YXRlLXN1Ym5ldCAgICAgPSBbdmFyLmdrZS1wcml2YXRlLXN1Ym5ldF0KICB1dGlsaXR5LXByaXZhdGUtc3VibmV0ID0gW3Zhci51dGlsaXR5LXByaXZhdGUtc3VibmV0XQogIG9zICAgICAgICAgICAgICAgICAgICAgPSB2YXIub3MKICB2bV90eXBlICAgICAgICAgICAgICAgID0gdmFyLnZtX3R5cGUK</text>
+      <register name="9" type="4">
+        <text>[]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -704,12 +711,9 @@
         <entry>52</entry>
       </history-search>
       <history-cmd>
-        <entry>d</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>q!</entry>
         <entry>&quot;w</entry>
         <entry>action CommentByLineComment</entry>
         <entry>:w</entry>
@@ -722,6 +726,9 @@
         <entry>52</entry>
         <entry>109</entry>
         <entry>100</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>vsplit</entry>
+        <entry>q!</entry>
         <entry>action GotoFile</entry>
         <entry>w</entry>
       </history-cmd>
