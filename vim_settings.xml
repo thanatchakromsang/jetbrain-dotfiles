@@ -214,11 +214,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559469737871">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559473433862">
         <mark key="'" line="65" column="12" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="103" column="10" />
+        <mark key="]" line="103" column="6" />
+        <mark key="." line="103" column="6" />
+        <mark key="^" line="103" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
         <mark key="[" line="20" column="29" />
@@ -650,46 +651,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cluster_node_label</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>location</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyB7CiAgICAgICJ0aWVyIjogInRlc3QiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IHsKICAgICAgImNsdXN0ZXIiICAgICAgICAgICAgICAgICAgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogICAgICAidGllciIgICAgICAgICAgICAgICAgICAgICAgICA9ICJ0ZXN0IgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
+        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvdXJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNvdXJjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -700,7 +701,7 @@
       <last-offset />
       <last-pattern>location</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -741,10 +742,10 @@
         <entry>q!</entry>
         <entry>2w</entry>
         <entry>we</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>W</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
