@@ -214,12 +214,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559463334582">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="145" column="45" />
-        <mark key="]" line="145" column="85" />
-        <mark key="." line="145" column="85" />
-        <mark key="^" line="145" column="85" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559469737871">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
         <mark key="[" line="20" column="29" />
@@ -299,17 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="58" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="17" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
-      <jump line="37" column="56" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
-      <jump line="8" column="8" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
-      <jump line="11" column="51" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
-      <jump line="14" column="33" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/ArchiveS3.groovy" />
-      <jump line="15" column="36" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="69" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="41" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="139" column="35" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="37" column="39" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
       <jump line="39" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
@@ -399,6 +387,17 @@
       <jump line="24" column="25" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="32" column="25" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="97" column="16" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
+      <jump line="34" column="4" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="79" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="156" column="10" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="89" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="122" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="161" column="10" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="13" column="21" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="19" column="7" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="91" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="33" column="7" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="65" column="12" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,60 +653,57 @@
         <text>cluster_node_label</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text>location</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxhYmVscyB7CiAgICAgICJ0aWVyIjogInRlc3QiCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIms4cy5mdWxsc3RvcnkuY29tL25vZGUtdGFzayIgPSAibXktdmFsdWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSBbCiAgICAgICJ0aWVyIgogICAgXQo=</text>
+        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGllciA9ICJ0ZXN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInRpZXIiOiAidGVzdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>region</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>..</entry>
-        <entry>source_ranges</entry>
-        <entry encoding="base64">XDwjXD4=</entry>
         <entry>firewall</entry>
         <entry>True</entry>
         <entry>access</entry>
@@ -725,6 +721,9 @@
         <entry>resourec</entry>
         <entry>preem</entry>
         <entry>region</entry>
+        <entry>rfesoucre</entry>
+        <entry>resource</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
