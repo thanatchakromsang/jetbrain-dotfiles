@@ -98,10 +98,10 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/variables.tf" timestamp="1559160389328">
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/variables.tf" timestamp="1559564719937">
         <mark key="'" line="58" column="47" />
-        <mark key="[" line="81" column="30" />
-        <mark key="]" line="81" column="29" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="13" />
         <mark key="." line="81" column="29" />
         <mark key="^" line="81" column="29" />
       </file>
@@ -214,12 +214,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559486747111">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="103" column="10" />
-        <mark key="]" line="103" column="6" />
-        <mark key="." line="103" column="6" />
-        <mark key="^" line="103" column="6" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559564723342">
+        <mark key="'" line="152" column="19" />
+        <mark key="[" line="139" column="35" />
+        <mark key="]" line="139" column="44" />
+        <mark key="." line="139" column="35" />
+        <mark key="^" line="139" column="44" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
         <mark key="[" line="20" column="29" />
@@ -299,9 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="39" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
-      <jump line="39" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/Pipeline.groovy" />
-      <jump line="345" column="0" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="154" column="17" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="149" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
       <jump line="249" column="5" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
@@ -399,6 +396,9 @@
       <jump line="33" column="7" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
       <jump line="65" column="12" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
       <jump line="22" column="22" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="133" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="148" column="45" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="152" column="19" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -651,63 +651,60 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>3point75gb</text>
       </register>
       <register name="/" type="4">
-        <text>location</text>
+        <text>preem</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyA9IHsKICAgICAgImNsdXN0ZXIiICAgICAgICAgICAgICAgICAgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogICAgICAidGllciIgICAgICAgICAgICAgICAgICAgICAgICA9ICJ0ZXN0IgogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>1point7gb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
+        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNvdXJjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>location</last-search>
+      <last-search>preem</last-search>
       <last-offset />
-      <last-pattern>location</last-pattern>
+      <last-pattern>preem</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>firewall</entry>
-        <entry>True</entry>
-        <entry>access</entry>
         <entry>access_config</entry>
         <entry>network</entry>
         <entry>networks</entry>
@@ -720,11 +717,14 @@
         <entry>vpc</entry>
         <entry>os</entry>
         <entry>resourec</entry>
-        <entry>preem</entry>
         <entry>region</entry>
         <entry>rfesoucre</entry>
         <entry>resource</entry>
         <entry>location</entry>
+        <entry>niode</entry>
+        <entry>role</entry>
+        <entry>default</entry>
+        <entry>preem</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
