@@ -214,12 +214,10 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559564723342">
-        <mark key="'" line="152" column="19" />
-        <mark key="[" line="139" column="35" />
-        <mark key="]" line="139" column="44" />
-        <mark key="." line="139" column="35" />
-        <mark key="^" line="139" column="44" />
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559621264386">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
         <mark key="[" line="20" column="29" />
@@ -660,28 +658,28 @@
         <text>1point7gb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb250YWluZXJfbm9kZV9wb29sIiAidGVzdC1ub2RlLXBvb2wiIHsKICBuYW1lICAgICAgID0gIiR7dmFyLmVudn0tdGVzdC1ub2RlLXBvb2wiCiAgbG9jYXRpb24gICA9ICIke3Zhci5yZWdpb259IgogIGNsdXN0ZXIgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogIG5vZGVfY291bnQgPSAxCgogIGF1dG9zY2FsaW5nIHsKICAgIG1heF9ub2RlX2NvdW50ID0gMwogICAgbWluX25vZGVfY291bnQgPSAxCiAgfQoKICB2ZXJzaW9uID0gIiR7Z29vZ2xlX2NvbnRhaW5lcl9jbHVzdGVyLnByaW1hcnktY2x1c3Rlci5ub2RlX3ZlcnNpb259IgoKICBub2RlX2NvbmZpZyB7CiAgICBwcmVlbXB0aWJsZSAgPSB0cnVlCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiMXBvaW50N2diIl19IgogICAgaW1hZ2VfdHlwZSA9ICIke2xvY2FsLmNsdXN0ZXJfaW1hZ2VfdHlwZX0iCgogICAgbWV0YWRhdGEgPSB7CiAgICAgIGRpc2FibGUtbGVnYWN5LWVuZHBvaW50cyA9ICJ0cnVlIgogICAgfQoKICAgIGxhYmVscyA9IHsKICAgICAgImNsdXN0ZXIiICAgICAgICAgICAgICAgICAgICAgICAgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogICAgICAidGllciIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICJ0ZXN0IgogICAgICAibm9kZS1yb2xlLmt1YmVybmV0ZXMuaW8vdGVzdCIgICAgICA9ICJ0ZXN0IgogICAgfQoKICAgIG9hdXRoX3Njb3BlcyA9IFsKICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvbG9nZ2luZy53cml0ZSIsCiAgICAgICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL21vbml0b3JpbmciLAogICAgXQogIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
+        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
+        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
@@ -690,7 +688,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNvdXJjCg==</text>
+        <text encoding="base64">ICByZXNvdXJjZV9sYWJlbHMge30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -701,7 +699,7 @@
       <last-offset />
       <last-pattern>preem</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
