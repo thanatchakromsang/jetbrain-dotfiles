@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" timestamp="1559168297099">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/variables.tf" timestamp="1560562180858">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="19" />
+        <mark key="." line="49" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/main.tf" timestamp="1557881354918">
         <mark key="[" line="15" column="65" />
@@ -25,24 +25,6 @@
       <file name="/a.dummy" timestamp="1559168254618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/.terraform/modules/81c8462290651facd5a35c48dace6dad/firewalls.tf" timestamp="1559111001882">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="26" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1559462636722">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="45" column="33" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="45" column="33" />
-        <mark key="^" line="45" column="29" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1554738005817">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
@@ -55,29 +37,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/goland64.vmoptions" timestamp="1554954824645">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/vpc/outputs.tf" timestamp="1557846025455">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="43" />
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="43" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554955631600">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/router.go" timestamp="1554381220245">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup.sh" timestamp="1557879275737">
         <mark key="[" line="17" column="23" />
@@ -98,18 +62,18 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/variables.tf" timestamp="1559564719937">
-        <mark key="'" line="58" column="47" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="38" column="13" />
-        <mark key="." line="81" column="29" />
-        <mark key="^" line="81" column="29" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1560562517024">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/variables.tf" timestamp="1560562460720">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="18" column="6" />
+        <mark key="." line="18" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1556026506022">
         <mark key="[" line="6" column="38" />
@@ -135,13 +99,6 @@
         <mark key="." line="66" column="60" />
         <mark key="^" line="66" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1559124632561">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="14" column="13" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-gitlab-instance.sh" timestamp="1557883674343">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="35" />
@@ -153,6 +110,126 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1560562471956">
+        <mark key="'" line="124" column="69" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/.env" timestamp="1558096502989">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="/HashiCorp Interpolation Language Fragment (main.tf:319).hil" timestamp="1557846866301">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1560561217963">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559634667433">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" timestamp="1557881364517">
+        <mark key="'" line="58" column="43" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-mgmt-instance.sh" timestamp="1557849204967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/main.tf" timestamp="1559168297099">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.gitignore" timestamp="1554375762566">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" timestamp="1559462636722">
+        <mark key="'" line="97" column="16" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/goland64.vmoptions" timestamp="1554954824645">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/.env" timestamp="1554955631600">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/route/router.go" timestamp="1554381220245">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/main/non-prod/variables.tf" timestamp="1559564719937">
+        <mark key="'" line="58" column="47" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineLogger.groovy" timestamp="1554198379242">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/main.tf" timestamp="1560560332100">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="44" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/variables.tf" timestamp="1559124632561">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/variables.tf" timestamp="1557844683035">
         <mark key="[" line="10" column="15" />
@@ -172,17 +249,12 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/.env" timestamp="1558096502989">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-      </file>
-      <file name="/HashiCorp Interpolation Language Fragment (main.tf:319).hil" timestamp="1557846866301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" timestamp="1560560957229">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="8" />
+        <mark key="]" line="81" column="39" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend/go.mod" timestamp="1554380923990">
         <mark key="[" line="0" column="18" />
@@ -202,29 +274,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/kmitl-crm/backend /backend_.go" timestamp="1554367488153">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/outputs.tf" timestamp="1557850582430">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" timestamp="1559634667433">
-        <mark key="'" line="10" column="20" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/variables.tf" timestamp="1559166413595">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/main.tf" timestamp="1557844687506">
         <mark key="[" line="15" column="44" />
@@ -238,6 +292,13 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
         <mark key="^" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" timestamp="1560562205910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="80" column="37" />
+        <mark key="." line="80" column="22" />
+        <mark key="^" line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" timestamp="1559168235724">
         <mark key="'" line="8" column="24" />
@@ -258,13 +319,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="53" column="15" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" timestamp="1557881364517">
-        <mark key="'" line="58" column="43" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/Projects/lightnet/surepay/surepay-operation/terraform/non-production/terraform-nonprod-k8s/common/main.tf" timestamp="1555914197791">
         <mark key="[" line="359" column="0" />
@@ -289,55 +343,15 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-mgmt-instance.sh" timestamp="1557849204967">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1560561657084">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="5" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="252" column="19" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="159" column="16" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/PipelineContext.groovy" />
-      <jump line="7" column="27" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/vars/stageDeploy.groovy" />
-      <jump line="70" column="36" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="53" column="77" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="58" column="85" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="33" column="55" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="39" column="78" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="43" column="84" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="15" column="21" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="9" column="12" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="12" column="44" filename="$USER_HOME$/Developer/Projects/lightnet/jenkins-pipeline-library/src/com/lightnet/stage/Deploy.groovy" />
-      <jump line="55" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/vpc/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/vpc/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/gitlab/main.tf" />
-      <jump line="12" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/variables.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/scripts/setup-mgmt-instance.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/vpn-provision.sh" />
-      <jump line="71" column="6" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/instances.tf" />
-      <jump line="23" column="19" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
-      <jump line="70" column="17" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
-      <jump line="73" column="10" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
-      <jump line="57" column="10" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
-      <jump line="58" column="43" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/main/non-prod/variables.tf" />
-      <jump line="18" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
-      <jump line="8" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/terraform/modules/default/firewalls.tf" />
-      <jump line="65" column="11" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="111" column="11" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="35" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="105" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
-      <jump line="77" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="46" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="55" column="19" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="30" column="12" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="86" column="4" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
-      <jump line="29" column="12" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
       <jump line="62" column="29" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="84" column="12" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="100" column="51" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
@@ -398,6 +412,46 @@
       <jump line="152" column="19" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
       <jump line="139" column="43" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
       <jump line="10" column="20" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
+      <jump line="84" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="105" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="60" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="74" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="86" column="31" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="98" column="22" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="104" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="95" column="10" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="34" column="24" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="19" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="43" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="64" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="68" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="71" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="67" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="7" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="63" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="88" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="113" column="28" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="77" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="71" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="6" column="35" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="35" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="64" column="31" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="4" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="14" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="54" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="11" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="56" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/variables.tf" />
+      <jump line="52" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="25" column="22" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
+      <jump line="91" column="10" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="125" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="17" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="25" column="32" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="26" column="26" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="124" column="69" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -650,13 +704,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>3point75gb</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>preem</text>
+        <text>utility</text>
       </register>
-      <register name="0" type="4">
-        <text>1point7gb</text>
+      <register name="0" type="2">
+        <text encoding="base64">b3V0cHV0ICJna2Vfc3VibmV0X3NlbGZfbGluayIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbXB1dGVfc3VibmV0d29yay5na2VfcHJpdmF0ZV9zdWJuZXRbMF0uc2VsZl9saW5rfSIKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -665,57 +719,48 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0cHV0ICJjbGllbnRfY2VydCIgewogIHZhbHVlID0gZ29vZ2xlX2NvbnRhaW5lcl9jbHVzdGVyLnByaW1hcnktY2x1c3Rlci5tYXN0ZXJfYXV0aG9yaXplZF9uZXR3b3Jrc19jb25maWcKfQo=</text>
+        <text encoding="base64">b3V0cHV0ICJna2Vfc3VibmV0X3NlbGZfbGluayIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbXB1dGVfc3VibmV0d29yay5na2VfcHJpdmF0ZV9zdWJuZXRbMF0uc2VsZl9saW5rfSIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gIiR7dmFyLmVudn0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9jb250YWluZXJfbm9kZV9wb29sIiAidGVzdC1ub2RlLXBvb2wiIHsKICBuYW1lICAgICAgID0gIiR7dmFyLmVudn0tdGVzdC1ub2RlLXBvb2wiCiAgbG9jYXRpb24gICA9ICIke3Zhci5yZWdpb259IgogIGNsdXN0ZXIgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogIG5vZGVfY291bnQgPSAxCgogIGF1dG9zY2FsaW5nIHsKICAgIG1heF9ub2RlX2NvdW50ID0gMwogICAgbWluX25vZGVfY291bnQgPSAxCiAgfQoKICB2ZXJzaW9uID0gIiR7Z29vZ2xlX2NvbnRhaW5lcl9jbHVzdGVyLnByaW1hcnktY2x1c3Rlci5ub2RlX3ZlcnNpb259IgoKICBub2RlX2NvbmZpZyB7CiAgICBwcmVlbXB0aWJsZSAgPSB0cnVlCiAgICBtYWNoaW5lX3R5cGUgPSAiJHt2YXIudm1fdHlwZVsiMXBvaW50N2diIl19IgogICAgaW1hZ2VfdHlwZSA9ICIke2xvY2FsLmNsdXN0ZXJfaW1hZ2VfdHlwZX0iCgogICAgbWV0YWRhdGEgPSB7CiAgICAgIGRpc2FibGUtbGVnYWN5LWVuZHBvaW50cyA9ICJ0cnVlIgogICAgfQoKICAgIGxhYmVscyA9IHsKICAgICAgImNsdXN0ZXIiICAgICAgICAgICAgICAgICAgICAgICAgICAgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIucHJpbWFyeS1jbHVzdGVyLm5hbWV9IgogICAgICAidGllciIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICJ0ZXN0IgogICAgICAibm9kZS1yb2xlLmt1YmVybmV0ZXMuaW8vdGVzdCIgICAgICA9ICJ0ZXN0IgogICAgfQoKICAgIG9hdXRoX3Njb3BlcyA9IFsKICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvbG9nZ2luZy53cml0ZSIsCiAgICAgICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL21vbml0b3JpbmciLAogICAgXQogIH0KfQo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gIiR7dmFyLmVudn0iCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="8">
+        <text>&quot;${
+&quot;${
+&quot;${
+&quot;${</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgbGFiZWxzIHsKLy8gICAgICAidGllciI6ICJiYWNrZW5kIgovLyAgICB9Cg==</text>
+        <text encoding="base64">ICBkZWxldGlvbl9wcm90ZWN0aW9uID0gdHJ1ZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWludGVybmFsLm5hbWV9IiwKICAgICIke2dvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWh0dHAubmFtZX0iLAogICAgIiR7Z29vZ2xlX2NvbXB1dGVfZmlyZXdhbGwuYWxsb3ctaHR0cHMubmFtZX0iCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBub2RlX2xvY2F0aW8K</text>
+        <text encoding="base64">ICAgIGdvb2dsZV9jb21wdXRlX2ZpcmV3YWxsX2FsbG93X2h0dHBzX25hbWUgPSBzdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnZhcmlhYmxlICJyZXNvdXJjZV9sYWJlbHMiIHsKICBkZWZhdWx0ID0gewogICAgZW52aXJvbm1lbnQgPSAiZGV2ZWxvcG1lbnQiCiAgICBtYWludGFpbmVyICA9ICJpYW1maXZlcnJndXlAZ21haWwuY29tIgogIH0KICBkZXNjcmlwdGlvbiA9ICJLdWJlcm5ldGVzIGNsdXN0ZXItd2lkZSByZXNvdXJjZSBsYWJlbHMiCn0K</text>
+        <text encoding="base64">b3V0cHV0ICJnb29nbGVfY29tcHV0ZV9maXJld2FsbF9hbGxvd19odHRwX25hbWUiIHsKICB2YWx1ZSA9IGdvb2dsZV9jb21wdXRlX2ZpcmV3YWxsLmFsbG93LWh0dHAubmFtZQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>preem</last-search>
+      <last-search>utility</last-search>
       <last-offset />
-      <last-pattern>preem</last-pattern>
+      <last-pattern>utility</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>access_config</entry>
-        <entry>network</entry>
-        <entry>networks</entry>
-        <entry>gke</entry>
-        <entry>52</entry>
-        <entry>vm_type</entry>
-        <entry>zone</entry>
-        <entry>central</entry>
-        <entry>metadata</entry>
-        <entry>vpc</entry>
-        <entry>os</entry>
-        <entry>resourec</entry>
         <entry>region</entry>
         <entry>rfesoucre</entry>
         <entry>resource</entry>
@@ -724,9 +769,20 @@
         <entry>role</entry>
         <entry>default</entry>
         <entry>preem</entry>
+        <entry>robowealth</entry>
+        <entry>com</entry>
+        <entry>organization</entry>
+        <entry>var.vpc</entry>
+        <entry>dns_managed_zone</entry>
+        <entry>output\</entry>
+        <entry>output</entry>
+        <entry>subnet</entry>
+        <entry>zone</entry>
+        <entry>out</entry>
+        <entry>gke</entry>
+        <entry>utility</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry>:w</entry>
         <entry>104</entry>
         <entry>19</entry>
@@ -737,14 +793,15 @@
         <entry>52</entry>
         <entry>109</entry>
         <entry>100</entry>
-        <entry>vsplit</entry>
         <entry>q!</entry>
         <entry>2w</entry>
         <entry>we</entry>
-        <entry>W</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>vsplit</entry>
+        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>W</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
