@@ -124,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="26" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/gke/main.tf" />
       <jump line="80" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/instances.tf" />
       <jump line="44" column="2" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/Projects/robowealth/operation/modules/default/main.tf" />
@@ -224,6 +223,7 @@
       <jump line="67" column="35" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="85" column="62" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="78" column="128" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Lint.groovy" />
+      <jump line="2" column="10" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
