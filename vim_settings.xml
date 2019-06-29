@@ -34,12 +34,10 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1561307100657">
-        <mark key="'" line="32" column="59" />
-        <mark key="[" line="26" column="71" />
-        <mark key="]" line="26" column="71" />
-        <mark key="." line="26" column="71" />
-        <mark key="^" line="26" column="71" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1561801215852">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="110" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveS3.groovy" timestamp="1560866527531">
         <mark key="[" line="2" column="11" />
@@ -115,10 +113,10 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1560866499630">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1561801231823">
+        <mark key="[" line="59" column="56" />
+        <mark key="]" line="59" column="127" />
+        <mark key="." line="59" column="56" />
         <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1560866398500">
@@ -484,46 +482,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Entry point</text>
+        <text>${context.projectName}:${imgName}-${context.tagVersion}</text>
       </register>
       <register name="/" type="4">
         <text>stage</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV0aWwuc2xhY2subm90aWZ5KGNvbnRleHQsICdTVUNDRVNTJykK</text>
+      <register name="0" type="4">
+        <text>${context.containerName}:${context.gitBranchName}-${context.tagVersion}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RoaXMua3ViZXJuZXRlc0NvbnRleHQgPSBrdWJlcm5ldGVzQ29udGV4dAogICAgICAgIC8vdGhpcy5maWxlID0gImRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvY2tlciBsb2dpbiAtdSBcJHtVU0VSTkFNRX0gLXAgXCR7UEFTU1dPUkR9ICR7Y29udGV4dC5yZWdpc3RyeVVybH0K</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vTWFwIGt1YmVybmV0ZXNDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICJoZWxsbyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY3JpcHQud2l0aENyZWRlbnRpYWxzKFtzY3JpcHQudXNlcm5hbWVQYXNzd29yZChjcmVkZW50aWFsc0lkOiAiJHtjb250ZXh0LnJlZ2lzdHJ5Q3JlZGVudGlhbH0iLCB1c2VybmFtZVZhcmlhYmxlOiAiVVNFUk5BTUUiLCBwYXNzd29yZFZhcmlhYmxlOiAiUEFTU1dPUkQiKV0pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL3RoaXMua3ViZXJuZXRlc0NvbnRleHQgPSBrdWJlcm5ldGVzQ29udGV4dAogICAgICAgIC8vdGhpcy5maWxlID0gImRlcGxveW1lbnQtJHtjb250ZXh0LnByb2plY3ROYW1lfS0ke2NvbnRleHQuZ2l0QnJhbmNoTmFtZX0tJHtjb250ZXh0LnRhZ1ZlcnNpb259LnlhbWwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV0aWwuc2xhY2subm90aWZ5KGNvbnRleHQsICdGQUlMVVJFJykK</text>
+        <text encoding="base64">ICAgIC8vTWFwIGt1YmVybmV0ZXNDb250ZXh0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGRkbC5naXRsYWJDb21taXRTdGF0dXMuc3VjY2VzcyhzY3JpcHQuZW52LlNUQUdFX05BTUUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICJoZWxsbyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICJoZWxsbyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHV0aWwuc2xhY2subm90aWZ5KGNvbnRleHQsICdGQUlMVVJFJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY3JpcHQuZWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGRkbC5naXRsYWJDb21taXRTdGF0dXMuc3VjY2VzcyhzY3JpcHQuZW52LlNUQUdFX05BTUUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
