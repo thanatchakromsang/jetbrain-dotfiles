@@ -121,9 +121,12 @@
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="87" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1561897198875">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1561899419530">
         <mark key="'" line="35" column="29" />
-        <mark key="^" line="35" column="98" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="71" />
+        <mark key="." line="47" column="71" />
+        <mark key="^" line="47" column="71" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1560866398500">
         <mark key="[" line="3" column="11" />
@@ -488,46 +491,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>kubernetesIngressClass</text>
       </register>
       <register name="/" type="4">
         <text>subgroup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5lcnJvciAiJHtzY3JpcHQuZW52LlNUQUdFX05BTUV9ICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICR7Y29udGV4dC5rdWJlcm5ldGVzSW5ncmVzc0NsYXNzfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgZ2V0U3ViZ3JvdXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvICR7Y29udGV4dC5jb250YWluZXJOYW1lfQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jU1VCR1JPVVAjLyR7Y29udGV4dC5zdWJncm91cH0vZyAke2ZpbGV9Cg==</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgZ2V0U3ViZ3JvdXAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jU1VCR1JPVVAjLyR7Y29udGV4dC5zdWJncm91cH0vZyAke2ZpbGV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRTdWJncm91cCgpIHsKICAgICAgICByZXR1cm4gY29uZmlnLnJlZ2lzdHJ5LnN1Ymdyb3VwCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRTdWJncm91cCgpIHsKICAgICAgICByZXR1cm4gY29uZmlnLnJlZ2lzdHJ5LnN1Ymdyb3VwCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hcmNoaXZlQXJ0aWZhY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvICIke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hcmNoaXZlQXJ0aWZhY3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuc2tpcFBpcGVsaW5lKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvICIke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
