@@ -95,14 +95,14 @@
         <mark key="." line="49" column="76" />
         <mark key="^" line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1561893897938">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="53" column="31" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1561898509016">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="51" column="31" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" timestamp="1561897147456">
-        <mark key="'" line="223" column="4" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" timestamp="1561898504123">
+        <mark key="'" line="165" column="4" />
         <mark key="k" line="2" column="23" />
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
@@ -123,9 +123,6 @@
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1561897198875">
         <mark key="'" line="35" column="29" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
         <mark key="^" line="35" column="98" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageDeploy.groovy" timestamp="1560866398500">
@@ -139,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
       <jump line="95" column="10" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
       <jump line="34" column="24" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="19" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
@@ -239,6 +235,7 @@
       <jump line="187" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="175" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="223" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="165" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,37 +497,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5lcnJvciAiJHtzY3JpcHQuZW52LlNUQUdFX05BTUV9ICIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jU1VCR1JPVVAjLyR7Y29udGV4dC5zdWJncm91cH0vZyAke2ZpbGV9Cg==</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgZ2V0U3ViZ3JvdXAoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWQgLWkgcy8jU1VCR1JPVVAjLyR7Y29udGV4dC5zdWJncm91cH0vZyAke2ZpbGV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBnZXRTdWJncm91cCgpIHsKICAgICAgICByZXR1cm4gY29uZmlnLnJlZ2lzdHJ5LnN1Ymdyb3VwCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBnZXRTdWJncm91cCgpIHsKICAgICAgICByZXR1cm4gY29uZmlnLnJlZ2lzdHJ5LnN1Ymdyb3VwCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hcmNoaXZlQXJ0aWZhY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvICIke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hcmNoaXZlQXJ0aWZhY3QoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuc2tpcFBpcGVsaW5lKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5pbmZvICIke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAiJHtzY3JpcHQuZW52LlNUQUdFX05BTUV9IHN0YWdlIHNraXBwZWQgZHVlIHRvIGdpdCBjb21taXQgb3ZlcnJpZGUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuc2tpcFBpcGVsaW5lKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
