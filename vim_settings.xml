@@ -20,12 +20,6 @@
         <mark key="]" line="36" column="127" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/variables.tf" timestamp="1562255655306">
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="38" column="13" />
-        <mark key="." line="28" column="12" />
-        <mark key="^" line="28" column="12" />
-      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1561911055130">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="96" />
@@ -535,43 +529,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>10.96.0.0/14</text>
       </register>
       <register name="/" type="4">
-        <text>script</text>
+        <text>gke</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlICJqZW5raW5zIiB7CiAgc291cmNlICAgICAgICAgICAgICAgICA9ICIuLi8uLi9tb2R1bGVzL2plbmtpbnMiCiAgcHJvamVjdF9uYW1lICAgICAgICAgICA9IHZhci5wcm9qZWN0X25hbWUKICBlbnYgICAgICAgICAgICAgICAgICAgID0gdmFyLmVudiA9PSAicHJvZCIgPyAicHJvZCIgOiAibm9ucHJvZCIKICByZWdpb24gICAgICAgICAgICAgICAgID0gdmFyLnJlZ2lvbgogIHpvbmUgICAgICAgICAgICAgICAgICAgPSB2YXIuem9uZQogIG9zICAgICAgICAgICAgICAgICAgICAgPSB2YXIub3MKICB1dGlsaXR5LXByaXZhdGUtc3VibmV0ID0gdmFyLnV0aWxpdHktcHJpdmF0ZS1zdWJuZXQKICB2bV90eXBlICAgICAgICAgICAgICAgID0gdmFyLnZtX3R5cGUKICB2cGMgPSBtb2R1bGUudnBjCn0K</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJQcml2YXRlIHN1Ym5ldHdvcmsgQ0lEUiIKICB0eXBlICAgICAgICA9IGxpc3Qoc3RyaW5nKQogIGRlZmF1bHQgICAgID0gWyIxMC45Ni4wLjAvMTQiXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="4">
+        <text>()</text>
+      </register>
+      <register name="3" type="4">
         <text>count.index</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IiR7ZWxlbWVudCh2YXIuZ2tlLXByaXZhdGUtc3VibmV0LCBjb3VudC5pbmRleCl9Igo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiR7ZWxlbWVudCh2YXIuZ2tlLXByaXZhdGUtc3VibmV0LCBjb3VudC5pbmRleCl9Igo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb3VudCAgICAgICAgPSAxCiAgbmFtZSAgICAgICAgID0gImplbmtpbnMtc2xhdmUtaW5zdGFuY2UtJHtjb3VudC5pbmRleCArIDF9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9kbnNfcmVjb3JkX3NldCIgImplbmtpbnMtc2xhdmUtZG5zLXJlY29yZCIgewogIG5hbWUgPSAiamVua2lucy1zbGF2ZS4ke3Zhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fZG5zX25hbWV9IgogIHR5cGUgPSAiQSIKICB0dGwgID0gMzAwCgogIG1hbmFnZWRfem9uZSA9IHZhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fbmFtZQoKICBycmRhdGFzID0gZ29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UuamVua2lucy1zbGF2ZS1pbnN0YW5jZVsqXS5uZXR3b3JrX2ludGVyZmFjZS4wLm5ldHdvcmtfaXAKfQo=</text>
+        <text encoding="base64">ICBjb3VudCAgICAgICAgPSAxCiAgbmFtZSAgICAgICAgID0gImplbmtpbnMtc2xhdmUtaW5zdGFuY2UtJHtjb3VudC5pbmRleCArIDF9Igo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9kbnNfcmVjb3JkX3NldCIgImplbmtpbnMtc2xhdmUtZG5zLXJlY29yZCIgewogIG5hbWUgPSAiamVua2lucy1zbGF2ZS4ke3Zhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fZG5zX25hbWV9IgogIHR5cGUgPSAiQSIKICB0dGwgID0gMzAwCgogIG1hbmFnZWRfem9uZSA9IHZhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fbmFtZQoKICBycmRhdGFzID0gZ29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UuamVua2lucy1zbGF2ZS1pbnN0YW5jZVsqXS5uZXR3b3JrX2ludGVyZmFjZS4wLm5ldHdvcmtfaXAKfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -581,15 +575,14 @@
       </register>
     </registers>
     <search>
-      <last-search>script</last-search>
+      <last-search>gke</last-search>
       <last-offset />
-      <last-pattern>script</last-pattern>
+      <last-pattern>gke</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CRUMB</entry>
         <entry>junit</entry>
         <entry>new Date</entry>
         <entry>imgName</entry>
@@ -609,6 +602,7 @@
         <entry>shouldArchive</entry>
         <entry>archive</entry>
         <entry>script</entry>
+        <entry>gke</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
