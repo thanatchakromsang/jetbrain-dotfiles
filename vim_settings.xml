@@ -86,10 +86,10 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1562290204046">
-        <mark key="[" line="88" column="108" />
-        <mark key="]" line="88" column="104" />
-        <mark key="." line="88" column="104" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1562293488266">
+        <mark key="[" line="116" column="13" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="13" />
         <mark key="^" line="88" column="104" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/backend-node-pool.tf" timestamp="1562255253420">
@@ -535,8 +535,8 @@
       <register name="/" type="4">
         <text>gke</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJQcml2YXRlIHN1Ym5ldHdvcmsgQ0lEUiIKICB0eXBlICAgICAgICA9IGxpc3Qoc3RyaW5nKQogIGRlZmF1bHQgICAgID0gWyIxMC45Ni4wLjAvMTQiXQo=</text>
+      <register name="0" type="4">
+        <text>node-role.kubernetes.io</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
