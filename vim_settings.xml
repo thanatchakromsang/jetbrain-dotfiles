@@ -146,11 +146,11 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562605400013">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562607126101">
+        <mark key="[" line="52" column="151" />
+        <mark key="]" line="52" column="156" />
+        <mark key="." line="52" column="156" />
+        <mark key="^" line="52" column="156" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/gcs-bucket.tf" timestamp="1562599088552">
         <mark key="[" line="0" column="0" />
@@ -667,12 +667,12 @@
         <entry>action GotoFile</entry>
         <entry>q</entry>
         <entry>2w</entry>
-        <entry>Lw</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>W</entry>
         <entry>action QuickImplementations</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>W</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
