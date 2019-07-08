@@ -14,23 +14,24 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1561911330337">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1562600925167">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="127" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1561911055130">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="96" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="35" column="92" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1562600728189">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveS3.groovy" timestamp="1560866527531">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveS3.groovy" timestamp="1562600706140">
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="32" column="61" />
+        <mark key="." line="32" column="61" />
+        <mark key="^" line="32" column="61" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/Lint.groovy" timestamp="1560866095701">
         <mark key="[" line="78" column="129" />
@@ -55,30 +56,23 @@
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildArtifact.groovy" timestamp="1562600798175">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/main.tf" timestamp="1562256125457">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="14" />
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" timestamp="1561898504123">
-        <mark key="'" line="165" column="4" />
-        <mark key="k" line="2" column="23" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="^" line="257" column="43" />
-        <mark key="." line="175" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildManifest.groovy" timestamp="1561895748858">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" timestamp="1561911230966">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="127" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/variables.tf" timestamp="1562255886265">
         <mark key="[" line="7" column="14" />
@@ -103,6 +97,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveGCS.groovy" timestamp="1562600403817">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageLint.groovy" timestamp="1560866405837">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="17" />
@@ -120,6 +120,12 @@
         <mark key="]" line="7" column="14" />
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562600884220">
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="60" />
+        <mark key="." line="34" column="60" />
+        <mark key="^" line="34" column="60" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/gcs-bucket.tf" timestamp="1562599088552">
         <mark key="[" line="0" column="0" />
@@ -179,6 +185,9 @@
         <mark key="]" line="0" column="390" />
         <mark key="^" line="0" column="390" />
         <mark key="." line="0" column="390" />
+      </file>
+      <file name="/fragment.java" timestamp="1562600342538">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/gcs.tf" timestamp="1562599136714">
         <mark key="[" line="0" column="38" />
@@ -540,43 +549,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>bucket-vpn</text>
+        <text>Deployment</text>
       </register>
       <register name="/" type="4">
         <text>gke</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldCIgImdjcy1idWNrZXQtdnBuIiB7CiAgbmFtZSAgICAgPSAiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9LXZwbi1zdG9yYWdlIgogIGxvY2F0aW9uID0gIiR7dmFyLnJlZ2lvbn0iCiAgZm9yY2VfZGVzdHJveSA9IHRydWUKCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghY29udGV4dC5lbnZpcm9ubWVudFRvRGVwbG95LmNvbnRhaW5zKGNvbnRleHQuY3VycmVudEVudmlyb25tZW50KSkgewogICAgICAgICAgICAgICAgICAgIGN1cnJlbnRSZXN1bHQgPSAnU0tJUFBFRCcKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuc2tpcFBpcGVsaW5lKHNjcmlwdC5lbnYuU1RBR0VfTkFNRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLmVycm9yICJtdXN0IHJ1biAnRGVwbG95JyBzdGFnZSBiZWZvcmUgdGhpcyBzdGFnZSIK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="4">
-        <text>()</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>count.index</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IiR7ZWxlbWVudCh2YXIuZ2tlLXByaXZhdGUtc3VibmV0LCBjb3VudC5pbmRleCl9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghY29udGV4dC5wcmV2aW91c1N0YWdlLmNvbnRhaW5zKCdEZXBsb3knKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQudXRpbC5lcnJvciAibXVzdCBydW4gJ0RlcGxveScgc3RhZ2UgYmVmb3JlIHRoaXMgc3RhZ2UiCiAgICAgICAgICAgICAgICAgICAgY3VycmVudFJlc3VsdCA9ICdGQUlMVVJFJwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnV0aWwuaW5mbyAiUnVubmluZyAke3NjcmlwdC5lbnYuU1RBR0VfTkFNRX0uLi4iCgogICAgICAgICAgICAgICAgICAgIHNjcmlwdC5zM1VwbG9hZCgKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZTogZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgYnVja2V0OiBjb250ZXh0LnMzQnVja2V0LAogICAgICAgICAgICAgICAgICAgICAgICBwYXRoOiAiJHtjb250ZXh0LnByb2plY3ROYW1lfS8ke2t1YmVybmV0ZXNDb250ZXh0WydlbnZpcm9ubWVudCddfS8ke2ZpbGV9IiwKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb3VudCAgICAgICAgPSAxCiAgbmFtZSAgICAgICAgID0gImplbmtpbnMtc2xhdmUtaW5zdGFuY2UtJHtjb3VudC5pbmRleCArIDF9Igo=</text>
+      <register name="7" type="4">
+        <text>count.index</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9kbnNfcmVjb3JkX3NldCIgImplbmtpbnMtc2xhdmUtZG5zLXJlY29yZCIgewogIG5hbWUgPSAiamVua2lucy1zbGF2ZS4ke3Zhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fZG5zX25hbWV9IgogIHR5cGUgPSAiQSIKICB0dGwgID0gMzAwCgogIG1hbmFnZWRfem9uZSA9IHZhci52cGMuZG5zX21hbmFnZWRfem9uZV9vcmdhbml6YXRpb25fbmFtZQoKICBycmRhdGFzID0gZ29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UuamVua2lucy1zbGF2ZS1pbnN0YW5jZVsqXS5uZXR3b3JrX2ludGVyZmFjZS4wLm5ldHdvcmtfaXAKfQo=</text>
+        <text encoding="base64">IiR7ZWxlbWVudCh2YXIuZ2tlLXByaXZhdGUtc3VibmV0LCBjb3VudC5pbmRleCl9Igo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -627,7 +636,6 @@
         <entry>we</entry>
         <entry>action CommentByLineComment</entry>
         <entry>vsplit</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>q</entry>
@@ -635,6 +643,7 @@
         <entry>Lw</entry>
         <entry>W</entry>
         <entry>q!</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
