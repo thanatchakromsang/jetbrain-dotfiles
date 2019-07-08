@@ -121,6 +121,10 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/gcs-bucket.tf" timestamp="1562599088552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUploadManifest.groovy" timestamp="1560866419612">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="17" />
@@ -175,6 +179,12 @@
         <mark key="]" line="0" column="390" />
         <mark key="^" line="0" column="390" />
         <mark key="." line="0" column="390" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/gcs.tf" timestamp="1562599136714">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -530,13 +540,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>endpoint</text>
+        <text>bucket-vpn</text>
       </register>
       <register name="/" type="4">
         <text>gke</text>
       </register>
-      <register name="0" type="4">
-        <text>node-role.kubernetes.io</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldCIgImdjcy1idWNrZXQtdnBuIiB7CiAgbmFtZSAgICAgPSAiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9LXZwbi1zdG9yYWdlIgogIGxvY2F0aW9uID0gIiR7dmFyLnJlZ2lvbn0iCiAgZm9yY2VfZGVzdHJveSA9IHRydWUKCiAgdmVyc2lvbmluZyB7CiAgICBlbmFibGVkID0gdHJ1ZQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -580,7 +590,7 @@
       <last-offset />
       <last-pattern>gke</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -623,8 +633,8 @@
         <entry>q</entry>
         <entry>2w</entry>
         <entry>Lw</entry>
-        <entry>q!</entry>
         <entry>W</entry>
+        <entry>q!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
