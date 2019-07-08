@@ -21,15 +21,21 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1562600728189">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="43" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildKubernetesManifest.groovy" timestamp="1562604296652">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1562603355905">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="21" />
         <mark key="." line="15" column="43" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveS3.groovy" timestamp="1562600706140">
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="32" column="61" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveS3.groovy" timestamp="1562604186972">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="24" />
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
@@ -45,7 +51,7 @@
         <mark key="." line="35" column="63" />
         <mark key="^" line="35" column="63" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Build.groovy" timestamp="1561901079590">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Build.groovy" timestamp="1562603240303">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="31" column="57" />
@@ -68,13 +74,18 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" timestamp="1562602899802">
-        <mark key="'" line="149" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Pipeline.groovy" timestamp="1562603203381">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" timestamp="1562605115004">
+        <mark key="'" line="146" column="0" />
         <mark key="k" line="2" column="23" />
-        <mark key="[" line="260" column="5" />
-        <mark key="]" line="263" column="31" />
-        <mark key="." line="263" column="31" />
-        <mark key="^" line="263" column="31" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="62" />
+        <mark key="." line="271" column="20" />
+        <mark key="^" line="271" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildManifest.groovy" timestamp="1561895748858">
         <mark key="[" line="5" column="0" />
@@ -93,6 +104,12 @@
         <mark key="]" line="116" column="36" />
         <mark key="." line="116" column="13" />
         <mark key="^" line="88" column="104" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveArtifactGCS.groovy" timestamp="1562604283901">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/backend-node-pool.tf" timestamp="1562255253420">
         <mark key="[" line="26" column="0" />
@@ -129,15 +146,21 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562600884220">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-        <mark key="^" line="34" column="60" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562605400013">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/gcs-bucket.tf" timestamp="1562599088552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildKubernetesManifest.groovy" timestamp="1562603864417">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="41" column="78" />
+        <mark key="^" line="41" column="78" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUploadManifest.groovy" timestamp="1560866419612">
         <mark key="[" line="3" column="11" />
@@ -169,10 +192,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1562602879047">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1562604122303">
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="22" />
+        <mark key="." line="53" column="22" />
+        <mark key="^" line="53" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildAndPushToRegistry.groovy" timestamp="1561892182602">
         <mark key="[" line="6" column="75" />
@@ -189,10 +213,10 @@
       <file name="/fragment.java" timestamp="1562600342538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1562602700787">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1562603196182">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/gcs.tf" timestamp="1562599136714">
         <mark key="[" line="0" column="38" />
@@ -202,13 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="84" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/.idea/workspace.xml" />
-      <jump line="151" column="71" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/.idea/workspace.xml" />
-      <jump line="69" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/RunAutomateTest.groovy" />
-      <jump line="68" column="85" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/RunAutomateTest.groovy" />
-      <jump line="58" column="24" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/RunAutomateTest.groovy" />
-      <jump line="10" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/RunAutomateTest.groovy" />
-      <jump line="48" column="24" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/RunAutomateTest.groovy" />
       <jump line="10" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="18" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
       <jump line="67" column="35" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
@@ -227,7 +244,6 @@
       <jump line="336" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="33" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="27" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="36" column="59" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
       <jump line="267" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="142" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
@@ -236,9 +252,6 @@
       <jump line="228" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="230" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="12" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="147" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="150" column="58" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="151" column="63" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="218" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="47" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
       <jump line="51" column="53" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
@@ -301,7 +314,18 @@
       <jump line="261" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="262" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="263" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="244" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="149" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="152" column="69" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="151" column="63" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="150" column="59" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="147" column="38" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="148" column="26" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="8" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" />
+      <jump line="139" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="64" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
+      <jump line="146" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -554,43 +578,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>odini-nonprod-artifact-store</text>
       </register>
       <register name="/" type="4">
-        <text>previous</text>
+        <text>environmentToDeploy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhZGRQcmV2aW91c1N0YWdlKHN0YWdlKSB7CiAgICAgICAgcmV0dXJuIG1hcC5wcmV2aW91c1N0YWdlLmFkZChzdGFnZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgIFBhcmFtICdicmFuY2hUb0Vudmlyb25tZW50TWFwcGluZycgaXMgcmVxdWlyZWQsCiAgICAgICAgICAgICAgICBidXQgaXQgaXMgT0sgdG8gYmUgZW1wdHkgLSBlLmcuIGlmIHRoZSByZXBvc2l0b3J5CiAgICAgICAgICAgICAgICBzaG91bGQgbm90IGJlIGRlcGxveWVkIGF0IGFsbAogICAgICAgICAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEFkZCBmaW5pc2hlZCBzdGFnZSB0byBsaXN0IG9mIHByZXZpb3VzIHN0YWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEdldCBsaXN0IG9mIHByZXZpb3VzIHN0YWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidXQgaXQgaXMgT0sgdG8gYmUgZW1wdHkgLSBlLmcuIGlmIHRoZSByZXBvc2l0b3J5CiAgICAgICAgICAgICAgICAgICAgc2hvdWxkIG5vdCBiZSBkZXBsb3llZCBhdCBhbGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLmVycm9yICJtdXN0IHJ1biAnRGVwbG95JyBzdGFnZSBiZWZvcmUgdGhpcyBzdGFnZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZXh0Lmdjc0J1Y2tldC5pc0VtcHR5KCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -600,18 +624,15 @@
       </register>
     </registers>
     <search>
-      <last-search>previous</last-search>
+      <last-search>environmentToDeploy</last-search>
       <last-offset />
-      <last-pattern>previous</last-pattern>
+      <last-pattern>environmentToDeploy</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new Date</entry>
-        <entry>imgName</entry>
         <entry>containerName</entry>
-        <entry>environment</entry>
         <entry>stage</entry>
         <entry>should</entry>
         <entry>gitCiSkip</entry>
@@ -628,9 +649,11 @@
         <entry>script</entry>
         <entry>gke</entry>
         <entry>previous</entry>
+        <entry>environment</entry>
+        <entry>kuberne</entry>
+        <entry>environmentToDeploy</entry>
       </history-search>
       <history-cmd>
-        <entry>19</entry>
         <entry>13</entry>
         <entry>23</entry>
         <entry>18</entry>
@@ -639,7 +662,6 @@
         <entry>109</entry>
         <entry>100</entry>
         <entry>we</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>vsplit</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
@@ -649,6 +671,8 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>W</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
