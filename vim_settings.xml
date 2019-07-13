@@ -146,7 +146,7 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1562607126101">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1563011272341">
         <mark key="[" line="52" column="151" />
         <mark key="]" line="52" column="156" />
         <mark key="." line="52" column="156" />
@@ -628,7 +628,7 @@
       <last-offset />
       <last-pattern>environmentToDeploy</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
