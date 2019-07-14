@@ -57,7 +57,8 @@
         <mark key="^" line="31" column="57" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1562256214848">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1563088655048">
+        <mark key="'" line="136" column="75" />
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="18" />
         <mark key="." line="22" column="18" />
@@ -93,11 +94,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/variables.tf" timestamp="1562255886265">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/variables.tf" timestamp="1563088428446">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="26" />
         <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1562293488266">
         <mark key="[" line="116" column="13" />
@@ -134,11 +135,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/main.tf" timestamp="1562256321021">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="29" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/main.tf" timestamp="1563087164671">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="20" />
         <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1562255895974">
         <mark key="[" line="7" column="14" />
@@ -151,10 +153,6 @@
         <mark key="]" line="52" column="156" />
         <mark key="." line="52" column="156" />
         <mark key="^" line="52" column="156" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/gcs-bucket.tf" timestamp="1562599088552">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildKubernetesManifest.groovy" timestamp="1562603864417">
         <mark key="[" line="9" column="0" />
@@ -198,6 +196,11 @@
         <mark key="." line="53" column="22" />
         <mark key="^" line="53" column="22" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/variables.tf" timestamp="1563087204010">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildAndPushToRegistry.groovy" timestamp="1561892182602">
         <mark key="[" line="6" column="75" />
         <mark key="]" line="6" column="75" />
@@ -209,6 +212,13 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" timestamp="1563088139364">
+        <mark key="'" line="23" column="50" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="48" />
       </file>
       <file name="/fragment.java" timestamp="1562600342538">
         <mark key="[" line="0" column="0" />
@@ -226,20 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
-      <jump line="67" column="35" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
-      <jump line="85" column="62" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/lightnet/stage/UnitTest.groovy" />
-      <jump line="78" column="128" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Lint.groovy" />
-      <jump line="2" column="10" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" />
-      <jump line="2" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="4" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="33" column="59" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" />
-      <jump line="252" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="80" column="61" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" />
-      <jump line="87" column="62" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" />
-      <jump line="101" column="78" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" />
-      <jump line="113" column="112" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" />
-      <jump line="49" column="73" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Pipeline.groovy" />
       <jump line="336" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="33" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="27" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
@@ -326,6 +322,20 @@
       <jump line="64" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="146" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="77" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" />
+      <jump line="37" column="22" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/main.tf" />
+      <jump line="38" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/main.tf" />
+      <jump line="5" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" />
+      <jump line="10" column="49" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" />
+      <jump line="30" column="5" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" />
+      <jump line="23" column="50" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" />
+      <jump line="109" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="128" column="48" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="130" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="131" column="71" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="135" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="11" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="3" column="14" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="136" column="75" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -578,13 +588,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>odini-nonprod-artifact-store</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
-        <text>environmentToDeploy</text>
+        <text>subnet</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgIFBhcmFtICdicmFuY2hUb0Vudmlyb25tZW50TWFwcGluZycgaXMgcmVxdWlyZWQsCiAgICAgICAgICAgICAgICBidXQgaXQgaXMgT0sgdG8gYmUgZW1wdHkgLSBlLmcuIGlmIHRoZSByZXBvc2l0b3J5CiAgICAgICAgICAgICAgICBzaG91bGQgbm90IGJlIGRlcGxveWVkIGF0IGFsbAogICAgICAgICAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+      <register name="0" type="4">
+        <text>vpc_self_link</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0Lgo=</text>
@@ -620,24 +630,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>environmentToDeploy</last-search>
+      <last-search>subnet</last-search>
       <last-offset />
-      <last-pattern>environmentToDeploy</last-pattern>
+      <last-pattern>subnet</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>containerName</entry>
-        <entry>stage</entry>
-        <entry>should</entry>
-        <entry>gitCiSkip</entry>
-        <entry>config</entry>
-        <entry>map.environments</entry>
         <entry>map.environment</entry>
         <entry>file</entry>
         <entry>registry</entry>
@@ -652,6 +656,12 @@
         <entry>environment</entry>
         <entry>kuberne</entry>
         <entry>environmentToDeploy</entry>
+        <entry>var.vpc..</entry>
+        <entry>private_vpc</entry>
+        <entry>google</entry>
+        <entry>depend</entry>
+        <entry>instance</entry>
+        <entry>subnet</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
@@ -662,9 +672,7 @@
         <entry>109</entry>
         <entry>100</entry>
         <entry>we</entry>
-        <entry>vsplit</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>q</entry>
         <entry>2w</entry>
         <entry>q!</entry>
@@ -673,7 +681,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>W</entry>
         <entry>Lw</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
