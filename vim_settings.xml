@@ -630,7 +630,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -678,12 +678,12 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
