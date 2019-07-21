@@ -77,6 +77,12 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/variables.tf" timestamp="1563675344404">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/main.tf" timestamp="1562256125457">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="14" />
@@ -114,8 +120,8 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1563671687715">
-        <mark key="'" line="38" column="19" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1563675358549">
+        <mark key="'" line="6" column="25" />
         <mark key="[" line="101" column="12" />
         <mark key="]" line="101" column="28" />
         <mark key="." line="101" column="28" />
@@ -255,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="12" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="218" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="47" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
       <jump line="51" column="53" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
@@ -355,6 +359,8 @@
       <jump line="26" column="5" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="77" column="30" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="39" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="24" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="6" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -610,7 +616,7 @@
         <text>google_container_cluster.primary-cluster.node_version</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>gke-pri</text>
       </register>
       <register name="0" type="4">
         <text>node-role.kubernetes.io/backend</text>
@@ -657,15 +663,14 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>gke-pri</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>gke-pri</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getSub</entry>
         <entry>subgroup</entry>
         <entry>shpuld</entry>
         <entry>shouldArchive</entry>
@@ -685,6 +690,7 @@
         <entry>master</entry>
         <entry>private</entry>
         <entry>node</entry>
+        <entry>gke-pri</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
