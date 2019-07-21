@@ -114,12 +114,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1563639847766">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1563671687715">
         <mark key="'" line="38" column="19" />
-        <mark key="[" line="114" column="7" />
-        <mark key="]" line="114" column="10" />
-        <mark key="." line="114" column="10" />
-        <mark key="^" line="114" column="10" />
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="28" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveArtifactGCS.groovy" timestamp="1562604283901">
         <mark key="[" line="7" column="4" />
@@ -607,7 +607,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>google_container_cluster.primary-cluster.node_version</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
