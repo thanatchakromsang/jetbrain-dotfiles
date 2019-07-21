@@ -254,7 +254,8 @@
         <mark key="." line="60" column="74" />
         <mark key="^" line="60" column="74" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1563676404553">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1563708430681">
+        <mark key="'" line="106" column="34" />
         <mark key="[" line="116" column="84" />
         <mark key="]" line="116" column="81" />
         <mark key="." line="116" column="81" />
@@ -273,17 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="27" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="26" column="35" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="73" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="76" column="23" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="77" column="27" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="80" column="21" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="82" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="83" column="26" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="86" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="90" column="21" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="92" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="93" column="26" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="97" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="187" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
@@ -373,6 +363,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
       <jump line="27" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
       <jump line="39" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
+      <jump line="67" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="116" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="57" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="60" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="62" column="29" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="77" column="28" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="95" column="21" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="99" column="57" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="100" column="41" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="105" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="106" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,7 +629,7 @@
         <text>&quot;${</text>
       </register>
       <register name="/" type="4">
-        <text>output</text>
+        <text>vpn</text>
       </register>
       <register name="0" type="4">
         <text>google_compute_router_nat</text>
@@ -681,15 +682,14 @@
       </register>
     </registers>
     <search>
-      <last-search>output</last-search>
+      <last-search>vpn</last-search>
       <last-offset />
-      <last-pattern>output</last-pattern>
+      <last-pattern>vpn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>previous</entry>
         <entry>environment</entry>
         <entry>kuberne</entry>
         <entry>environmentToDeploy</entry>
@@ -709,6 +709,7 @@
         <entry>subnet</entry>
         <entry>gke_private_self</entry>
         <entry>output</entry>
+        <entry>vpn</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
