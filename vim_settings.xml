@@ -64,10 +64,10 @@
         <mark key="^" line="31" column="57" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1563640566862">
-        <mark key="'" line="136" column="75" />
-        <mark key="[" line="34" column="56" />
-        <mark key="]" line="34" column="56" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1563676869903">
+        <mark key="'" line="124" column="39" />
+        <mark key="[" line="122" column="10" />
+        <mark key="]" line="122" column="34" />
         <mark key="." line="34" column="56" />
         <mark key="^" line="14" column="52" />
       </file>
@@ -150,6 +150,12 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" timestamp="1563676447856">
+        <mark key="[" line="22" column="125" />
+        <mark key="]" line="22" column="122" />
+        <mark key="." line="22" column="122" />
+        <mark key="^" line="22" column="122" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageLint.groovy" timestamp="1560866405837">
         <mark key="[" line="3" column="11" />
@@ -248,6 +254,12 @@
         <mark key="." line="60" column="74" />
         <mark key="^" line="60" column="74" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1563676404553">
+        <mark key="[" line="116" column="84" />
+        <mark key="]" line="116" column="81" />
+        <mark key="." line="116" column="81" />
+        <mark key="^" line="116" column="81" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1562603196182">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -261,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="47" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
       <jump line="51" column="53" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
       <jump line="52" column="78" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildManifest.groovy" />
@@ -361,6 +372,7 @@
       <jump line="39" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="6" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
+      <jump line="124" column="39" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,65 +625,70 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>google_container_cluster.primary-cluster.node_version</text>
+        <text>&quot;${</text>
       </register>
       <register name="/" type="4">
-        <text>gke-pri</text>
+        <text>router</text>
       </register>
       <register name="0" type="4">
-        <text>node-role.kubernetes.io/backend</text>
+        <text>google_compute_router_nat</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="8">
+        <text>&quot;${
+&quot;${
+&quot;${</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="4">
-        <text>count.index</text>
+      <register name="2" type="8">
+        <text>&quot;${g
+&quot;${g
+&quot;${g</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="8">
+        <text>&quot;${
+&quot;${</text>
+      </register>
+      <register name="4" type="8">
+        <text>&quot;${
+&quot;${
+&quot;${
+&quot;${</text>
+      </register>
+      <register name="5" type="4">
         <text>()</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>count.index</text>
       </register>
-      <register name="5" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${</text>
-      </register>
-      <register name="6" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAvLyBub2RlX3ZlcnNpb24gPSBsb2NhbC5na2VfdmVyc2lvbgo=</text>
+      <register name="7" type="4">
+        <text>()</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;&quot;</text>
+        <text>count.index</text>
       </register>
-      <register name="9" type="4">
-        <text>${google_container_cluster.primary-cluster.node_version}</text>
+      <register name="9" type="8">
+        <text>&quot;${
+&quot;${
+&quot;${</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gke-pri</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern>gke-pri</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>subgroup</entry>
         <entry>shpuld</entry>
         <entry>shouldArchive</entry>
         <entry>archive</entry>
@@ -691,6 +708,7 @@
         <entry>private</entry>
         <entry>node</entry>
         <entry>gke-pri</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
@@ -702,7 +720,6 @@
         <entry>q</entry>
         <entry>2w</entry>
         <entry>action QuickImplementations</entry>
-        <entry>W</entry>
         <entry>Lw</entry>
         <entry>vsplit</entry>
         <entry>action CommentByLineComment</entry>
@@ -712,6 +729,7 @@
         <entry>6</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>15</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
