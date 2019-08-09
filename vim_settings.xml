@@ -15,12 +15,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1562600925167">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1565333853921">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildKubernetesManifest.groovy" timestamp="1562604296652">
         <mark key="[" line="7" column="4" />
@@ -218,10 +217,10 @@
         <mark key="." line="81" column="37" />
         <mark key="^" line="81" column="37" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1560866362968">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveS3.groovy" timestamp="1565333732583">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1562604122303">
@@ -634,46 +633,44 @@
       <register name="0" type="4">
         <text>google_compute_router_nat</text>
       </register>
-      <register name="1" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>&quot;${
+&quot;${
+&quot;${</text>
+      </register>
+      <register name="7" type="8">
         <text>&quot;${g
 &quot;${g
 &quot;${g</text>
       </register>
-      <register name="3" type="8">
-        <text>&quot;${
-&quot;${</text>
-      </register>
-      <register name="4" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${
-&quot;${</text>
-      </register>
-      <register name="5" type="4">
-        <text>()</text>
-      </register>
-      <register name="6" type="4">
-        <text>count.index</text>
-      </register>
-      <register name="7" type="4">
-        <text>()</text>
-      </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
-      <register name="8" type="4">
-        <text>count.index</text>
+      <register name="8" type="8">
+        <text>&quot;${
+&quot;${</text>
       </register>
       <register name="9" type="8">
         <text>&quot;${
+&quot;${
 &quot;${
 &quot;${</text>
       </register>
@@ -686,7 +683,7 @@
       <last-offset />
       <last-pattern>vpn</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
