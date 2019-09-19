@@ -9,12 +9,6 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/monitor-node-pool.tf" timestamp="1563639852872">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1565333853921">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="0" />
@@ -121,22 +115,12 @@
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" timestamp="1563677795411">
         <mark key="'" line="90" column="25" />
-        <mark key="[" line="101" column="12" />
-        <mark key="]" line="101" column="28" />
-        <mark key="." line="101" column="28" />
-        <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveArtifactGCS.groovy" timestamp="1562604283901">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/backend-node-pool.tf" timestamp="1563639791898">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1560866412469">
         <mark key="[" line="3" column="11" />
@@ -150,11 +134,12 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" timestamp="1563676447856">
-        <mark key="[" line="22" column="125" />
-        <mark key="]" line="22" column="122" />
-        <mark key="." line="22" column="122" />
-        <mark key="^" line="22" column="122" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" timestamp="1568902549345">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="92" column="25" />
+        <mark key="]" line="92" column="101" />
+        <mark key="." line="92" column="101" />
+        <mark key="^" line="92" column="101" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageLint.groovy" timestamp="1560866405837">
         <mark key="[" line="3" column="11" />
@@ -254,11 +239,11 @@
         <mark key="^" line="60" column="74" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1563708430681">
-        <mark key="'" line="106" column="34" />
-        <mark key="[" line="116" column="84" />
-        <mark key="]" line="116" column="81" />
-        <mark key="." line="116" column="81" />
-        <mark key="^" line="116" column="81" />
+        <mark key="'" line="117" column="34" />
+        <mark key="[" line="127" column="84" />
+        <mark key="]" line="127" column="81" />
+        <mark key="." line="127" column="81" />
+        <mark key="^" line="127" column="81" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1562603196182">
         <mark key="[" line="91" column="0" />
@@ -273,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="26" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="97" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="187" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="175" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="223" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="165" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
@@ -373,6 +355,9 @@
       <jump line="100" column="41" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
       <jump line="105" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
       <jump line="106" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
+      <jump line="84" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="15" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,13 +610,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;${</text>
+        <text>var.zone-public-subnet</text>
       </register>
       <register name="/" type="4">
         <text>vpn</text>
       </register>
-      <register name="0" type="4">
-        <text>google_compute_router_nat</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhbGxvdyB7CiAgICBwcm90b2NvbCA9ICJ0Y3AiCiAgICBwb3J0cyAgICA9IFsiNDQzIl0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -640,42 +625,38 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXJnZXRfdGFncyA9IFsiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9LWZpcmV3YWxsLXZwbiJdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>&quot;${g
-&quot;${g
-&quot;${g</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="8">
         <text>&quot;${
+&quot;${
 &quot;${</text>
       </register>
       <register name="9" type="8">
-        <text>&quot;${
-&quot;${
-&quot;${
-&quot;${</text>
+        <text>&quot;${g
+&quot;${g
+&quot;${g</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -727,8 +708,8 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>15</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
