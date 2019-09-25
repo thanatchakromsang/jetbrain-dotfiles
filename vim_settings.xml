@@ -45,13 +45,6 @@
         <mark key="." line="35" column="63" />
         <mark key="^" line="35" column="63" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" timestamp="1563678000069">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="122" column="10" />
-        <mark key="]" line="122" column="34" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="14" column="52" />
-      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/variables.tf" timestamp="1563675344404">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="18" />
@@ -63,6 +56,12 @@
         <mark key="]" line="3" column="82" />
         <mark key="." line="3" column="82" />
         <mark key="^" line="3" column="82" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/output.tf" timestamp="1569438292054">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/output.tf" timestamp="1569435779559">
         <mark key="[" line="33" column="51" />
@@ -88,10 +87,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569435195907">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569437463042">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="99" column="47" />
-        <mark key="]" line="99" column="50" />
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="25" />
         <mark key="." line="99" column="50" />
         <mark key="^" line="99" column="50" />
       </file>
@@ -113,10 +112,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/variables.tf" timestamp="1569431000060">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="38" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/variables.tf" timestamp="1569437539464">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1562255895974">
         <mark key="[" line="7" column="14" />
@@ -146,6 +147,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/output.tf" timestamp="1569438256084">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1562604122303">
         <mark key="[" line="53" column="31" />
@@ -218,18 +225,17 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/main.tf" timestamp="1569431015964">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="2" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/main.tf" timestamp="1569438203413">
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="56" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569435902992">
-        <mark key="[" line="24" column="70" />
-        <mark key="]" line="24" column="99" />
-        <mark key="." line="24" column="99" />
-        <mark key="^" line="24" column="99" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569437601456">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/variables.tf" timestamp="1569435168626">
         <mark key="[" line="4" column="27" />
@@ -249,20 +255,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" timestamp="1569161509677">
-        <mark key="'" line="88" column="53" />
-        <mark key="[" line="26" column="74" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/grafana/main.tf" timestamp="1563087164671">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="33" column="20" />
-      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1563011272341">
         <mark key="[" line="52" column="151" />
         <mark key="]" line="52" column="156" />
@@ -280,13 +272,6 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" timestamp="1568903002297">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="81" column="37" />
-        <mark key="." line="81" column="37" />
-        <mark key="^" line="81" column="37" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/network/output.tf" timestamp="1569436021599">
         <mark key="[" line="29" column="47" />
@@ -316,20 +301,6 @@
         <mark key="]" line="6" column="75" />
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="87" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/database/main.tf" timestamp="1563096111650">
-        <mark key="'" line="23" column="50" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="26" />
-        <mark key="." line="60" column="74" />
-        <mark key="^" line="60" column="74" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" timestamp="1569160959526">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -685,34 +656,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>outputs.dns_private_zone_name</text>
+        <text>gcloud compute connect-to-serial-port --project=${var.project_id} --zone=${google_compute_instance.vpn_instance.zone} ${google_compute_instance.vpn_instance.name}</text>
       </register>
       <register name="/" type="4">
         <text>dns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImRuc19wcml2YXRlX3pvbmVfbmFtZSIge30K</text>
+        <text encoding="base64">b3V0cHV0ICJ2cG5faW5zdGFuY2VfaXAiIHsKICB2YWx1ZSA9IG1vZHVsZS5tZ210X3Zwbi52cG5faW5zdGFuY2VfaXAKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkbnNfcHJpdmF0ZV96b25lX2Ruc19uYW1lID0gCg==</text>
+        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBtb2R1bGUubWdtdF92cG4udnBuX2luc3RhbmNlX2lwCn0K</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkbnNfcHJpdmF0ZV96b25lX2Ruc19uYW1lICAgICA9IGRhdGEudGVycmFmb3JtX3JlbW90ZV9zdGF0ZS5tYWluX3ZwYy5vdXRwdXRzLmRuc19wcml2YXRlX3pvbmVfZG5zX25hbWUK</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">b3V0cHV0ICJ2cG5fZndfbmFtZSIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbXB1dGVfZmlyZXdhbGwudnBuX2Z3Lm5hbWV9Igp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkbnNfcHJpdmF0ZV96b25lX25hbWUgICAgICAgICA9IGRhdGEudGVycmFmb3JtX3JlbW90ZV9zdGF0ZS5tYWluX3ZwYy5vdXRwdXRzLmRuc19wcml2YXRlX3pvbmVfbmFtZQo=</text>
+        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBnb29nbGVfY29tcHV0ZV9pbnN0YW5jZS52cG5faW5zdGFuY2UubmV0d29ya19pbnRlcmZhY2UuMC5hY2Nlc3NfY29uZmlnLjAubmF0X2lwCn0KCm91dHB1dCAiIiB7CiAgdmFsdWUgPSAiZ2Nsb3VkIGNvbXB1dGUgY29ubmVjdC10by1zZXJpYWwtcG9ydCAtLXByb2plY3Q9JHt2YXIucHJvamVjdF9pZH0gLS16b25lPSR7Z29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UudnBuX2luc3RhbmNlLnpvbmV9Igp9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cm91dHB1dCAiZG5zX3ByaXZhdGVfem9uZV9uYW1lIiB7CiAgdmFsdWUgPSBtb2R1bGUubWFpbl92cGMuZG5zX3ByaXZhdGVfem9uZV9uYW1lCn0K</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjCiMjIyBDTE9VRCBETlMgIyMjCiMjIyMjIyMjIyMjIyMjIyMjCgpvdXRwdXQgImRuc19wcml2YXRlX3pvbmVfbmFtZSIgewogIHZhbHVlID0gZ29vZ2xlX2Ruc19tYW5hZ2VkX3pvbmUuZG5zX3ByaXZhdGVfem9uZS5uYW1lCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -721,10 +692,10 @@
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMKIyMjIENMT1VEIEROUyAjIyMKIyMjIyMjIyMjIyMjIyMjIyMKCi8vIC8vIEZJWE1FOiBOZWVkIHBlcm1pc3Npb24gdG8gZW5hYmxlIGNsb3VkIGRucyBhcGkKLy8gcmVzb3VyY2UgImdvb2dsZV9wcm9qZWN0X3NlcnZpY2UiICJjbG91ZF9kbnMiIHsKLy8gICBzZXJ2aWNlID0gImRucy5nb29nbGVhcGlzLmNvbSIKLy8KLy8gICBkaXNhYmxlX2RlcGVuZGVudF9zZXJ2aWNlcyA9IHRydWUKLy8gfQoKcmVzb3VyY2UgImdvb2dsZV9kbnNfbWFuYWdlZF96b25lIiAiZG5zX3ByaXZhdGVfem9uZSIgewogIG5hbWUgPSAiJHt2YXIucHJvamVjdF9uYW1lfS0ke3Zhci5lbnZ9IgogIGRuc19uYW1lID0gIiR7dmFyLnByb2plY3RfbmFtZX0tJHt2YXIuZW52fS5pbnRlcm5hbC4iCiAgZGVzY3JpcHRpb24gPSAiJHt2YXIucHJvamVjdF9uYW1lfSAke3Zhci5lbnZ9IHByaXZhdGUgZG5zIgoKICBsYWJlbHMgPSB7CiAgICBlbnZpcm9ubWVudCA9IHZhci5lbnYKICAgIHByb2plY3QgICAgID0gdmFyLnByb2plY3RfbmFtZQogICAgdmlzaWJpbGl0eSAgPSAicHJpdmF0ZSIKICAgIHRlcnJhZm9ybSAgID0gdHJ1ZQogIH0KCiAgdmlzaWJpbGl0eSA9ICJwcml2YXRlIgoKICBwcml2YXRlX3Zpc2liaWxpdHlfY29uZmlnIHsKICAgIG5ldHdvcmtzIHsKICAgICAgbmV0d29ya191cmwgPSAgZ29vZ2xlX2NvbXB1dGVfbmV0d29yay5tYWluX3ZwYy5zZWxmX2xpbmsKICAgIH0KICB9CgogIC8vIC8vIEZJWE1FOiBOZWVkIHRvIGZpeCBbZ29vZ2xlX3Byb2plY3Rfc2VydmljZS5jbG91ZF9kbnNdCiAgLy8gZGVwZW5kc19vbiA9IFtnb29nbGVfcHJvamVjdF9zZXJ2aWNlLmNsb3VkX2Ruc10KfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyaWFibGUgImRuc19wcml2YXRlX3pvbmVfbmFtZSIge30K</text>
+        <text encoding="base64">I3Jlc291cmNlICJnb29nbGVfZG5zX3JlY29yZF9zZXQiICJ2cG4tZG5zLXJlY29yZCIgewojICBuYW1lID0gInZwbi4ke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IgojICB0eXBlID0gIkEiCiMgIHR0bCAgPSAzMDAKIwojICBtYW5hZ2VkX3pvbmUgPSAiJHtnb29nbGVfZG5zX21hbmFnZWRfem9uZS5kbnMtcHJpdmF0ZS16b25lLm5hbWV9IgojCiMgIHJyZGF0YXMgPSAiJHtnb29nbGVfY29tcHV0ZV9pbnN0YW5jZS52cG5faW5zdGFuY2UubmV0d29ya19pbnRlcmZhY2UubmV0d29ya19pcH0iCiN9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -781,8 +752,8 @@
         <entry>2</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
