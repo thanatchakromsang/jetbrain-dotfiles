@@ -225,14 +225,13 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/main.tf" timestamp="1569438203413">
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="41" column="56" />
-        <mark key="." line="41" column="56" />
-        <mark key="^" line="41" column="56" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/main.tf" timestamp="1569439652987">
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="42" column="25" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="42" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569437601456">
-        <mark key="[" line="20" column="38" />
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
@@ -656,7 +655,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>gcloud compute connect-to-serial-port --project=${var.project_id} --zone=${google_compute_instance.vpn_instance.zone} ${google_compute_instance.vpn_instance.name}</text>
+        <text>ipv4-address</text>
       </register>
       <register name="/" type="4">
         <text>dns</text>
@@ -665,37 +664,37 @@
         <text encoding="base64">b3V0cHV0ICJ2cG5faW5zdGFuY2VfaXAiIHsKICB2YWx1ZSA9IG1vZHVsZS5tZ210X3Zwbi52cG5faW5zdGFuY2VfaXAKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBtb2R1bGUubWdtdF92cG4udnBuX2luc3RhbmNlX2lwCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIiCg==</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfY29tcHV0ZV9hZGRyZXNzIiAic3RhdGljIiB7CiAgbmFtZSA9ICJpcHY0LWFkZHJlc3MiCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cHV0ICJ2cG5fZndfbmFtZSIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbXB1dGVfZmlyZXdhbGwudnBuX2Z3Lm5hbWV9Igp9Cgo=</text>
+        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBtb2R1bGUubWdtdF92cG4udnBuX2luc3RhbmNlX2lwCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBnb29nbGVfY29tcHV0ZV9pbnN0YW5jZS52cG5faW5zdGFuY2UubmV0d29ya19pbnRlcmZhY2UuMC5hY2Nlc3NfY29uZmlnLjAubmF0X2lwCn0KCm91dHB1dCAiIiB7CiAgdmFsdWUgPSAiZ2Nsb3VkIGNvbXB1dGUgY29ubmVjdC10by1zZXJpYWwtcG9ydCAtLXByb2plY3Q9JHt2YXIucHJvamVjdF9pZH0gLS16b25lPSR7Z29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UudnBuX2luc3RhbmNlLnpvbmV9Igp9Cg==</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICIiCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">b3V0cHV0ICJ2cG5fZndfbmFtZSIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbXB1dGVfZmlyZXdhbGwudnBuX2Z3Lm5hbWV9Igp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cm91dHB1dCAidnBuX2luc3RhbmNlX2lwIiB7CiAgdmFsdWUgPSBnb29nbGVfY29tcHV0ZV9pbnN0YW5jZS52cG5faW5zdGFuY2UubmV0d29ya19pbnRlcmZhY2UuMC5hY2Nlc3NfY29uZmlnLjAubmF0X2lwCn0KCm91dHB1dCAiIiB7CiAgdmFsdWUgPSAiZ2Nsb3VkIGNvbXB1dGUgY29ubmVjdC10by1zZXJpYWwtcG9ydCAtLXByb2plY3Q9JHt2YXIucHJvamVjdF9pZH0gLS16b25lPSR7Z29vZ2xlX2NvbXB1dGVfaW5zdGFuY2UudnBuX2luc3RhbmNlLnpvbmV9Igp9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3Jlc291cmNlICJnb29nbGVfZG5zX3JlY29yZF9zZXQiICJ2cG4tZG5zLXJlY29yZCIgewojICBuYW1lID0gInZwbi4ke2dvb2dsZV9kbnNfbWFuYWdlZF96b25lLmRucy1wcml2YXRlLXpvbmUuZG5zX25hbWV9IgojICB0eXBlID0gIkEiCiMgIHR0bCAgPSAzMDAKIwojICBtYW5hZ2VkX3pvbmUgPSAiJHtnb29nbGVfZG5zX21hbmFnZWRfem9uZS5kbnMtcHJpdmF0ZS16b25lLm5hbWV9IgojCiMgIHJyZGF0YXMgPSAiJHtnb29nbGVfY29tcHV0ZV9pbnN0YW5jZS52cG5faW5zdGFuY2UubmV0d29ya19pbnRlcmZhY2UubmV0d29ya19pcH0iCiN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
