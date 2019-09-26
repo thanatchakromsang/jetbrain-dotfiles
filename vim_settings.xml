@@ -87,12 +87,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569437463042">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569511186412">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="99" column="50" />
-        <mark key="^" line="99" column="50" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1560866412469">
         <mark key="[" line="3" column="11" />
@@ -655,7 +655,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ipv4-address</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>dns</text>
