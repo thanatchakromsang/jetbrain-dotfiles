@@ -176,8 +176,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1569782487740">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1569783984894">
         <mark key="'" line="93" column="37" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="93" column="25" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/gcs.tf" timestamp="1562599136714">
         <mark key="[" line="0" column="38" />
@@ -237,6 +241,12 @@
         <mark key="[" line="78" column="6" />
         <mark key="]" line="78" column="6" />
         <mark key="." line="78" column="6" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Pipeline.groovy" timestamp="1569784236717">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569772890414">
         <mark key="[" line="21" column="35" />
@@ -669,7 +679,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>baseUrl</text>
@@ -678,40 +688,40 @@
         <text>enduring-stage-253308</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW5nX2Zvcl91cGRhdGUgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmVjaG8gc2xhY2tQbHVnaW4uYmFzZVVybAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW5nX2Zvcl91cGRhdGUgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YSBnb29nbGVfc3RvcmFnZV9wcm9qZWN0X3NlcnZpY2VfYWNjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW5nX2Zvcl91cGRhdGUgPSB0cnVlCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YSBnb29nbGVfc3RvcmFnZV9wcm9qZWN0X3NlcnZpY2VfYWNjb3VudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb2xpY3lfZGF0YSA9ICIiCg==</text>
+        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW5nX2Zvcl91cGRhdGUgPSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -747,7 +757,6 @@
         <entry>baseUrl</entry>
       </history-search>
       <history-cmd>
-        <entry>vsplit</entry>
         <entry>q!</entry>
         <entry>89</entry>
         <entry>6</entry>
@@ -763,10 +772,11 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>q</entry>
+        <entry>55</entry>
+        <entry>51</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
