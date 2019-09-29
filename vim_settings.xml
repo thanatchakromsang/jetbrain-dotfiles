@@ -87,12 +87,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569673864032">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="160" column="3" />
-        <mark key="]" line="162" column="45" />
-        <mark key="." line="162" column="45" />
-        <mark key="^" line="162" column="45" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569737768586">
+        <mark key="[" line="120" column="1" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1560866412469">
         <mark key="[" line="3" column="11" />
@@ -298,10 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="262" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="263" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
-      <jump line="244" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="149" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="152" column="69" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
       <jump line="151" column="63" filename="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineContext.groovy" />
@@ -398,6 +393,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" />
       <jump line="63" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
+      <jump line="135" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
+      <jump line="136" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
+      <jump line="117" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
+      <jump line="131" column="28" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -650,63 +649,62 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>iam.googleapis.com</text>
+        <text>admin.email</text>
       </register>
       <register name="/" type="4">
-        <text>dns</text>
+        <text>google_iam_policy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lbWJlcnMgPSBbCiAgICAgICJzZXJ2aWNlQWNjb3VudDoke2dvb2dsZV9zZXJ2aWNlX2FjY291bnQuc2EuZW1haWx9IiwKICAgIF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZGlzYWJsZV9kZXBlbmRlbnRfc2VydmljZXMgPSB0cnVlCg==</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfcHJvamVjdF9zZXJ2aWNlIiAicHJvamVjdCIgewogIHNlcnZpY2UgPSAiY2xvdWRyZXNvdXJjZW1hbmFnZXIuZ29vZ2xlYXBpcy5jb20iCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm9qZWN0ID0gInlvdXItcHJvamVjdC1pZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZW1iZXJzID0gWwogICAgInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5lbWFpbH0iLAogIF0K</text>
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zZXJ2aWNlX2FjY291bnRfaWFtX3BvbGljeSIgImdjZS1kZWZhdWx0LWFjY291bnQtaWFtIiB7CiAgc2VydmljZV9hY2NvdW50X2lkID0gZ29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5pZAogIHBvbGljeV9kYXRhICAgICAgICA9IGRhdGEuZ29vZ2xlX2lhbV9wb2xpY3kuYWRtaW4ucG9saWN5X2RhdGEKCiAgZGVwZW5kc19vbiA9IFtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhXQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnRfaWQgPSAiJHtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhLm5hbWV9Igo=</text>
+        <text encoding="base64">ZGF0YSAiZ29vZ2xlX2lhbV9wb2xpY3kiICJhZG1pbiIgewogIGJpbmRpbmcgewogICAgcm9sZSA9ICJyb2xlcy9jb250YWluZXIuYWRtaW4iCiAgICBtZW1iZXJzID0gbGlzdCgic2VydmljZUFjY291bnQ6JHtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhLmVtYWlsfSIpCiAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZW1iZXJzID0gWwogIF0K</text>
+        <text encoding="base64">ICBwcm9qZWN0ID0gdmFyLnByb2plY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb2xpY3lfZGF0YSAgICAgICAgPSAiJHtkYXRhLmdvb2dsZV9pYW1fcG9saWN5LmFkbWluLnBvbGljeV9kYXRhfSIK</text>
+        <text encoding="base64">ICBwcm9qZWN0ID0gdmFyLnByb2plY3QK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSAiZ29vZ2xlX2lhbV9wb2xpY3kiICJhZG1pbiIgewogIGJpbmRpbmcgewogICAgcm9sZSA9ICJyb2xlcy9jb250YWluZXIuYWRtaW4iCgogICAgbWVtYmVycyA9IFsKICAgICAgInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5lbWFpbH0iLAogICAgXQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dns</last-search>
+      <last-search>google_iam_policy</last-search>
       <last-offset />
-      <last-pattern>dns</last-pattern>
+      <last-pattern>google_iam_policy</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>allow-internal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>router</entry>
         <entry>gke_private_subnet</entry>
         <entry>google_compute_router_nat</entry>
         <entry>gke-private</entry>
@@ -726,6 +724,7 @@
         <entry>main_subnet_pub_mgmt_cidr</entry>
         <entry>project_name</entry>
         <entry>dns</entry>
+        <entry>google_iam_policy</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
