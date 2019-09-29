@@ -15,6 +15,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1569757184547">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/instance/README.md" timestamp="1569426929235">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="5" column="0" />
@@ -87,11 +93,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569737768586">
-        <mark key="[" line="120" column="1" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569757049586">
+        <mark key="[" line="104" column="2" />
+        <mark key="]" line="104" column="34" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="103" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1560866412469">
         <mark key="[" line="3" column="11" />
@@ -649,13 +655,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>admin.email</text>
+        <text>jenkins-slave@odini-dev-240504.iam.gserviceaccount.com</text>
       </register>
       <register name="/" type="4">
         <text>google_iam_policy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbCiAgICAgICJzZXJ2aWNlQWNjb3VudDoke2dvb2dsZV9zZXJ2aWNlX2FjY291bnQuc2EuZW1haWx9IiwKICAgIF0K</text>
+        <text encoding="base64">ICBhbGxvd19zdG9wcGluZ19mb3JfdXBkYXRlID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -664,34 +670,34 @@
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfcHJvamVjdF9zZXJ2aWNlIiAicHJvamVjdCIgewogIHNlcnZpY2UgPSAiY2xvdWRyZXNvdXJjZW1hbmFnZXIuZ29vZ2xlYXBpcy5jb20iCn0K</text>
+        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW5nX2Zvcl91cGRhdGUgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbG93X3N0b3BwaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zZXJ2aWNlX2FjY291bnRfaWFtX3BvbGljeSIgImdjZS1kZWZhdWx0LWFjY291bnQtaWFtIiB7CiAgc2VydmljZV9hY2NvdW50X2lkID0gZ29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5pZAogIHBvbGljeV9kYXRhICAgICAgICA9IGRhdGEuZ29vZ2xlX2lhbV9wb2xpY3kuYWRtaW4ucG9saWN5X2RhdGEKCiAgZGVwZW5kc19vbiA9IFtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhXQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSAiZ29vZ2xlX2lhbV9wb2xpY3kiICJhZG1pbiIgewogIGJpbmRpbmcgewogICAgcm9sZSA9ICJyb2xlcy9jb250YWluZXIuYWRtaW4iCiAgICBtZW1iZXJzID0gbGlzdCgic2VydmljZUFjY291bnQ6JHtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhLmVtYWlsfSIpCiAgfQp9Cg==</text>
+        <text encoding="base64">ZGF0YSBnb29nbGVfc3RvcmFnZV9wcm9qZWN0X3NlcnZpY2VfYWNjb3VudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9qZWN0ID0gdmFyLnByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm9qZWN0ID0gdmFyLnByb2plY3QK</text>
+        <text encoding="base64">ZGF0YSBnb29nbGVfc3RvcmFnZV9wcm9qZWN0X3NlcnZpY2VfYWNjb3VudAo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwb2xpY3lfZGF0YSA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSAiZ29vZ2xlX2lhbV9wb2xpY3kiICJhZG1pbiIgewogIGJpbmRpbmcgewogICAgcm9sZSA9ICJyb2xlcy9jb250YWluZXIuYWRtaW4iCgogICAgbWVtYmVycyA9IFsKICAgICAgInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5lbWFpbH0iLAogICAgXQogIH0KfQo=</text>
+        <text encoding="base64">ICB0YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -701,7 +707,7 @@
       <last-replace>~</last-replace>
       <last-substitute>allow-internal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -727,7 +733,6 @@
         <entry>google_iam_policy</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>2w</entry>
         <entry>Lw</entry>
         <entry>vsplit</entry>
@@ -747,6 +752,7 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
