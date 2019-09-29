@@ -87,12 +87,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569669344780">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/main.tf" timestamp="1569673864032">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="59" />
-        <mark key="]" line="119" column="58" />
-        <mark key="^" line="119" column="58" />
-        <mark key="." line="119" column="58" />
+        <mark key="[" line="160" column="3" />
+        <mark key="]" line="162" column="45" />
+        <mark key="." line="162" column="45" />
+        <mark key="^" line="162" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageUnitTest.groovy" timestamp="1560866412469">
         <mark key="[" line="3" column="11" />
@@ -225,16 +225,17 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569437601456">
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/mgmt/main.tf" timestamp="1569671810315">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="57" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/variables.tf" timestamp="1569435168626">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/jenkins/variables.tf" timestamp="1569671800075">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildManifest.groovy" timestamp="1561895748858">
         <mark key="[" line="5" column="0" />
@@ -649,46 +650,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>JENKINS SERVICE ACCOUNT</text>
+        <text>iam.googleapis.com</text>
       </register>
       <register name="/" type="4">
         <text>dns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIyMgSkVOS0lOUyBTRVJWSUNFIEFDQ09VTlQgIyMjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgIG1lbWJlcnMgPSBbCiAgICAgICJzZXJ2aWNlQWNjb3VudDoke2dvb2dsZV9zZXJ2aWNlX2FjY291bnQuc2EuZW1haWx9IiwKICAgIF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtZW1iZXJzID0gWwogICAgInVzZXI6amFuZUBleGFtcGxlLmNvbSIsCiAgXQo=</text>
+        <text encoding="base64">CiAgZGlzYWJsZV9kZXBlbmRlbnRfc2VydmljZXMgPSB0cnVlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgewogICAgZW1haWwgID0gImplbmtpbnMtc2xhdmVAb2RpbmktZGV2LTI0MDUwNC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIKICAgIHNjb3BlcyA9IFtdCiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcm9qZWN0ID0gInlvdXItcHJvamVjdC1pZCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YSAiZ29vZ2xlX2lhbV9wb2xpY3kiICJhZG1pbiIgewogIGJpbmRpbmcgewogICAgcm9sZSA9ICJyb2xlcy9jb21wdXRlLmluc3RhbmNlQWRtaW4iCgogICAgbWVtYmVycyA9IFsKICAgICAgInNlcnZpY2VBY2NvdW50OnlvdXItY3VzdG9tLXNhQHlvdXItcHJvamVjdC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsCiAgICBdCiAgfQoKICBiaW5kaW5nIHsKICAgIHJvbGUgPSAicm9sZXMvc3RvcmFnZS5vYmplY3RWaWV3ZXIiCgogICAgbWVtYmVycyA9IFsKICAgICAgInVzZXI6YWxpY2VAZ21haWwuY29tIiwKICAgIF0KICB9Cn0K</text>
+        <text encoding="base64">ICBtZW1iZXJzID0gWwogICAgInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5zYS5lbWFpbH0iLAogIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnRfaWQgPSAiJHtnb29nbGVfc2VydmljZV9hY2NvdW50LnNhLm5hbWV9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICBtZW1iZXJzID0gWwogIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMjIwo=</text>
+        <text encoding="base64">ICBwb2xpY3lfZGF0YSAgICAgICAgPSAiJHtkYXRhLmdvb2dsZV9pYW1fcG9saWN5LmFkbWluLnBvbGljeV9kYXRhfSIK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvY2xvdWQtcGxhdGZvcm0iLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlX2FjY291bnQgewogICAgZW1haWwgID0gImplbmtpbnMtc2xhdmVAb2RpbmktZGV2LTI0MDUwNC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -729,7 +730,6 @@
       <history-cmd>
         <entry>q</entry>
         <entry>2w</entry>
-        <entry>action QuickImplementations</entry>
         <entry>Lw</entry>
         <entry>vsplit</entry>
         <entry>q!</entry>
@@ -744,6 +744,7 @@
         <entry>100</entry>
         <entry>2</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action QuickImplementations</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
