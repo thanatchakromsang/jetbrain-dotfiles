@@ -9,12 +9,11 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1569876201761">
-        <mark key="'" line="41" column="69" />
-        <mark key="[" line="40" column="145" />
-        <mark key="]" line="40" column="150" />
-        <mark key="." line="40" column="150" />
-        <mark key="^" line="40" column="150" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Deploy.groovy" timestamp="1569879793250">
+        <mark key="[" line="40" column="152" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageBuildKubernetesManifest.groovy" timestamp="1562604296652">
         <mark key="[" line="7" column="4" />
@@ -185,12 +184,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1569789397740">
-        <mark key="'" line="106" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="107" column="81" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/PipelineUtility.groovy" timestamp="1569879627493">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="104" column="81" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/gcs.tf" timestamp="1562599136714">
         <mark key="[" line="0" column="38" />
@@ -689,46 +688,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text encoding="base64">SW50ZWdlciA=</text>
       </register>
       <register name="/" type="4">
         <text>kubernetesContext</text>
       </register>
       <register name="0" type="4">
-        <text>asia-southeast1</text>
+        <text>gcloud container clusters get-credentials</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLmluZm8gInN3aXRjaCB0byAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGNvbmZpZyB1c2UtY29udGV4dCAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnY2xvdWQgY29udGFpbmVyIGNsdXN0ZXJzIGdldC1jcmVkZW50aWFscyBub25wcm9kLWdrZS1wcmltYXJ5LWNsdXN0ZXIgLS1yZWdpb249YXNpYS1zb3V0aGVhc3QxCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBTdHJpbmcgYmx1ZU9jZWFuVVJMID0gImh0dHA6Ly9qZW5raW5zLmludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC5pbnRlcm5hbC9qb2Ivc2VydmljZS1hL2pvYi9oZWxsby13b3JsZC8xMi8iLnJlcGxhY2UoCi8vICAgICAgICAgICAgImpvYi9zZXJ2aWNlLWEvam9iL2hlbGxvLXdvcmxkLzEyLyIsCi8vICAgICAgICAgICAgImJsdWUvb3JnYW5pemF0aW9ucy9qZW5raW5zL3NlcnZpY2UtYS9kZXRhaWwvaGVsbG8td29ybGQvMTIvcGlwZWxpbmUvIgovLykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9ICJSZXN1bHQ6IDwke2NvbnRleHQuYnVpbGRVUkx9Y29uc29sZXxDb25zb2xlIE91dHB1dD4iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmVjaG8gcmVzdWx0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzY3JpcHQuZWNobyBibHVlT2NlYW5VUkwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHNjcmlwdC5lY2hvIHJlc3VsdAogICAgICAgICAgICBzY3JpcHQuZWNobyBzdWJqZWN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLmluZm8gInN3aXRjaCB0byAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Igo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnY2xvdWQgY29udGFpbmVyIGNsdXN0ZXJzIGdldC1jcmVkZW50aWFscyBub25wcm9kLWdrZS1wcmltYXJ5LWNsdXN0ZXIgLS1yZWdpb249YXNpYS1zb3V0aGVhc3QxCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNjcmlwdC5lY2hvIGJsdWVPY2VhblVSTAo=</text>
+        <text encoding="base64">Ci8vICAgICAgICBTdHJpbmcgYmx1ZU9jZWFuVVJMID0gImh0dHA6Ly9qZW5raW5zLmludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC5pbnRlcm5hbC9qb2Ivc2VydmljZS1hL2pvYi9oZWxsby13b3JsZC8xMi8iLnJlcGxhY2UoCi8vICAgICAgICAgICAgImpvYi9zZXJ2aWNlLWEvam9iL2hlbGxvLXdvcmxkLzEyLyIsCi8vICAgICAgICAgICAgImJsdWUvb3JnYW5pemF0aW9ucy9qZW5raW5zL3NlcnZpY2UtYS9kZXRhaWwvaGVsbG8td29ybGQvMTIvcGlwZWxpbmUvIgovLykK</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9ICJSZXN1bHQ6IDwke2NvbnRleHQuYnVpbGRVUkx9Y29uc29sZXxDb25zb2xlIE91dHB1dD4iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAvam9iLzxTRVJWSUNFPi9qb2IvPEJSQU5DSD4vPEJVSUxEX05PPi9jb25zb2xlLwogICAgICAgIC8vIC9ibHVlL29yZ2FuaXphdGlvbnMvamVua2lucy88U0VSVklDRT4vZGV0YWlsLzxCUkFOQ0g+LzxCVUlMRF9OTy9waXBlbGluZS8KCiAgICAgICAgLy8gWzBdICAgICAgICAgICAgIFsxXQogICAgICAgIC8vIEFjY291bnQtU2VydmljZS9kZXZvcHMlMkZpbml0aWFsLWNpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmVjaG8gcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
