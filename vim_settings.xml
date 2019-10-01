@@ -130,6 +130,12 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/ingress-node-pool.tf" timestamp="1569944152308">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1562255895974">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="14" />
@@ -160,11 +166,23 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/mgmt-node-pool.tf" timestamp="1569944157642">
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="43" column="3" />
+        <mark key="^" line="38" column="1" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/output.tf" timestamp="1569438256084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="1" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1569944212642">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1569876615499">
         <mark key="'" line="39" column="11" />
@@ -172,6 +190,10 @@
         <mark key="]" line="45" column="9" />
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="9" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/mgmt/main.tf" timestamp="1569943936802">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="104" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/gke/main.tf" timestamp="1569428970079">
         <mark key="[" line="32" column="0" />
@@ -233,11 +255,9 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" timestamp="1569434605871">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/jenkins/variables.tf" timestamp="1569943917210">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/main/non-prod/main.tf" timestamp="1562256125457">
         <mark key="[" line="58" column="8" />
@@ -305,6 +325,12 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/backend-node-pool.tf" timestamp="1569944143449">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="38" column="1" />
+        <mark key="^" line="38" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/network/output.tf" timestamp="1569436021599">
         <mark key="[" line="29" column="47" />
         <mark key="]" line="29" column="50" />
@@ -333,6 +359,17 @@
         <mark key="]" line="6" column="75" />
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="87" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/variable.tf" timestamp="1569943920948">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1569944007139">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -688,46 +725,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>kubernetesContext</text>
       </register>
-      <register name="0" type="4">
-        <text>gcloud container clusters get-credentials</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbCiAgICAgIG5vZGVfY291bnQKICAgIF0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGNvbmZpZyB1c2UtY29udGV4dCAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpZmVjeWNsZSB7CiAgICAgIGlnbm9yZV9jaGFuZ2VzID0gWwogICAgICAgIG5vZGVfY291bnQKICAgICAgXQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzY3JpcHQuZWNobyBibHVlT2NlYW5VUkwK</text>
+        <text encoding="base64">ICAgIGxpZmVjeWNsZSB7CiAgICAgIGlnbm9yZV9jaGFuZ2VzID0gWwogICAgICAgIG5vZGVfY291bnQKICAgICAgXQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNjcmlwdC5lY2hvIHJlc3VsdAogICAgICAgICAgICBzY3JpcHQuZWNobyBzdWJqZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC51dGlsLmluZm8gInN3aXRjaCB0byAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnY2xvdWQgY29udGFpbmVyIGNsdXN0ZXJzIGdldC1jcmVkZW50aWFscyBub25wcm9kLWdrZS1wcmltYXJ5LWNsdXN0ZXIgLS1yZWdpb249YXNpYS1zb3V0aGVhc3QxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBTdHJpbmcgYmx1ZU9jZWFuVVJMID0gImh0dHA6Ly9qZW5raW5zLmludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC5pbnRlcm5hbC9qb2Ivc2VydmljZS1hL2pvYi9oZWxsby13b3JsZC8xMi8iLnJlcGxhY2UoCi8vICAgICAgICAgICAgImpvYi9zZXJ2aWNlLWEvam9iL2hlbGxvLXdvcmxkLzEyLyIsCi8vICAgICAgICAgICAgImJsdWUvb3JnYW5pemF0aW9ucy9qZW5raW5zL3NlcnZpY2UtYS9kZXRhaWwvaGVsbG8td29ybGQvMTIvcGlwZWxpbmUvIgovLykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9ICJSZXN1bHQ6IDwke2NvbnRleHQuYnVpbGRVUkx9Y29uc29sZXxDb25zb2xlIE91dHB1dD4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0LmVjaG8gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrdWJlY3RsIGNvbmZpZyB1c2UtY29udGV4dCAke2NvbnRleHQua3ViZXJuZXRlc0NvbnRleHR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
