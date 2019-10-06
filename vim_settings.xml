@@ -87,6 +87,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/vault.yaml" timestamp="1570386911407">
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="24" />
+        <mark key="^" line="95" column="24" />
+        <mark key="." line="95" column="24" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/cluster/output.tf" timestamp="1569427568919">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="40" />
@@ -130,11 +136,11 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/ingress-node-pool.tf" timestamp="1570348205139">
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="47" />
-        <mark key="^" line="34" column="1" />
-        <mark key="." line="23" column="47" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/ingress-node-pool.tf" timestamp="1570386303278">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="75" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1562255895974">
         <mark key="[" line="7" column="14" />
@@ -171,9 +177,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/mgmt-node-pool.tf" timestamp="1570383382511">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="34" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/mgmt-node-pool.tf" timestamp="1570386300332">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="75" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="32" column="0" />
       </file>
@@ -341,11 +347,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/backend-node-pool.tf" timestamp="1570348142733">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-        <mark key="^" line="36" column="7" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/backend-node-pool.tf" timestamp="1570386306293">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="75" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/network/output.tf" timestamp="1569436021599">
         <mark key="[" line="29" column="47" />
@@ -752,13 +758,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>roles/cloudkms.cryptoKeyEncrypterDecrypter</text>
+        <text>gcp-sa</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
       <register name="0" type="4">
-        <text>node-role.kubernetes.io/mgmt</text>
+        <text>https://cloud.google.com/docs/authentication/getting-started</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
@@ -847,8 +853,8 @@
         <entry>51</entry>
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action CommentByLineComment</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoDeclaration</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
