@@ -136,9 +136,9 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/ingress-node-pool.tf" timestamp="1570386303278">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="75" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/ingress-node-pool.tf" timestamp="1570390657216">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="27" column="3" />
         <mark key="." line="28" column="0" />
       </file>
@@ -189,11 +189,11 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1569944212642">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-        <mark key="^" line="44" column="1" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1570391038979">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1569876615499">
         <mark key="'" line="39" column="11" />
@@ -313,12 +313,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" timestamp="1570384164522">
-        <mark key="'" line="74" column="48" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="61" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="75" column="28" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" timestamp="1570390977428">
+        <mark key="'" line="81" column="48" />
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="27" column="61" />
+        <mark key="^" line="27" column="61" />
+        <mark key="." line="27" column="61" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveArtifactGCS.groovy" timestamp="1562604283901">
         <mark key="[" line="7" column="4" />
@@ -328,6 +328,12 @@
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/network/main.tf" timestamp="1570349152708">
         <mark key="'" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/variables.tf" timestamp="1570390996539">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/ArchiveArtifactGCS.groovy" timestamp="1563011272341">
         <mark key="[" line="52" column="151" />
@@ -347,10 +353,7 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/backend-node-pool.tf" timestamp="1570386306293">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="75" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/backend-node-pool.tf" timestamp="1570390651806">
         <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/network/output.tf" timestamp="1569436021599">
@@ -758,46 +761,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>vault</text>
+        <text>${google_service_account.nodepool_service_account.email</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
-      <register name="0" type="4">
-        <text>https://cloud.google.com/docs/authentication/getting-started</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9rbXNfY3J5cHRvX2tleV9pYW1fbWVtYmVyIiAibm9kZXBvb2xfa21zX3JlYWRfcm9sZSIgewogIGNyeXB0b19rZXlfaWQgPSBnb29nbGVfa21zX2NyeXB0b19rZXkudmF1bHRfa21zX2tleS5pZAogIHJvbGUgICAgICAgICAgPSAicm9sZXMvY2xvdWRrbXMuY3J5cHRvS2V5RW5jcnlwdGVyRGVjcnlwdGVyIgogIG1lbWJlciAgICAgICAgPSAic2VydmljZUFjY291bnQ6JHtnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbH0iCn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb2xlICAgICAgICAgID0gIiIK</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtZW1iZXIgPSAiIgo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzZXJ2aWNlX2FjY291bnQgPSBnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbAo=</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfa21zX2NyeXB0b19rZXlfaWFtX21lbWJlciIgIm5vZGVwb29sX2ttc19yZWFkX3JvbGUiIHsKICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQKICByb2xlICAgICAgICAgID0gInJvbGVzL2Nsb3Vka21zLmNyeXB0b0tleUVuY3J5cHRlckRlY3J5cHRlciIKICBtZW1iZXIgICAgICAgID0gInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5ub2RlcG9vbF9zZXJ2aWNlX2FjY291bnQuZW1haWx9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dGgK</text>
+        <text encoding="base64">Ly8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmljZS0yNzExNDY3NjkzNTRAZ3MtcHJvamVjdC1hY2NvdW50cy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbQo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVtYWlsICA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQuamVua2lucy1zZXJ2aWNlLWFjY291bnQuZW1haWwK</text>
+        <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByb2xlICAgICAgICAgID0gIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -852,9 +855,9 @@
         <entry>55</entry>
         <entry>51</entry>
         <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
