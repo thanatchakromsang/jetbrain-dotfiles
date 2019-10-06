@@ -87,11 +87,11 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/vault.yaml" timestamp="1570386911407">
-        <mark key="[" line="95" column="16" />
-        <mark key="]" line="95" column="24" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="95" column="24" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/vault.yaml" timestamp="1570388375911">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="18" />
+        <mark key="^" line="98" column="18" />
+        <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/main/cluster/output.tf" timestamp="1569427568919">
         <mark key="[" line="1" column="43" />
@@ -758,7 +758,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>gcp-sa</text>
+        <text>vault</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
