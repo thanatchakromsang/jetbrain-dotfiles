@@ -307,12 +307,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" timestamp="1570357027121">
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" timestamp="1570382742873">
+        <mark key="'" line="74" column="48" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/vars/stageArchiveArtifactGCS.groovy" timestamp="1562604283901">
         <mark key="[" line="7" column="4" />
@@ -400,9 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="5" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
-      <jump line="77" column="30" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
-      <jump line="39" column="19" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="6" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
       <jump line="124" column="39" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
@@ -500,6 +497,9 @@
       <jump line="112" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/jenkins/main.tf" />
       <jump line="127" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/jenkins/main.tf" />
       <jump line="131" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/jenkins/main.tf" />
+      <jump line="35" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
+      <jump line="74" column="48" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -752,46 +752,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;global&quot;</text>
+        <text>9,192,631,770s</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVtYWlsICA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQuamVua2lucy1zZXJ2aWNlLWFjY291bnQuZW1haWwK</text>
+      <register name="0" type="4">
+        <text>google_kms_key_ring.vault_kms_keyring.self_link</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBzZXJ2aWNlX2FjY291bnQgPSBnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbAo=</text>
+        <text encoding="base64">ICByb2xlICAgICAgICAgID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dGgK</text>
+        <text encoding="base64">ICBtZW1iZXIgPSAiIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtYWlsICA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQuamVua2lucy1zZXJ2aWNlLWFjY291bnQuZW1haWwK</text>
+        <text encoding="base64">CiAgICBzZXJ2aWNlX2FjY291bnQgPSBnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9zZXJ2aWNlX2FjY291bnQiICJub2RlcG9vbF9zZXJ2aWNlX2FjY291bnQiIHsKICBhY2NvdW50X2lkICAgPSAibm9kZXBvb2wtc2VydmljZS1hY2NvdW50cyIKICBkaXNwbGF5X25hbWUgPSAiVXNlIGluIEt1YmVybmV0ZXMgTm9kZXBvb2wgdG8gS01TIEtleS9HQ1MgQnVja2V0cyIKfQoKcmVzb3VyY2UgImdvb2dsZV9zdG9yYWdlX2J1Y2tldF9pYW1fbWVtYmVyIiAibm9kZXBvb2xfdmF1bHRfYWRtaW4iIHsKICBidWNrZXQgICAgICA9IGdvb2dsZV9zdG9yYWdlX2J1Y2tldC52YXVsdF9iYWNrZW5kX3N0b3JhZ2UubmFtZQogIHJvbGUgICAgICAgID0gInJvbGVzL3N0b3JhZ2UuYWRtaW4iCiAgbWVtYmVyICAgICAgPSAic2VydmljZUFjY291bnQ6JHtnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbH0iCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgIGVtYWlsICA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQuamVua2lucy1zZXJ2aWNlLWFjY291bnQuZW1haWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIE5PREVQT09MIFNFUlZJQ0UgQUNDT1VOVCAjIyMKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
