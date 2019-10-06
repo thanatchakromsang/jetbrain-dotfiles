@@ -171,9 +171,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/mgmt-node-pool.tf" timestamp="1570351460154">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/mgmt-node-pool.tf" timestamp="1570383382511">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="34" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="32" column="0" />
       </file>
@@ -758,7 +758,7 @@
         <text>service</text>
       </register>
       <register name="0" type="4">
-        <text>google_kms_key_ring.vault_kms_keyring.self_link</text>
+        <text>node-role.kubernetes.io/mgmt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
