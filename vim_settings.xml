@@ -395,6 +395,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/README.md" timestamp="1570393582129">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1569944007139">
         <mark key="[" line="55" column="34" />
         <mark key="]" line="55" column="52" />
@@ -761,46 +767,46 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>${google_service_account.nodepool_service_account.email</text>
+        <text>downloaded</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImdvb2dsZV9rbXNfY3J5cHRvX2tleV9pYW1fbWVtYmVyIiAibm9kZXBvb2xfa21zX3JlYWRfcm9sZSIgewogIGNyeXB0b19rZXlfaWQgPSBnb29nbGVfa21zX2NyeXB0b19rZXkudmF1bHRfa21zX2tleS5pZAogIHJvbGUgICAgICAgICAgPSAicm9sZXMvY2xvdWRrbXMuY3J5cHRvS2V5RW5jcnlwdGVyRGVjcnlwdGVyIgogIG1lbWJlciAgICAgICAgPSAic2VydmljZUFjY291bnQ6JHtnb29nbGVfc2VydmljZV9hY2NvdW50Lm5vZGVwb29sX3NlcnZpY2VfYWNjb3VudC5lbWFpbH0iCn0K</text>
+        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
+        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
+        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfa21zX2NyeXB0b19rZXlfaWFtX21lbWJlciIgIm5vZGVwb29sX2ttc19yZWFkX3JvbGUiIHsKICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQKICByb2xlICAgICAgICAgID0gInJvbGVzL2Nsb3Vka21zLmNyeXB0b0tleUVuY3J5cHRlckRlY3J5cHRlciIKICBtZW1iZXIgICAgICAgID0gInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5ub2RlcG9vbF9zZXJ2aWNlX2FjY291bnQuZW1haWx9Igo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8KCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmljZS0yNzExNDY3NjkzNTRAZ3MtcHJvamVjdC1hY2NvdW50cy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbQo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb2xlICAgICAgICAgID0gIiIK</text>
+        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfa21zX2NyeXB0b19rZXlfaWFtX21lbWJlciIgIm5vZGVwb29sX2ttc19yZWFkX3JvbGUiIHsKICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQKICByb2xlICAgICAgICAgID0gInJvbGVzL2Nsb3Vka21zLmNyeXB0b0tleUVuY3J5cHRlckRlY3J5cHRlciIKICBtZW1iZXIgICAgICAgID0gInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5ub2RlcG9vbF9zZXJ2aWNlX2FjY291bnQuZW1haWx9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
