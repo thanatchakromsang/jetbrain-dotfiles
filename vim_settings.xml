@@ -417,12 +417,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1573990274491">
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1573991458118">
         <mark key="'" line="7" column="42" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="157" column="74" />
-        <mark key="^" line="157" column="74" />
+        <mark key="[" line="84" column="59" />
+        <mark key="]" line="84" column="51" />
+        <mark key="." line="84" column="51" />
+        <mark key="^" line="84" column="51" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/main.tf" timestamp="1570351068884">
         <mark key="[" line="2" column="1" />
@@ -793,28 +793,28 @@
         <text>google_sql_database_instance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYl9lbmdpbmUgICAgICAgID0gIlBPU1RHUkVTXzExIgo=</text>
+        <text encoding="base64">ICAgIGF2YWlsYWJpbGl0eV90eXBlID0gIlJFR0lPTkFMIgo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgTwo=</text>
+        <text encoding="base64">ICAgICJnb29nbGVfc2VydmljZV9uZXR3b3JraW5nX2Nvbm5lY3Rpb24ucHJpdmF0ZV9kYXRhYmFzZV92cGNfY29ubmVjdGlvbiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkaXNrX3NpemUgPSBsb2NhbC5kaXNrX3NpemUKICAgIGRpc2tfdHlwZSA9IGxvY2FsLmRpc2tfdHlwZQo=</text>
+        <text encoding="base64">ICBkYl9lbmdpbmUgICAgICAgID0gIlBPU1RHUkVTXzExIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
+        <text encoding="base64">ICAgICMgTwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
+        <text encoding="base64">CiAgICBkaXNrX3NpemUgPSBsb2NhbC5kaXNrX3NpemUKICAgIGRpc2tfdHlwZSA9IGxvY2FsLmRpc2tfdHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lID0gIiR7dmFyLnByb2plY3RfbmFtZX0tJHt2YXIuZW52fS1kYXRhYmFzZS0ke3JhbmRvbV9pZC5kYl9uYW1lX3N1ZmZpeC5oZXh9IgogIHJlZ2lvbiA9IHZhci5yZWdpb24KCg==</text>
+        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
@@ -823,7 +823,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVwZW5kc19vbiA9IFsKICAgICJnb29nbGVfc2VydmljZV9uZXR3b3JraW5nX2Nvbm5lY3Rpb24ucHJpdmF0ZV9kYXRhYmFzZV92cGNfY29ubmVjdGlvbiIsCiAgICBnb29nbGVfc3FsX2RhdGFiYXNlX2luc3RhbmNlLm1hc3RlcgogIF0K</text>
+        <text encoding="base64">ICBuYW1lID0gIiR7dmFyLnByb2plY3RfbmFtZX0tJHt2YXIuZW52fS1kYXRhYmFzZS0ke3JhbmRvbV9pZC5kYl9uYW1lX3N1ZmZpeC5oZXh9IgogIHJlZ2lvbiA9IHZhci5yZWdpb24KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -862,7 +862,6 @@
         <entry>private_database_ip_addres</entry>
       </history-search>
       <history-cmd>
-        <entry>89</entry>
         <entry>6</entry>
         <entry>15</entry>
         <entry encoding="base64">JzwsJz4xMA==</entry>
@@ -881,6 +880,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>78</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
