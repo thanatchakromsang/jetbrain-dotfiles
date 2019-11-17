@@ -21,6 +21,9 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
+      <file name="/a.dummy" timestamp="1573989314621">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1569757184547">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="28" />
@@ -56,6 +59,12 @@
         <mark key="]" line="35" column="63" />
         <mark key="." line="35" column="63" />
         <mark key="^" line="35" column="63" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/output.tf" timestamp="1573989929732">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+        <mark key="^" line="9" column="59" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/variables.tf" timestamp="1563675344404">
         <mark key="[" line="9" column="22" />
@@ -189,11 +198,11 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1570391038979">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-        <mark key="^" line="21" column="46" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1573990478053">
+        <mark key="[" line="46" column="36" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1569876615499">
         <mark key="'" line="39" column="11" />
@@ -254,6 +263,12 @@
         <mark key="]" line="29" column="56" />
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
+      </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/output.tf" timestamp="1573990174856">
+        <mark key="[" line="5" column="74" />
+        <mark key="]" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/Build.groovy" timestamp="1562603240303">
         <mark key="[" line="8" column="0" />
@@ -390,10 +405,11 @@
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="87" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/variable.tf" timestamp="1569943920948">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/variable.tf" timestamp="1573988834047">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/README.md" timestamp="1570393582129">
         <mark key="[" line="38" column="12" />
@@ -401,11 +417,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1569944007139">
-        <mark key="[" line="55" column="34" />
-        <mark key="]" line="55" column="52" />
-        <mark key="." line="55" column="52" />
-        <mark key="^" line="55" column="52" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1573990274491">
+        <mark key="'" line="7" column="42" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="157" column="74" />
+        <mark key="^" line="157" column="74" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/main.tf" timestamp="1570351068884">
         <mark key="[" line="2" column="1" />
@@ -415,32 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
-      <jump line="6" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
-      <jump line="124" column="39" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="11" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="90" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/gke/main.tf" />
-      <jump line="81" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="95" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="99" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="7" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="27" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="39" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/main.tf" />
-      <jump line="67" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="116" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="57" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="60" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="62" column="29" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="77" column="28" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="95" column="21" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="99" column="57" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="100" column="41" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="105" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="106" column="34" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
-      <jump line="15" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
-      <jump line="6" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
-      <jump line="48" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/main.tf" />
-      <jump line="0" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
       <jump line="77" column="8" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
       <jump line="79" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/instances.tf" />
       <jump line="90" column="53" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
@@ -515,6 +506,32 @@
       <jump line="35" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
       <jump line="74" column="48" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/service-account.tf" />
+      <jump line="58" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="70" column="12" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="8" column="17" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="63" column="21" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="71" column="15" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="87" column="11" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="73" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="109" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="61" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="14" column="1" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="25" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="142" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="57" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="141" column="51" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="86" column="20" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="140" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="4" column="18" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="41" column="22" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="3" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="144" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="89" column="16" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="115" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="56" column="6" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="20" column="63" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="7" column="42" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -767,55 +784,55 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>downloaded</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>service</text>
+        <text>private_database_ip_addres</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
+      <register name="0" type="4">
+        <text>google_sql_database_instance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYl9lbmdpbmUgICAgICAgID0gIlBPU1RHUkVTXzExIgo=</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
+        <text encoding="base64">ICAgICMgTwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2Nsb3VkIGttcyBkZWNyeXB0IFwKICAtLWxvY2F0aW9uPWFzaWEtc291dGhlYXN0MSBcCiAgLS1rZXlyaW5nPWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5LXJpbmcgXAogIC0ta2V5PWludmVzdG1lbnQtcGxhdGZvcm0tbm9ucHJvZC12YXVsdC1rbXMta2V5IFwKICAtLWNpcGhlcnRleHQtZmlsZT0vaG9tZS90aGFuYXRjaGF5YS9Eb3dubG9hZHMvdmF1bHQtcm9vdCBcCiAgLS1wbGFpbnRleHQtZmlsZT12YXVsdC1yb290LmRlYwo=</text>
+        <text encoding="base64">CiAgICBkaXNrX3NpemUgPSBsb2NhbC5kaXNrX3NpemUKICAgIGRpc2tfdHlwZSA9IGxvY2FsLmRpc2tfdHlwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfYWNjb3VudCA9IGdvb2dsZV9zZXJ2aWNlX2FjY291bnQubm9kZXBvb2xfc2VydmljZV9hY2NvdW50LmVtYWlsCgo=</text>
+        <text encoding="base64">ICBuYW1lID0gIiR7dmFyLnByb2plY3RfbmFtZX0tJHt2YXIuZW52fS1kYXRhYmFzZS0ke3JhbmRvbV9pZC5kYl9uYW1lX3N1ZmZpeC5oZXh9IgogIHJlZ2lvbiA9IHZhci5yZWdpb24KCg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnJlc291cmNlICJnb29nbGVfa21zX2NyeXB0b19rZXlfaWFtX21lbWJlciIgIm5vZGVwb29sX2ttc19yZWFkX3JvbGUiIHsKICBjcnlwdG9fa2V5X2lkID0gZ29vZ2xlX2ttc19jcnlwdG9fa2V5LnZhdWx0X2ttc19rZXkuaWQKICByb2xlICAgICAgICAgID0gInJvbGVzL2Nsb3Vka21zLmNyeXB0b0tleUVuY3J5cHRlckRlY3J5cHRlciIKICBtZW1iZXIgICAgICAgID0gInNlcnZpY2VBY2NvdW50OiR7Z29vZ2xlX3NlcnZpY2VfYWNjb3VudC5ub2RlcG9vbF9zZXJ2aWNlX2FjY291bnQuZW1haWx9Igo=</text>
+        <text encoding="base64">CiAgZGVwZW5kc19vbiA9IFsKICAgICJnb29nbGVfc2VydmljZV9uZXR3b3JraW5nX2Nvbm5lY3Rpb24ucHJpdmF0ZV9kYXRhYmFzZV92cGNfY29ubmVjdGlvbiIsCiAgICBnb29nbGVfc3FsX2RhdGFiYXNlX2luc3RhbmNlLm1hc3RlcgogIF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>service</last-search>
+      <last-search>private_database_ip_addres</last-search>
       <last-offset />
-      <last-pattern>service</last-pattern>
+      <last-pattern>private_database_ip_addres</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>allow-internal</last-substitute>
       <last-dir>1</last-dir>
@@ -823,10 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>management</entry>
-        <entry>utility</entry>
-        <entry>allow-internal</entry>
-        <entry>main_subnet_public_mgmt_name</entry>
         <entry>priv</entry>
         <entry>main_subnet</entry>
         <entry>main_subnet_pub_mgmt_cidr</entry>
@@ -843,6 +856,10 @@
         <entry>bucket</entry>
         <entry>region</entry>
         <entry>service</entry>
+        <entry>database_instance</entry>
+        <entry>disk_type</entry>
+        <entry>private_network</entry>
+        <entry>private_database_ip_addres</entry>
       </history-search>
       <history-cmd>
         <entry>89</entry>
@@ -850,7 +867,6 @@
         <entry>15</entry>
         <entry encoding="base64">JzwsJz4xMA==</entry>
         <entry>91</entry>
-        <entry>action GotoFile</entry>
         <entry>69</entry>
         <entry>87</entry>
         <entry>100</entry>
@@ -863,6 +879,7 @@
         <entry>action ActivateTerminalToolWindow</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
