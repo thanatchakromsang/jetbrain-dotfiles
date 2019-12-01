@@ -36,11 +36,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" timestamp="1575219647294">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" timestamp="1575223151253">
+        <mark key="'" line="34" column="5" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/stage/BuildAndPushToRegistry.groovy" timestamp="1562603355905">
         <mark key="[" line="39" column="0" />
@@ -163,6 +164,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/variable.tf" timestamp="1575220950191">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/jenkins/variables.tf" timestamp="1562255895974">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="14" />
@@ -209,12 +215,6 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
-      </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/main/cluster/main.tf" timestamp="1575219655700">
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="62" column="68" />
-        <mark key="." line="62" column="68" />
-        <mark key="^" line="62" column="68" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/jenkins-pipeline-library/src/com/opxerve/Context.groovy" timestamp="1569876615499">
         <mark key="'" line="39" column="11" />
@@ -414,10 +414,10 @@
         <mark key="^" line="6" column="87" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/variable.tf" timestamp="1573988834047">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/helm/helm-charts/vault/README.md" timestamp="1570393582129">
         <mark key="[" line="38" column="12" />
@@ -425,12 +425,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1575219568119">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="156" column="1" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" timestamp="1575223187918">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/gke/main.tf" timestamp="1570351068884">
         <mark key="[" line="2" column="1" />
@@ -440,11 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="43" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
-      <jump line="87" column="53" filename="$USER_HOME$/Developer/robowealth.co.th/odini-terraform-infrastructure/modules/default/firewalls.tf" />
-      <jump line="32" column="4" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/gke/main.tf" />
-      <jump line="24" column="27" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpn/main.tf" />
-      <jump line="11" column="25" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" />
       <jump line="24" column="38" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" />
       <jump line="25" column="50" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" />
       <jump line="29" column="2" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/modules/vpc/main.tf" />
@@ -539,15 +534,20 @@
       <jump line="8" column="45" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
       <jump line="32" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
       <jump line="84" column="36" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="20" column="3" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" />
+      <jump line="14" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" />
+      <jump line="0" column="7" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database/main.tf" />
+      <jump line="22" column="0" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" />
+      <jump line="29" column="5" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" />
+      <jump line="30" column="5" filename="$USER_HOME$/Developer/robowealth.co.th/investment-platform-ops/terraform/modules/database-env-support/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'&quot;''&quot;&quot;{ '  println(&quot;Hello, World!&quot;)
+        <text>''&quot;''&quot;&quot;{ '  println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
   println(&quot;Hello, World!&quot;)
-' }&quot;&quot;''&quot;'</text>
+' }&quot;&quot;''&quot;''</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -783,7 +783,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>''</text>
       </register>
       <register name="j" type="4">
         <text>jjj</text>
@@ -792,55 +792,55 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text>es</text>
       </register>
       <register name="/" type="4">
-        <text>env</text>
+        <text>google_service_networking_connection.private_database_vpc_connection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXNlcnZlZF9wZWVyaW5nX3JhbmdlcyA9IGxpc3QoZ29vZ2xlX2NvbXB1dGVfZ2xvYmFsX2FkZHJlc3MucHJpdmF0ZV9kYXRhYmFzZV9pcF9hZGRyZXNzLm5hbWUpCg==</text>
+        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbJ3Jlc2VydmVkX3BlZXJpbmdfcmFuZ2VzJ10KICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGF2YWlsYWJpbGl0eV90eXBlID0gIlJFR0lPTkFMIgo=</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
       <register name="q" type="4">
         <text>c</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJnb29nbGVfc2VydmljZV9uZXR3b3JraW5nX2Nvbm5lY3Rpb24ucHJpdmF0ZV9kYXRhYmFzZV92cGNfY29ubmVjdGlvbiIsCg==</text>
+      <register name="2" type="4">
+        <text>reerved_peering_ranges</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkYl9lbmdpbmUgICAgICAgID0gIlBPU1RHUkVTXzExIgo=</text>
+      <register name="3" type="4">
+        <text>''</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgTwo=</text>
+      <register name="4" type="4">
+        <text>reerved_peering_ranges</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBkaXNrX3NpemUgPSBsb2NhbC5kaXNrX3NpemUKICAgIGRpc2tfdHlwZSA9IGxvY2FsLmRpc2tfdHlwZQo=</text>
+      <register name="5" type="4">
+        <text>''</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
+      <register name="6" type="4">
+        <text>reserved_peering_ranges</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIFVuYWJsZSB0byB1c2UgbGlzdCgpLiBVc2Ugc3RhdGljIGxpc3QgaW5zdGVhZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>lh</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsaWZlY3ljbGUgewoKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lID0gIiR7dmFyLnByb2plY3RfbmFtZX0tJHt2YXIuZW52fS1kYXRhYmFzZS0ke3JhbmRvbV9pZC5kYl9uYW1lX3N1ZmZpeC5oZXh9IgogIHJlZ2lvbiA9IHZhci5yZWdpb24KCg==</text>
+        <text encoding="base64">ICByZXNlcnZlZF9wZWVyaW5nX3JhbmdlcyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>env</last-search>
+      <last-search>google_service_networking_connection.private_database_vpc_connection</last-search>
       <last-offset />
-      <last-pattern>env</last-pattern>
+      <last-pattern>google_service_networking_connection.private_database_vpc_connection</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>allow-internal</last-substitute>
       <last-dir>1</last-dir>
@@ -848,8 +848,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main_subnet_pub_mgmt_cidr</entry>
-        <entry>project_name</entry>
         <entry>dns</entry>
         <entry>google_iam_policy</entry>
         <entry>baseUrl</entry>
@@ -868,6 +866,8 @@
         <entry>private_database_ip_addres</entry>
         <entry>google_compute_global_address.private</entry>
         <entry>env</entry>
+        <entry>peering</entry>
+        <entry>google_service_networking_connection.private_database_vpc_connection</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
@@ -878,7 +878,6 @@
         <entry>100</entry>
         <entry>2</entry>
         <entry>action QuickImplementations</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>55</entry>
         <entry>51</entry>
@@ -889,6 +888,7 @@
         <entry>16</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
